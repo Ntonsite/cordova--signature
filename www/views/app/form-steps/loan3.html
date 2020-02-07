@@ -1,0 +1,42 @@
+<ion-view>
+  <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+        </button>
+  </ion-nav-buttons>
+  <ion-nav-title>
+    <span>TAARIFA ZA MKOPO</span>
+  </ion-nav-title>
+  <ion-content>
+    <form name="step3Form" ng-controller="Step3FormCtrl" novalidate>
+      <div class="list">
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Kiasi cha Mkopo</span>
+          <input type="number" placeholder="" name="kiasi_mkopo" value="{{kiasi_mkopo}}" ng-model="kiasi_mkopo" required>
+        </label>
+        <div class="item item-message" ng-if="step3Submitted && step3Form.kiasi_mkopo.$error.required">
+          Kiasi cha Mkopo kijazwe
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Ukomo (Miezi)</span>
+          <input type="number" placeholder="" name="ukomo_mkopo" value="{{ukomo_mkopo}}" ng-model="ukomo_mkopo" required>
+        </label>
+        <div class="item item-message" ng-if="step3Submitted && step3Form.ukomo_mkopo.$error.required">
+          Jaza ukomo wa Mkopo.
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Dhumuni la Mkopo</span>
+          <input type="textarea" cols="8" placeholder="Jaza dhumuni" name="mkopo_dhumuni" value="{{mkopo_dhumuni}}" ng-model="mkopo_dhumuni" required>
+        </label>
+      </div>
+    </form>
+  </ion-content>
+  <ion-footer-bar align-title="left" class="bar-positive">
+    <div class="buttons"  ui-sref="app.loan2">
+      <button class="button">Previous Step</button>
+    </div>
+    <h1 class="title">&nbsp;</h1>
+    <div class="buttons" ng-click="submit()" ui-sref="app.loan_done">
+      <button class="button">Next Step</button>
+    </div>
+  </ion-footer-bar>
+</ion-view>

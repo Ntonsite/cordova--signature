@@ -1,0 +1,222 @@
+<h1 id="ezarstartupkitreleasenotes">ezAR Startup Kit Release Notes</h1>
+
+<h2 id="021120170306">0.2.11 (20170306)</h2>
+
+<ol>
+<li>Bug fixes and minor enhancements. See the README file of each project for more details.</li>
+
+<li>Added ezar-ionic2-sidemenu example project to /demos directory</li>
+</ol>
+
+<p><strong>VideoOverlay Plugin Changes 0.2.11 (20170306)</strong></p>
+
+<ol>
+<li>New Camera api, getHorizontalViewAngle() &amp; getVerticalViewAngle()</li>
+
+<li>Android - fixed refresh issue when performing camera start(), stop(), start() sequence</li>
+</ol>
+
+<h2 id="021020170124">0.2.10 (20170124)</h2>
+
+<ol>
+<li>Bug fixes and minor enhancements. See the README file of each project for more details.</li>
+</ol>
+
+<p><strong>VideoOverlay Plugin Changes 0.2.10 (20170123)</strong></p>
+
+<ol>
+<li>iOS - handle multiple calls to initializeVideoOverlay().</li>
+
+<li>Android - added new android specific initializeVideoOverlay option 'fitWebViewToCameraView'.</li>
+
+<li>Android - fixed issue where [no camera preview size is selected]https://support.ezartech.com/index.php?p=/discussion/49/videooverlay-ezar-java-selectsizepair-return-null-value
+resulted in NPE.</li>
+</ol>
+
+<p><strong>Flashlight Plugin Changes 0.2.2 (20161229)</strong></p>
+
+<ol>
+<li>added additional flash detection for android and iOS devices.</li>
+</ol>
+
+<p><strong>Snapshot Plugin Changes 0.2.7 (20170112)</strong></p>
+
+<ol>
+<li>android - fix black snapshot image when plugin used standalone or when videoOverlay cameraView is excluded.</li>
+</ol>
+
+<h2 id="02920160921">0.2.9 (20160921)</h2>
+
+<ol>
+<li>Updated all example project config.xml files to include commented plugin entries for the
+alternative Crosswalk and WKWebView webviews. See the README file of each project for more details.</li>
+</ol>
+
+<p><strong>VideoOverlay Plugin Changes 0.2.9 (20160921)</strong></p>
+
+<ol>
+<li>iOS - added support for WKWebView</li>
+</ol>
+
+<h2 id="02820160915">0.2.8 (20160915)</h2>
+
+<ol>
+<li>Added ezar-facedetector example project</li>
+</ol>
+
+<p><strong>FaceDetector Plugin Changes 0.2.0 (20160915</strong></p>
+
+<ol>
+<li>initial release for Android and iOS platforms.</li>
+
+<li>iOS face detection is not available for iPad device. Coming Soon!</li>
+</ol>
+
+<p><strong>VideoOverlay Plugin Changes 0.2.8 (20160818)</strong></p>
+
+<ol>
+<li>iOS - added NSPhotoLibraryUsageDescription to plist, required for iOS 10</li>
+</ol>
+
+<p><strong>Snapshot Plugin Changes 0.2.6 (20160915)</strong></p>
+
+<ol>
+<li>iOS - added NSPhotoLibraryUsageDescription to plist, required for iOS 10</li>
+</ol>
+
+<h2 id="02720160901">0.2.7 (20160901)</h2>
+
+<ol>
+<li>Android - updated the VideoOverlay (v0.2.7) and Snapshot (v0.2.5) plugins to support 
+the <a href="https://crosswalk-project.org/">Crosswalk webview</a>.</li>
+</ol>
+
+<h2 id="02620160818">0.2.6 (20160818)</h2>
+
+<p><strong>VideoOverlay Plugin Changes 0.2.6 (20160818)</strong></p>
+
+<ol>
+<li>Android - rolled back agressive use of hardware acceleration. In some cases users reported slower performance. 
+Now uses device default hardware acceleration settings.</li>
+
+<li>Android - fixed compile issue on Cordova 5 and earlier versions</li>
+</ol>
+
+<p><strong>Snapshot Plugin Changes 0.2.4 (20160818)</strong></p>
+
+<ol>
+<li>Provide a custom name for the snapshot image when saved to the Android photo gallery (Android only). 
+Added name option property for snapshot(successCB,errorCB,options).</li>
+
+<li>Added new options to saveToPhotoGallery(imageBase64,successCB,errorCB,options). Options include:
+name (Android only), quality, scale, ImageEncoding) </li>
+</ol>
+
+<p><strong>Example Projects</strong></p>
+
+<ol>
+<li>Removed requirement for user to manually add plugins to example projects. Added plugin dependencies to config.xml.</li>
+
+<li>Added ezar-compass example project. </li>
+</ol>
+
+<h2 id="02520160620">0.2.5 (20160620)</h2>
+
+<p><strong>VideoOverlay Plugin Changes</strong></p>
+
+<ol>
+<li>Android - modified strategy for camera resolution selection and UI resizing to reduce letterbox mattes 
+(black bars on opposing sides of the UI when camera aspect ratio does not match the display area). This 
+change is most noticable when in fullscreen mode, a.k.a., immersive mode.</li>
+
+<li>Fixed error in initializeVideoOverlay(). On older OSes the JavaScript String.startsWith() method is not
+available.  </li>
+</ol>
+
+<p><strong>Snapshot Plugin Changes</strong></p>
+
+<ol>
+<li>New quality [0-100] and scale [0-100] options property for snapshot(successCB,errorCB,options). </li>
+
+<li>New saveToPhotoGallery(base64ImageData) function. Use this function along with the snapshot function 
+to implement a preview-before-save UI for selfies or other images you capture in your app.</li>
+</ol>
+
+<h2 id="02420160606">0.2.4 (20160606)</h2>
+
+<p><strong>VideoOverlay Plugin Changes</strong></p>
+
+<ol>
+<li>Added backgroundColor (#RRGGBB) property to initializeVideoOverlay options parameter. Set the background color visible when a camera is not running. This background color is 
+visible only when the HTML <body> background color is transperent.
+<strong>Snapshot Plugin Changes</strong></li>
+
+<li>Fixed distorted image on first snapshot for iOS devices. You must update the VideoOverlay plugin in your project to 0.2.4 or greater for 
+this fix to take effect.</li>
+
+<li>Added snapshot options 'includeCameraView' from the VideoOverlay plugin and  'includeWebView' to control the layers in the snapshot image.</li>
+
+<li>When 'includeCameraView' is false, the snapshot image background is set to  the videoOverlay background property</li>
+
+<li>A black image the size of the display is returned when both the cameraVieaw 
+and webView are omitted.  </li>
+</ol>
+
+<h2 id="02320160503">0.2.3 (20160503)</h2>
+
+<ol>
+<li>Fixed videoOverlay plugin render error on Galaxy S4. Removed unused setting of android picture size.</li>
+</ol>
+
+<h2 id="02220160310">0.2.2 (20160310)</h2>
+
+<ul>
+<li>Fix VideoOverlay plugin (v.0.2.2) to properly rotate video on iOS when device is rotated.</li>
+
+<li>Added camera shutter sound to Snapshot plugin (v0.2.1) for iOS devices.</li>
+
+<li>Added release notes doc to Flashlight plugin (v0.2.1)</li>
+</ul>
+
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <blockquote>
+              <p>origin/master</p>
+            </blockquote>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<h2 id="02120160309">0.2.1 (20160309)</h2>
+
+<p>Fixed configuration bug in hello-ezar example project that prevented the ezAR VideoOverlay plugin from starting.</p>
+
+<h2 id="020201603021">0.2.0 (20160302-1)</h2>
+
+<p>This update introduces snapshot support and is compatible with Cordova 4 and greater. <br />
+The Android implementation has been completely rewritten and fixes the preview aspect ratio issue from beta-1.</p>
+
+<h3 id="knownissues">Known Issues</h3>
+
+<ol>
+<li>Plugin error reporting still needs improvement.</li>
+</ol>
+
+<h2 id="010beta1">0.1.0 beta-1</h2>
+
+<p>This is the first public release of the ezAR Startup Kit.</p>
+
+<h2 id="knownissues-1">Known Issues</h2>
+
+<ol>
+<li>Camera view does not consistently maintain aspect ratio on device rotation</li>
+
+<li>Plugin error reporting needs improvement.</li>
+</ol>

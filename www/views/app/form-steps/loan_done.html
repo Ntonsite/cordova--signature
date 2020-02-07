@@ -1,0 +1,38 @@
+<ion-view>
+  <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+        </button>
+  </ion-nav-buttons>
+  <ion-nav-title>
+    <span>Thank You</span>
+  </ion-nav-title>
+  <ion-content>
+    <div class="list card">
+      <canvas id="signature" style="border: 1px solid black;"></canvas>
+      <img id="preview" />
+      <br>
+      <div style="text-align:center;">
+          <input type="button" id="export" value="Export"/>
+          <input type="button" id="reset" value="Reset"/>
+      </div>
+    </div>
+    <div class="list card">
+      <div class="item">
+        <button class="button" ng-click="goToCamera('Loan_Signature')">Sahihi ya Wakala</button>
+      </div>
+
+      <div class="item item-image">
+        <img ng-src="data:image/jpeg;base64,{{Loan_Signature}}">
+      </div>
+    </div>
+  </ion-content>
+  <ion-footer-bar align-title="left" class="bar-positive">
+    <div class="buttons"  ui-sref="app.loan3">
+      <button class="button">Previous Step</button>
+    </div>
+    <h1 class="title">&nbsp;</h1>
+    <div class="buttons" ng-click="submitLoan()" ui-sref="app.loan_done">
+      <button class="button">Submit</button>
+    </div>
+  </ion-footer-bar>
+</ion-view>

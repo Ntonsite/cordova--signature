@@ -1,0 +1,128 @@
+<ion-view >
+  <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+        </button>
+  </ion-nav-buttons>
+  <ion-nav-title>
+    <span>Step 1</span>
+  </ion-nav-title>
+  <ion-content>
+    <form name="step1Form" ng-controller="Step1FormCtrl" novalidate>
+      <div class="list">
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">First Name</span>
+          <input type="text" placeholder="" name="First_Name" value="{{First_Name}}" ng-model="First_Name" required>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.First_Name.$error.required">
+          First name is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Middle Name</span>
+          <input type="text" placeholder="" name="Middle_Name" value="{{Middle_Name}}" ng-model="Middle_Name" required>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.Middle_Name.$error.required">
+          Middle name is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Last Name</span>
+          <input type="text" placeholder="" name="Last_Name" value="{{Last_Name}}" ng-model="Last_Name" required>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.Last_Name.$error.required">
+          Last name is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Date Of Birth</span>
+          <input type="date" placeholder="" name="Date_Of_Birth" value="{{Date_Of_Birth}}" ng-model="Date_Of_Birth"   required>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.Date_Of_Birth.$error.required">
+          Date of Birth is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Place of Birth (Region)</span>
+          <input type="text" placeholder="" name="Birth_Region" value="{{Birth_Region}}" ng-model="Birth_Region"   required>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.Birth_Region.$error.required">
+          Region is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Place Of Birth (District)</span>
+          <input type="text" placeholder="" name="Birth_District" value="{{Birth_District}}" ng-model="Birth_District"   required>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.Birth_District.$error.required">
+          District is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Place Of Birth (Ward)</span>
+          <input type="text" placeholder="" name="Birth_Ward" value="{{Birth_Ward}}" ng-model="Birth_Ward"   required>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.Birth_Ward.$error.required">
+          Ward is required
+        </div>
+        <label class="item item-input item-select">
+          <div class="input-label">
+            Marriage
+          </div>
+          <select name="Marriage" ng-model="Marriage" value='{{Marriage}}' >
+            <option value='Married' >Married</option>
+            <option value='Divorced'>Divorced</option>
+            <option value='Widowed'>Widowed</option>
+            <option value='single'>Single</option>
+          </select>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.Marriage.$error.required">
+         Marriage is required
+        </div>
+        <label class="item item-input item-select">
+          <div class="input-label">
+            Gender
+          </div>
+          <select name="Gender" ng-model="Gender" value='{{Gender}}' >
+            <option value='Male' selected>Male</option>
+            <option value='Female'>Female</option>
+          </select>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.Gender.$error.required">
+         Gender is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Father Name</span>
+          <input type="text" placeholder="" name="Father_Name" value="{{Father_Name}}" ng-model="Father_Name" required>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.Father_Name.$error.required">
+          Father's name is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Mother Name</span>
+          <input type="text" placeholder="" name="Mother_Name" value="{{Mother_Name}}" ng-model="Mother_Name" required>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.Mother_Name.$error.required">
+          Mother's name is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Account Type</span>
+          <input type="text" placeholder="" name="Account_Type" value="{{Account_Type}}" ng-model="Account_Type" required>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.Account_Type.$error.required">
+          Account Type is required
+        </div>
+
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Number Of Family Members</span>
+          <input type="number" placeholder="" name="Number_of_Family_Members" value="{{Number_of_Family_Members}}" ng-model="Number_of_Family_Members" required>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.Number_of_Family_Members.$error.required">
+          Number of family members is required
+        </div>
+      </div>
+    </form>
+  </ion-content>
+  <ion-footer-bar align-title="left" class="bar-positive">
+    <div class="buttons">
+      <button class="button">Previous Step</button>
+    </div>
+    <h1 class="title">&nbsp;</h1>
+    <div class="buttons" ng-click="submit()" ui-sref="app.step2">
+      <button class="button" >Next Step</button>
+    </div>
+  </ion-footer-bar>
+</ion-view>

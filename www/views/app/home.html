@@ -1,0 +1,21 @@
+<ion-view class="home-view">
+  <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+        </button>
+  </ion-nav-buttons>
+  <ion-nav-title>
+    <span>Recents</span>
+  </ion-nav-title>
+  <ion-content>
+
+    <!-- Refresh to get the new posts -->
+    <ion-refresher pulling-text="Pull to refresh..." on-refresh="doRefresh()">
+    </ion-refresher>
+
+    <div post-card ng-repeat="post in posts"></div>
+
+    <!-- Infinit scroll -->
+    <ion-infinite-scroll ng-if="moreDataCanBeLoaded()" on-infinite="loadMoreData()" distance="1%">
+    </ion-infinite-scroll>
+  </ion-content>
+</ion-view>

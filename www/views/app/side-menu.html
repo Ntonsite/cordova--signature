@@ -1,0 +1,50 @@
+<ion-side-menus enable-menu-with-back-views="false">
+  <ion-side-menu-content class="post-size-14px">
+    <ion-nav-bar class="bar app-top-bar">
+      <!--<ion-nav-back-button>
+      </ion-nav-back-button>-->
+    </ion-nav-bar>
+    <ion-nav-view name="menuContent"></ion-nav-view>
+  </ion-side-menu-content>
+  <ion-side-menu class="main-menu camera-view" side="left" width="230">
+    <ion-content >
+      <ion-list>
+        <ion-item class="heading-item item" nav-clear menu-close ui-sref="app.settings">
+          <pre-img ratio="_1_1">
+            <img class="user-image" src="img/icon.png" spinner-on-load>
+          </pre-img>
+          <div class="heading-bg">
+          </div>
+          <div class="heading-action item-icon-left">
+            <i class="icon ion-gear-a"></i>
+            <h2 class="greeting">Settings</h2>
+          </div>
+        </ion-item>
+        <ion-item class="item item-icon-left" nav-clear menu-close ui-sref="app.step1">
+          <i class="icon ion-person-add"></i>
+          <h2 class="menu-text">AKAUNTI</h2>
+        </ion-item>
+        <ion-item class="item item-icon-left" nav-clear menu-close ui-sref="app.loan1">
+          <i class="icon ion-plus-circled"></i>
+          <h2 class="menu-text">MKOPO</h2>
+        </ion-item>
+        <ion-item class="item item-icon-left" nav-clear menu-close ui-sref="app.home">
+          <i class="icon ion-minus-circled"></i>
+          <h2 class="menu-text">Pending Accounts</h2>
+        </ion-item>
+        <ion-item class="item item-icon-left" nav-clear menu-close ui-sref="app.approved">
+          <i class="icon ion-checkmark-circled"></i>
+          <h2 class="menu-text">Approved Accounts</h2>
+        </ion-item>
+         <ion-item class="item item-icon-left" nav-clear menu-close ui-sref="app.rejected">
+          <i class="icon ion-trash-b"></i>
+          <h2 class="menu-text">Rejected Accounts</h2>
+        </ion-item>
+        <ion-item class="item item-icon-left" nav-clear menu-close ui-sref="app.bookmarks">
+          <i class="icon ion-bookmark"></i>
+          <h2 class="menu-text">Saved</h2>
+        </ion-item>
+      </ion-list>
+    </ion-content>
+  </ion-side-menu>
+</ion-side-menus>

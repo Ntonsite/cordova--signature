@@ -1,0 +1,32 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: caa-updated.apk
+compressionType: false
+doNotCompress:
+- arsc
+- png
+- assets/www/lib/angular/angular.min.js.gzip
+- scss
+- assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/resources/ios/icon/icon-83.5@2x.png
+- ico
+- woff
+- woff2
+- js
+- gif
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '14'
+  targetSdkVersion: '23'
+sharedLibrary: false
+sparseResources: true
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.4
+versionInfo:
+  versionCode: '103008'
+  versionName: 1.3.0

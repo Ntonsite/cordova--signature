@@ -1,0 +1,69 @@
+<h1 id="ezarstartupkitcordovaplugin">ezAR Startup Kit Cordova Plugin</h1>
+
+<p>Develop augmented reality applications using the ezAR Startup Kit. The ezAR Startup Kit includes <br />
+4 ezAR Cordova plugins, example projects and getting started documentation. ezAR functionality <br />
+is divided among the following plugins:</p>
+
+<pre><code>com.ezartech.ezar.videooverlay - overlay camera view with Cordova WebView
+com.ezartech.ezar.facedetector - detect faces in the videooverlay plugin's camera view
+com.ezartech.ezar.flashlight - control the device light
+com.ezartech.ezar.snapshot - capture an image of the app user interface
+</code></pre>
+
+<p>You can mix and match the plugins based on the functionality of your app. The VideoOverlay plugin <br />
+positions a camera view below the Cordova WebView component. ezAR provides access to the back and front <br />
+device cameras. When a camera is started its output is displayed on the ezAR camera view. By default <br />
+the camera view is not visible as it is masked off by the WebView's HTML content. Increase the transparency <br />
+for the area(s) of the app UI (html) where you wish to see the camera view.</p>
+
+<p><strong>Notes</strong></p>
+
+<ul>
+<li>The VideoOverlay and Flashlight plugins must be initialized before use. </li>
+
+<li>When using the Flashlight and VideoOverlay plugins together in an Android app, setting the light on <br />
+may not immediately turn the light on. Instead the light will only turn on when the camera on the same <br />
+side of the device as the light is running. This is due to the tight dependency between the camera and <br />
+light operations on Android devices where the light will not turn on if the camera is not running.</li>
+
+<li>The VideoOverlay plugin supports the optiona webviews such as Android Crosswalk. But iOS WKWebview is not yet support.</li>
+</ul>
+
+<h2 id="supportedplatforms">Supported Platforms</h2>
+
+<ul>
+<li>iOS 7 and greater</li>
+
+<li>Android 4.2 and greater, standard webview and <a href="https://crosswalk-project.org/">Crosswalk webview</a></li>
+</ul>
+
+<h2 id="gettingstarted">Getting Started</h2>
+
+<p>The simplest ezAR application involves adding the VideoOverlay plugin <br />
+to your Corodva project using the Cordova CLI</p>
+
+<pre><code>  cordova plugin add pathtoezar/com.ezartech.ezar.videooverlay
+</code></pre>
+
+<p>Next in your Cordova JavaScript deviceready handler include the following <br />
+JavaScript snippet to initialize the VideoOverlay plugin and activate the <br />
+camera on the back of the device, i.e., the camera away from the display.</p>
+
+<pre><code> ezar.initializeVideoOverlay(
+     function() {
+         ezar.getBackCamera().start();
+     },
+     function(err) {
+         alert('unable to init ezar: ' + err);
+ });
+</code></pre>
+
+<h2 id="additionaldocumentation">Additional Documentation</h2>
+
+<p>See <a href="http://ezartech.com">ezartech.com</a> for documentation and support.</p>
+
+<h2 id="license">License</h2>
+
+<p>The ezAR Startup Kit is licensed under a <a href="http://www.ezartech.com/ezarstartupkit-license">modified MIT license</a>.</p>
+
+<p>Copyright (c) 2015-2016, ezAR Technologies</p>

@@ -1,0 +1,3524 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: wtJI2d+C9L4M7AsoCJDNyu+xlAw=
+Created-By: 1.0 (Android)
+
+Name: assets/www/lib/moment/locale/hy-am.js
+SHA1-Digest: B5ix0b7dgHUU7nOlHKZrWqMPsX0=
+
+Name: assets/www/lib/moment/locale/be.js
+SHA1-Digest: SJ3ES50xBx1lNBfC2+V0lbXIpfo=
+
+Name: assets/www/lib/ngmap/build/docs/fusion-tables-layer.html
+SHA1-Digest: s/7Cw7cIPVhE2sV0YR4vODucAy8=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_margin.scs
+ s
+SHA1-Digest: 6MTJzvxn5sfwnzx539+pajr/iSI=
+
+Name: assets/www/lib/moment/src/locale/id.js
+SHA1-Digest: 3vAlgYJg6f+TTHWy6Y0gJNotBj4=
+
+Name: assets/www/views/app/form-steps/done.html
+SHA1-Digest: C/axQN1wIfQMoWaju4LHfzefxls=
+
+Name: assets/www/lib/moment/src/locale/uk.js
+SHA1-Digest: GoLhFYT/LNntfsFgwOcU2a6jNlM=
+
+Name: assets/www/lib/angular-moment/CONTRIBUTING.md
+SHA1-Digest: Q4uSumi6+l84h97ybhk/VdpGFkg=
+
+Name: assets/www/lib/ngmap/testapp/scripts/markerclusterer_packed.js
+SHA1-Digest: pJwKT7xfzjvi4GEeGI9xbIHMfqY=
+
+Name: assets/www/lib/moment/locale/nl.js
+SHA1-Digest: SWnl7vd8Ugmv8aww3nPlv6uQ//4=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/settings/_prefixer
+ .scss
+SHA1-Digest: 7BoXIrRyw4yhR7IM7wY2fg/fr5w=
+
+Name: assets/www/lib/moment/src/lib/duration/constructor.js
+SHA1-Digest: Cj9eP+IDz351E6UXMlEHOiZpjUA=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/README.md
+SHA1-Digest: r4YPocGtOPYDtLiHn5cOTjcR5qo=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/www/img/ar
+ row.png
+SHA1-Digest: TqKweq9PbqSiCidHxr1EjO8dSEw=
+
+Name: assets/www/views/common/pre-img.html
+SHA1-Digest: thgaGmxr1g2XU+5PJqzVMfIGXj0=
+
+Name: assets/www/lib/moment/src/lib/create/from-array.js
+SHA1-Digest: d1YdOywogiC6RVOfPfFwsI+jlBQ=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_border-image
+ .scss
+SHA1-Digest: IAdOxb8AQso7f6ngHLMVLIDZNBk=
+
+Name: res/drawable-xxhdpi-v4/ic_action_remove.png
+SHA1-Digest: 9Utk4+aXETSKYQP8/+rs1q75Fn8=
+
+Name: assets/www/lib/angular-ui-router/CHANGELOG.md
+SHA1-Digest: ods3qJmyHvaGREoLkNA5R+1Jo6o=
+
+Name: assets/www/lib/moment/src/lib/utils/is-array.js
+SHA1-Digest: TMjot9xGcoRQepQEZkmyfZw8/Eg=
+
+Name: assets/www/lib/ngmap/spec/services/attr2_options_spec.js
+SHA1-Digest: Dh+lk/sedTp3w+xsCwLbzAqWst8=
+
+Name: assets/www/lib/moment/src/lib/utils/defaults.js
+SHA1-Digest: fCVGMy8OT/2VKwj+0RqSOtLodEc=
+
+Name: assets/www/lib/moment/templates/amd-named.js
+SHA1-Digest: j0uH+ILKcK0792A1g2EeCZjB+aE=
+
+Name: assets/www/lib/angular-ui-router/CONTRIBUTING.md
+SHA1-Digest: lA0zE3YkxE8w8ihYe6NSrMRMwDE=
+
+Name: assets/www/lib/angular-sanitize/angular-sanitize.min.js.map
+SHA1-Digest: u614p8Xf9Go430Q6v4MxN3gA83Y=
+
+Name: assets/www/lib/moment/locale/et.js
+SHA1-Digest: hyuHH5gkGMbYLvD1WetSjNLLUPw=
+
+Name: res/drawable-xxhdpi-v4/ic_action_next_item.png
+SHA1-Digest: VCkMmGnd+0Re/Zh47VJcIYoV8xY=
+
+Name: assets/www/lib/ngmap/build/docs/styles/jsdoc-default.css
+SHA1-Digest: XYkPJ/xYW39kXXXPrDMnKoHwFCc=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_transition.s
+ css
+SHA1-Digest: Bt46Fr+mYx28KJEyw4BDE6mLtY8=
+
+Name: assets/www/lib/ngmap/testapp/map_options.html
+SHA1-Digest: /Z47kfUX76wod6FDMbvEP2/hMEY=
+
+Name: assets/www/lib/ngmap/build/docs/directives_drawing-manager.js.ht
+ ml
+SHA1-Digest: pxkhtXJcHdbNdDMcFPNkI+8rSRU=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/LICENSE
+SHA1-Digest: QY1zheEvkz6NqNoDGTtG2Mb56Fo=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: SxxZXsWrFwZnjVDn7QSbEUv5ox4=
+
+Name: assets/www/lib/ezar-startup-kit/LICENSE
+SHA1-Digest: +TEbCIKvbkDfTvTuOlSwwYKOlE8=
+
+Name: assets/www/lib/moment/src/lib/duration/as.js
+SHA1-Digest: uzA4l/L3V7liPo3J68092jcmsPE=
+
+Name: assets/www/lib/ngmap/testapp/layer-heatmap.html
+SHA1-Digest: 9WmbjEw4GZRFmlPDep87mD4ncYQ=
+
+Name: assets/www/lib/ngmap/build/docs/lazy-load.html
+SHA1-Digest: npDUGK2N6r/hPZfOYkq0n/gwCBk=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/helpers/_font-sour
+ ce-declaration.scss
+SHA1-Digest: +PS0vTrJch5/xVeZeaKCy5lrBVc=
+
+Name: assets/www/plugins/cordova-plugin-dialogs/www/android/notificati
+ on.js
+SHA1-Digest: j92wXmNo4MpUeLfGX8FeG7Wwddc=
+
+Name: assets/www/views/app/form-steps/step3.html
+SHA1-Digest: bpBBs4afmsUW52Jey6snC/xHqbs=
+
+Name: res/drawable-mdpi-v4/ic_action_previous_item.png
+SHA1-Digest: V4xdGX7AIrCXT0Ii5jKxZlGz/aE=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_border-col
+ or.scss
+SHA1-Digest: UKs1TY8RMW9GoweSJ5xzTRxgW+M=
+
+Name: assets/www/lib/moment/src/locale/be.js
+SHA1-Digest: kS1AD495rFC0r0N7B358JTspSlA=
+
+Name: assets/www/cordova-js-src/android/nativeapiprovider.js
+SHA1-Digest: 38WtpiAj5vmsHOuyTUe8kYOXH14=
+
+Name: assets/www/lib/moment/src/lib/moment/diff.js
+SHA1-Digest: 1q96kManmDU05cFcq1hYlPkh1iQ=
+
+Name: assets/www/lib/angular/angular.js
+SHA1-Digest: X1zZYXMFxb8J+4qG9orvuEMSGfM=
+
+Name: assets/www/lib/moment/src/locale/nl.js
+SHA1-Digest: rleep6eUxRqbgNirhM6LnkFCVww=
+
+Name: assets/www/lib/moment/locale/id.js
+SHA1-Digest: anQhuEhtIsSx+C/i/6be5ZtVeKk=
+
+Name: assets/www/lib/moment/min/tests.js
+SHA1-Digest: 5Ozu1gNFFdMElGrRDvEhtx7ZzYA=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/helpers/_direction
+ al-values.scss
+SHA1-Digest: PC41oFY+gRFGgcjrsylqn0V/Js4=
+
+Name: assets/www/lib/ngmap/build/docs/streetview-panorama.html
+SHA1-Digest: pshvpI/oZoMVkn1t/puCZerGN4Q=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon-40@2x.png
+SHA1-Digest: udLFlZJfSiY0uHyw+taLdE5GCuc=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.facede
+ tector/src/ios/CDVezARFaceDetector.h
+SHA1-Digest: l+2odZhKJUECoGhvzxj+NudOvM8=
+
+Name: assets/www/lib/ngmap/spec/services/navigator_geolocation_spec.js
+SHA1-Digest: oTCaN3nKxwDzEquQERk7pcrUPhg=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/src/ios/CDVezARVideoOverlay.m
+SHA1-Digest: 5ROvRQF6r8vQL9gnR3IwdEvO0O8=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/method.tmpl
+SHA1-Digest: F7SaOrfVldj5JZz40IAicIMKI28=
+
+Name: assets/www/lib/ngmap/testapp/layer-traffic.html
+SHA1-Digest: r1zuQLmtabf2vLo8E3ya+y2Ehfg=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/src/ios/CDVezARVideoOverlay.h
+SHA1-Digest: QHO9aCLlTSTZZy77nkGMJtuoCBo=
+
+Name: assets/www/lib/ngmap/services/street_view.js
+SHA1-Digest: M5gNTI+RMI65Qp55i7G209wnFKk=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.facede
+ tector/src/ios/CDVezARFaceDetector.m
+SHA1-Digest: Fsml3I0wzwnxVloGstrBH1E0gkg=
+
+Name: assets/www/lib/ngmap/testapp/icon-simple.html
+SHA1-Digest: npw1ClKWUtMLnWcxpbvQ6vM88c4=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_modular
+ -scale.scss
+SHA1-Digest: T+Wf+/mcKvIDB/k7sn0RwL9dgMc=
+
+Name: assets/www/lib/moment/src/locale/et.js
+SHA1-Digest: XHWxhpLtsaG874doqnDgyrWA0WQ=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_padding.sc
+ ss
+SHA1-Digest: IZ6PIuE301a4PV5+t1cW9jAR+Hg=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/src/android/PermissionHelper.java
+SHA1-Digest: bfV9ai76CMYRYJortNfnaVDz9f8=
+
+Name: assets/www/lib/ngmap/testapp/hello_map.html
+SHA1-Digest: UeQA64Dhe38flvs2NuNMpCSuBrc=
+
+Name: assets/www/lib/angular-sanitize/angular-sanitize.min.js
+SHA1-Digest: BeYJo3+QdBkQogiWp5EzfKJA6Ls=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.facede
+ tector/README.html
+SHA1-Digest: ZMMMOnQ3g0kit73sv3V5Z9h5sHY=
+
+Name: assets/www/lib/ionic/js/ionic-angular.js
+SHA1-Digest: JXspgfXJPS3Ei7JEe53UO8/A2Gc=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-72.png
+SHA1-Digest: Ub62LoFRT2wRlZ9L76BlXSK/jUE=
+
+Name: assets/www/lib/ngmap/testapp/polygon-draggable.html
+SHA1-Digest: /AcJIIM/L+7cNCFlPClHHkwlaWo=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.snapsh
+ ot/src/android/BasicWebviewBitmapProvider.java
+SHA1-Digest: OALPX5cXIJqA14mWKxrkFYnyvyI=
+
+Name: assets/www/lib/ngmap/testapp/map_with_current_position.html
+SHA1-Digest: dLEFX8gmvMuGQnPeNHaCJDNHnP4=
+
+Name: assets/www/lib/ngmap/testapp/layer-data-dynamic.html
+SHA1-Digest: P2zgepgZ3CiLA7gVoUX/vvcQvws=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/splash/Default-Portrait@2x~ipad.png
+SHA1-Digest: GzvYZc+6MOf4hANyTj17o/pKhzc=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/static/scripts/pretti
+ fy/Apache-License-2.0.txt
+SHA1-Digest: DONH7WHTOb07lG23KyLeOtBQwwc=
+
+Name: assets/www/lib/angular-youtube-mb/src/angular-youtube-embed.js
+SHA1-Digest: l+7M22t1SU/OGH2nFERwPzFEg/s=
+
+Name: assets/www/lib/moment/LICENSE
+SHA1-Digest: VOplXaRmmbYQ5tY2DDVXL7g825o=
+
+Name: assets/www/lib/moment/src/locale/fi.js
+SHA1-Digest: i7x/Q7UdetzSsvhWKWHyYtRiKjE=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/params.tmpl
+SHA1-Digest: m9eHpEtfvEupAVjmxE9W+FFl/pE=
+
+Name: assets/www/lib/ngmap/testapp/infowindow_compile.html
+SHA1-Digest: xyO1tOqvipnfyxZJYaeFy7onoNM=
+
+Name: assets/www/lib/moment/src/lib/duration/humanize.js
+SHA1-Digest: wjZOiZO7nbYvh8OTHQqeZePZldU=
+
+Name: assets/www/plugins/cordova-plugin-camera/www/CameraPopoverHandle
+ .js
+SHA1-Digest: d0mvvbaRtqLdbmgwsoqt9idaXaI=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/splash/Default@2x~iphone.png
+SHA1-Digest: oAbxovm+ltxsiTGv2ccWQiaElIM=
+
+Name: assets/www/js/config.js
+SHA1-Digest: NSDkTov6Gx45SGNE2WUFO+/a2no=
+
+Name: assets/www/lib/moment/locale/sr.js
+SHA1-Digest: +/fzlaVXIAQk5tRNiVb8YmOSXoQ=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_ellipsis.s
+ css
+SHA1-Digest: MPhe+Gjd/fg9UPVJGKxO4w3GwWI=
+
+Name: assets/www/views/app/home.html
+SHA1-Digest: 9J8bCMgkwGr8Xnpm4dtezRthuvs=
+
+Name: assets/www/lib/ezar-startup-kit/README.html
+SHA1-Digest: AXe/mbPP1njZ1zezPXUmNPxfiso=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/splash/drawable-land-mdpi-screen.png
+SHA1-Digest: qP2YXJi5D0FwNoG6MGf0j8CNMSk=
+
+Name: assets/www/lib/ngmap/testapp/marker_with_info_window.html
+SHA1-Digest: HxRMtjSMnjVcSlawXzBTV4IxH6I=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/plugin.xml
+SHA1-Digest: bd2Q8b4Fm1s2bX4OtuB84+zEQGM=
+
+Name: assets/www/lib/moment/src/locale/si.js
+SHA1-Digest: G1vapZ1+wqu+aAd7JMpOqH3CEsU=
+
+Name: assets/www/cordova-js-src/android/promptbasednativeapi.js
+SHA1-Digest: JIRUfP79NI5t078vJIq/tww/QEA=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/splash/drawable-port-xxhdpi-screen.png
+SHA1-Digest: YFPT5yASeCPpk2Z8ExN9gFIu0d0=
+
+Name: assets/www/lib/moment/src/locale/sr.js
+SHA1-Digest: uw9EC97q3JMruLttwrVh1gKyT+A=
+
+Name: assets/www/lib/ngmap/build/docs/directives_kml-layer.js.html
+SHA1-Digest: OTScoS135Z08OSjO50oTSSsYbCo=
+
+Name: assets/www/lib/moment/src/locale/bn.js
+SHA1-Digest: lq6p1HTzFRrWvM1Wx/Ctp1BDqp0=
+
+Name: assets/www/lib/ngmap/build/docs/maps-engine-layer.html
+SHA1-Digest: dQFcu/ikcaFXAIIxuxwDtQENTn8=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/roboto-bold.ttf
+SHA1-Digest: zcuPTXv5r4J4S3sbshVRSG/V4sE=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_contain
+ s-falsy.scss
+SHA1-Digest: 0yM503GJF4PcERt3m83JBlwKF0I=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/helpers/_linear-si
+ de-corner-parser.scss
+SHA1-Digest: wzMCfL9tnh+sXclF5aXjR6lcESc=
+
+Name: res/drawable-port-xxhdpi-v4/screen.png
+SHA1-Digest: 5Nkl8lCCqsTHuZ9OgrsbWU/gYWw=
+
+Name: assets/www/lib/moment/moment.js
+SHA1-Digest: R+eYu5lmtBLtIN6LY3J25MWAjNs=
+
+Name: assets/www/lib/moment/locale/bg.js
+SHA1-Digest: nzh2vblT3Wmbk/6yqxnKX2pUgcs=
+
+Name: assets/www/lib/moment/src/locale/ml.js
+SHA1-Digest: fG/X/x+BB3N6qaBCnpwqNn53uXE=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_transit
+ ion-property-name.scss
+SHA1-Digest: 3D/EqkwBPzeKuWDyMqNQi6c3T5g=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/static/scripts/pretti
+ fy/lang-css.js
+SHA1-Digest: B3BvnKsc/HAGw9YaG+FxLpoQ14A=
+
+Name: assets/www/plugins/cordova-plugin-camera/www/CameraConstants.js
+SHA1-Digest: o0NIOGkBoQiMDm2Wr9Zq9f3XjS8=
+
+Name: assets/www/lib/moment/locale/en-gb.js
+SHA1-Digest: z4ikj1td+BC9CSZSrVeOFcjQGms=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_border-rad
+ ius.scss
+SHA1-Digest: tAy3yjJSbDeqi4IyoDDd+OPfIv8=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon@2x.png
+SHA1-Digest: X+k9P2GJTWAy4m/NA0G008h3LlU=
+
+Name: assets/www/lib/ngmap/spec/e2e/testapp_spec.js
+SHA1-Digest: 7r+MtsOhB0pT6IyMSwS7W3Wa0kU=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/RE
+ ADME.html
+SHA1-Digest: u2EWqQWCh9ssqdgCDcw3iJQun5M=
+
+Name: assets/www/lib/moment/locale/br.js
+SHA1-Digest: GAQ2ZGWvYa0CNFQQJHG6IvB4lZk=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_user-select.
+ scss
+SHA1-Digest: y/dLZhNckugDqxvv3oWHdySJvKQ=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/io
+ nic.config.json
+SHA1-Digest: lokSSNE7FnIcelOQSj1ijsUBKzE=
+
+Name: assets/www/lib/ngmap/testapp/street-view-panorama.html
+SHA1-Digest: xXjzHxoqdo9kQ48CcxFqrqWcTms=
+
+Name: assets/www/lib/moment/src/locale/ar-sa.js
+SHA1-Digest: fFGGZykUVL1lXCRI6oZeMSChbnQ=
+
+Name: assets/www/lib/ngmap/testapp/street-view-panorama_container2.htm
+ l
+SHA1-Digest: YC3tquuewWr2CGfeLRcst+6YzjI=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_buttons.sc
+ ss
+SHA1-Digest: +QtYCocHYuXjPRzIbkI7fqOUNlg=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_columns.scss
+SHA1-Digest: /Ypb4qfFyS/Fpqz521cejq8+A68=
+
+Name: assets/www/lib/ezar-startup-kit/examples/hello-ezar/www/index.ht
+ ml
+SHA1-Digest: 1zq1UIcz7lt5YgmxPFUArK5Jrr8=
+
+Name: assets/www/lib/ionic/js/ionic-angular.min.js
+SHA1-Digest: d13JH14EN+gHWf9MscfOVgYsLu0=
+
+Name: assets/www/lib/ngmap/directives/marker.js
+SHA1-Digest: VoXHcFCZDa4YQ2oK4e8NgSK6BRo=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/README.html
+SHA1-Digest: io1C8BeSR0zpZZVMkdNVJdVNEgI=
+
+Name: assets/www/lib/moment/src/lib/utils/zero-fill.js
+SHA1-Digest: ZtP1mv2rR7k2YUhVFu7ftYP2jsY=
+
+Name: assets/www/lib/ngmap/testapp/aerial-rotate.html
+SHA1-Digest: XHGzccEzKHydNzyET83q64qsRUU=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-facedetector/LICEN
+ SE
+SHA1-Digest: FDRjfxyz1Sbto/gM00f0XmSf+vM=
+
+Name: assets/www/lib/ngmap/testapp/polyline-remove.html
+SHA1-Digest: moJ5hQ8BPhZlX7vN4r9qZ8SXLyU=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.facede
+ tector/src/android/FaceDetector.java
+SHA1-Digest: mxv9iOc/NwJjhE4FwgJC6p3GGcc=
+
+Name: assets/www/lib/ionic/js/ionic.bundle.min.js
+SHA1-Digest: xJXbnkuqq7p3xniNQCGev8wSAng=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_shade.s
+ css
+SHA1-Digest: cXzwK7W2dhkxfVLUSfHiovcQdhA=
+
+Name: assets/www/lib/moment/src/lib/utils/is-date.js
+SHA1-Digest: EeFZrbQx1SKw/nm+eAk+4bB9X+k=
+
+Name: assets/www/lib/moment/src/locale/bg.js
+SHA1-Digest: /Z9x7GyxCzx3JF6ygv2JNtYAkXk=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/static/styles/jsdoc-d
+ efault.css
+SHA1-Digest: S0P16iHxPRGLyyEurR0/0GkTA4E=
+
+Name: assets/www/lib/moment/src/locale/ar-tn.js
+SHA1-Digest: Oor4lan/rxQ/aujvcsksGppeMCU=
+
+Name: assets/www/lib/moment/src/locale/br.js
+SHA1-Digest: ZteQOlnS3xEqzmpyguZjQWA7zTQ=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/publish.js
+SHA1-Digest: rzkNeZwu8IvVCnnhsuaa86rbwQo=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-facedetector/confi
+ g.xml
+SHA1-Digest: bJuhU9sg+MMtwa3JMoUGgGhSf+Y=
+
+Name: assets/www/js/app.js
+SHA1-Digest: LYXpIQ0nacViMaD8h6DgqeduxnM=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon.png
+SHA1-Digest: EK/mPf37xXAKYC//7LEhDDRiRAE=
+
+Name: assets/www/lib/moment/src/lib/create/utc.js
+SHA1-Digest: bMQ8CfFnIdSyVglHTqqHrRlObhM=
+
+Name: assets/www/lib/ngmap/testapp/marker_dynamic_raw.html
+SHA1-Digest: avdEGpipxr/FtU2zKkDVU2g+BuY=
+
+Name: assets/www/lib/ngmap/testapp/ui-router.html
+SHA1-Digest: KcdwtghHfI4cWBgqNvweTTXUmbU=
+
+Name: assets/www/lib/ngmap/config/protractor.conf.js
+SHA1-Digest: Um2z3xuwEvwM2adidFBs1ND6h50=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_contain
+ s.scss
+SHA1-Digest: i14LlJZamjPIcZjOxoJP5lys+1E=
+
+Name: assets/www/lib/moment/src/locale/ko.js
+SHA1-Digest: wT10axHTXOmJcN5H4EXQj6BkWuE=
+
+Name: assets/www/lib/moment/locale/de.js
+SHA1-Digest: VyckVGvmEX/jL+JJM37B4dxXD2Q=
+
+Name: assets/www/lib/angular/angular-csp.css
+SHA1-Digest: Yx1Akld+ovwTqipJif35O8LNGq0=
+
+Name: assets/www/img/icon.png
+SHA1-Digest: d1aXdydduoaSGgSN+VVNDqBR7gA=
+
+Name: assets/www/lib/moment/locale/ms.js
+SHA1-Digest: HkEdawT8kNXHGcpvOMDJ6YQohrg=
+
+Name: assets/www/lib/ngmap/testapp/event-properties.html
+SHA1-Digest: mWbqkX5PnEj7WF/+rEPEyrdsc3A=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/pa
+ ckage.json
+SHA1-Digest: CMiFAqM5EAGE4gMnHLtqp9n6iso=
+
+Name: assets/www/lib/moment/src/locale/tr.js
+SHA1-Digest: Bd2PlcbdCHVZ3X7TkhJXJWBdEhw=
+
+Name: assets/www/lib/moment/src/locale/pl.js
+SHA1-Digest: P6pptzDGZyEJCXJHgRAugH/XKLc=
+
+Name: assets/www/img/ionic_logo_white.png
+SHA1-Digest: fdLFujxo/1VmRSGb6jDTo7xeStA=
+
+Name: assets/www/lib/ngmap/build/docs/map.html
+SHA1-Digest: 5zoRK+bdCwsReoBxovUges/FCI4=
+
+Name: assets/www/lib/ngmap/build/docs/scripts/linenumber.js
+SHA1-Digest: lApWs8blawyGvEvnkOelH85aY2A=
+
+Name: assets/www/lib/moment/src/lib/units/year.js
+SHA1-Digest: 2JrjTLZB5xbVrO1YBpUxl7AulWY=
+
+Name: assets/www/lib/moment/src/lib/units/day-of-year.js
+SHA1-Digest: FwKMMDqB2JHIOX5qbU+lucujJHY=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_placeholder.
+ scss
+SHA1-Digest: p7+CP1GcuYHfZEzQE33uPQC2tl0=
+
+Name: assets/www/lib/moment/src/lib/units/millisecond.js
+SHA1-Digest: L1BMjF4fywKv3Xs0rqRK/0AUYlk=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_clearfix.s
+ css
+SHA1-Digest: O83/4HMGkXVTO1CHjbiUg5j47ts=
+
+Name: assets/www/lib/moment/src/lib/locale/calendar.js
+SHA1-Digest: h/7zbgB7PwogdP1Rr7Uk8BmZq6g=
+
+Name: assets/www/lib/moment/src/lib/duration/add-subtract.js
+SHA1-Digest: OBYnbGhGQz1qm3DdQevv3ZpUGnY=
+
+Name: assets/www/lib/moment/src/lib/moment/compare.js
+SHA1-Digest: AaEtY5YKaPIt3HvP7owwvcUvnRA=
+
+Name: assets/www/lib/ngmap/build/docs/directives_map-data.js.html
+SHA1-Digest: drpNymFzUimTOFv8BMr9VM+/oig=
+
+Name: assets/www/lib/moment/src/lib/create/local.js
+SHA1-Digest: v9sgqdqOkFL19m+KlRILJUtAgdw=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_is-ligh
+ t.scss
+SHA1-Digest: 0JxDjjT45xu/KGu2jP2joiYpcK8=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_hide-text.
+ scss
+SHA1-Digest: OD+COy/l80yJbEA9ZmzVS6UlGbw=
+
+Name: assets/www/lib/moment/src/lib/moment/calendar.js
+SHA1-Digest: qA6mDuLRk9tebuoPcvzeABeksy4=
+
+Name: assets/www/lib/moment/locale/uz.js
+SHA1-Digest: SQw3qMgxQYcZTq8BRKsKahJO6ck=
+
+Name: assets/www/img/reverse_camera_50.png
+SHA1-Digest: P2QDwB2lyleE4PRCSpsbuyClDd4=
+
+Name: assets/www/lib/moment/locale/bn.js
+SHA1-Digest: E6qX8Fr3DpEAX3bIPk9D1Um3klE=
+
+Name: assets/www/lib/moment/src/locale/sr-cyrl.js
+SHA1-Digest: 6xJEvbos8QYt/wIBGsiZb9YW6hs=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/pages/page2/page2.scss
+SHA1-Digest: f54BUTL8Lwd381QWINLRgXrlTVA=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/www/videoOverlay.js
+SHA1-Digest: 8UX/RUqqwXL4KiWL4QKiX317Vsc=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon-72.png
+SHA1-Digest: sS6QXcUOPox4i74yi35kmHVnb+Y=
+
+Name: assets/www/lib/moment/min/moment-with-locales.min.js
+SHA1-Digest: fRGdhNV52PrCzk3hBGqC8CbDaow=
+
+Name: assets/www/lib/underscore/LICENSE
+SHA1-Digest: chxaP3RvRbSGbXGh8Y1X30Y0V/Y=
+
+Name: assets/www/lib/angular-moment/angular-moment.min.js
+SHA1-Digest: qg5vYRNK4rnLXje94mF9E5fGJbk=
+
+Name: assets/www/lib/angular/angular.min.js.gzip
+SHA1-Digest: AhNiSCibjLT5d+XdUH/j1lgzYTE=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/src/android/VideoOverlayPlugin.java
+SHA1-Digest: TLpMGGtUvm5HHLpFv61qOxhQCqk=
+
+Name: assets/www/lib/ngmap/spec/lib/angular.js
+SHA1-Digest: +e/f6Rt624PxQUjkOjxmFim1ZTM=
+
+Name: assets/www/lib/ngmap/directives/heatmap-layer.js
+SHA1-Digest: 2vPeTD+qZyoXLvdMK/YY0kUOJRU=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/splash/drawable-port-xhdpi-screen.png
+SHA1-Digest: eSWtVakKrAgg4cZ0cBTYStRSBUc=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/www/img/co
+ mpassStar.png
+SHA1-Digest: dhc/VqKkd6knRgg8GAiox2l9MOI=
+
+Name: assets/www/lib/moment/src/lib/create/valid.js
+SHA1-Digest: xXBCqONx/kDZG+rEZv7JNa7UIao=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.snapsh
+ ot/src/android/snapshot-xwalk.jar
+SHA1-Digest: o4/FkWU9QzuzqKqmjOkfQ5ErqB4=
+
+Name: assets/www/lib/moment/locale/pl.js
+SHA1-Digest: PzRiq448ZwS7fMiOGB4h5ZmjMmw=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.flashl
+ ight/LICENSE
+SHA1-Digest: maj74KIUWtE2dVl3N4eOI3m//Jo=
+
+Name: res/drawable-xhdpi-v4/ic_action_previous_item.png
+SHA1-Digest: uG+ZFVmiP0FBZK49mU+oFNFtrpk=
+
+Name: assets/www/views/app/search/search-results.html
+SHA1-Digest: WSFHpZU9lC/uehFVSY9EIzl4agU=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/icon/drawable-xhdpi-icon.png
+SHA1-Digest: rCYAtQOvRvNUsX/LvNf78ZqMlbI=
+
+Name: assets/www/lib/ionic/README.md
+SHA1-Digest: WGoEN6fL7xYvJ6i0tztoYIxaO4s=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/splash/Default-568h@2x~iphone.png
+SHA1-Digest: /rPGgvwNFheuw8S/WUo9kJHCRcQ=
+
+Name: assets/www/lib/ngmap/testapp/polyline-simple.html
+SHA1-Digest: 3uqvJz9q7xlySFsjfRJATXqOleI=
+
+Name: assets/www/img/ionWP1.png
+SHA1-Digest: 9ohvPR0esMSlkIj4SDJ+65o8jYE=
+
+Name: res/drawable-port-mdpi-v4/screen.png
+SHA1-Digest: 7/yihqaS0Hs8vFXv3p6TU0O8xsU=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.flashl
+ ight/www/flashlight.js
+SHA1-Digest: h6c2A64xiLxUvLXR68gs/2IwuJA=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/static/scripts/linenu
+ mber.js
+SHA1-Digest: 1eu8jzaOTKXoXTYStzkYfqXYyK8=
+
+Name: assets/www/lib/moment/CHANGELOG.md
+SHA1-Digest: tEUHfZ2AHWP7mEGyixCRCvaPSY4=
+
+Name: assets/www/lib/ngmap/directives/traffic-layer.js
+SHA1-Digest: olx3SdPbMBiDsWWm9N9/GDXSi18=
+
+Name: assets/www/lib/ngmap/build/docs/directives_map_controller.js.htm
+ l
+SHA1-Digest: Nz76naB+uVj1EgGGhSb7FH5+e20=
+
+Name: assets/www/lib/ngmap/testapp/mapsenginelayer-noauth-layerid.html
+SHA1-Digest: TdBvJQWBJg3byvgJ1WpwhTri3gg=
+
+Name: assets/www/lib/ezar-startup-kit/examples/hello-ezar/config.xml
+SHA1-Digest: isSyHpNH6D5o5F6sT5j6Cz+tZmo=
+
+Name: assets/www/img/search-bg-orig.png
+SHA1-Digest: 0fsGXeOqpUPGvYDDbBdAd/r8ciE=
+
+Name: assets/www/lib/ngmap/directives/bicycling-layer.js
+SHA1-Digest: eVRRCyDcjG5iWXYqP4/OK9nDPrk=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.snapsh
+ ot/www/snapshot.js
+SHA1-Digest: ekux5o+h2TGHxwuSnd5lP0P1fd4=
+
+Name: assets/www/lib/ngmap/build/docs/directives_heatmap-layer.js.html
+SHA1-Digest: br3ZrPk3sF8yUhQM4SeHJ5+0peo=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/helpers/_linear-gr
+ adient-parser.scss
+SHA1-Digest: EFIOtrG+Z0/8m/YlLgmwRiEUC1A=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_prefixer.s
+ css
+SHA1-Digest: HnteGHgQ3FXhS07SCcH+m3LzNAI=
+
+Name: assets/www/lib/moment/src/locale/zh-cn.js
+SHA1-Digest: u7YDW0nU8jiqQl+FQic5mYyMedA=
+
+Name: assets/www/lib/moment/src/lib/duration/abs.js
+SHA1-Digest: 6/KS2/yzNQqM4FJ9rnQqXJpIl2E=
+
+Name: assets/www/lib/moment/src/locale/ms.js
+SHA1-Digest: 08mLD7NPFNva8ylGLhT7Ph2Yov0=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.snapsh
+ ot/src/android/WebviewBitmapProvider.java
+SHA1-Digest: GL5Xvup69nf7tDI7rEFl2AKUKq8=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_font-feature
+ -settings.scss
+SHA1-Digest: 2dZsK16WwWKdVX/LNMI+7QbvUcQ=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ icon.png
+SHA1-Digest: xqsKImj4puopqhNeHlMWCZ3r2BM=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/ionicons.scss
+SHA1-Digest: wj1KBcY54aL0YPfQbXV24aUEDnQ=
+
+Name: assets/www/lib/angular-youtube-mb/test/config/karma.conf.coffee
+SHA1-Digest: iCwoYlEboYVJX60ymyUAzm19XgU=
+
+Name: assets/www/lib/moment/src/lib/moment/min-max.js
+SHA1-Digest: MafalagtdXjwhEM5kdQe8HEV36M=
+
+Name: assets/www/lib/moment/src/lib/moment/to.js
+SHA1-Digest: QOSQxnSAknxajNxWRAI/FSPDc/8=
+
+Name: assets/www/lib/ngmap/build/docs/weather-layer.html
+SHA1-Digest: 7Ha0MCAcJTTJgJjg9rKRNNQeTpk=
+
+Name: assets/www/lib/moment/locale/ko.js
+SHA1-Digest: VfJNrQfbr8TWQy/CL1cGuph23f4=
+
+Name: assets/www/lib/ngmap/testapp/marker_with_dynamic_position.html
+SHA1-Digest: Qghse1itUHLq0dhYP0Q8lNY8Vo8=
+
+Name: assets/www/lib/moment/locale/fi.js
+SHA1-Digest: gxJ71haamv6A6x1xBpWroRVRw6s=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-small@3x.png
+SHA1-Digest: JAA8j/4LVeFsucki/d7mof5qGm0=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon@2x.png
+SHA1-Digest: hrMAoqzYICwMHn64Fq3gQXC8giU=
+
+Name: assets/www/lib/ngmap/directives/drawing-manager.js
+SHA1-Digest: NfNwwnrLIzxdT2sTkzfoCKuq+ak=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/src/ios/CDVezARCameraViewController.h
+SHA1-Digest: jV+Z9Dtbvg6GyzU8fzCpTieaGWA=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/src/ios/CDVezARCameraViewController.m
+SHA1-Digest: Hujwa8FRaM5JsszFaUq8CXcr8aU=
+
+Name: assets/www/lib/ngmap/build/docs/directives_bicycling-layer.js.ht
+ ml
+SHA1-Digest: +z0345LHveao0b2O7LfN9ir3+AU=
+
+Name: assets/www/lib/ngCordova/bower.json
+SHA1-Digest: cwJjhaTHPMLbedAokypk+QAFfK4=
+
+Name: assets/www/lib/ngmap/build/docs/NavigatorGeolocation.html
+SHA1-Digest: kx9jH37VApBa984krwUG4dXtPBs=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/splash/Default-Landscape-736h.png
+SHA1-Digest: M7aCcdESeI/JF0Ll9TIhzUwykio=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_filter.scss
+SHA1-Digest: hhvWXF9Rc6iu35u50xGdVyYwo5g=
+
+Name: assets/www/lib/ngmap/build/docs/directives_maps-engine-layer.js.
+ html
+SHA1-Digest: 3UuOayUwSsyxt09usF0LkvQesXI=
+
+Name: assets/www/lib/ngmap/testapp/lib/angular.min.js
+SHA1-Digest: dGt1nDXYMU8TWQ7CMCuuLkP8ltg=
+
+Name: assets/www/views/app/wordpress/post.html
+SHA1-Digest: 4EoUC8wHC66cOg0wipjwzzPEjLs=
+
+Name: assets/www/lib/ezar-startup-kit/RELEASE_NOTES.html
+SHA1-Digest: tnCVFoMshN+fUITgyqDHCTrZavI=
+
+Name: assets/www/lib/ngmap/build/docs/Attr2Options.html
+SHA1-Digest: Z8aGKkSM9FBF8Y2UKX3ofBG4rLE=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_is-numb
+ er.scss
+SHA1-Digest: XetWYRrooZcMvWlunnl+igqBcTQ=
+
+Name: assets/www/lib/ngmap/directives/fusion-tables-layer.js
+SHA1-Digest: k6WAhNPFqiub9zTEHHi8Eb/3L18=
+
+Name: assets/www/lib/moment/src/locale/ms-my.js
+SHA1-Digest: 5TJzYhH5jZALrpMk3W6th3xgfOs=
+
+Name: assets/www/lib/ngmap/testapp/map_geo_fallback_center.html
+SHA1-Digest: LYQe2lO1uQuT/3pKYuWUCVJS218=
+
+Name: assets/www/lib/ngmap/testapp/control-positioning.html
+SHA1-Digest: aqVb7g+cUdkdSUDcf61TkdHuQvE=
+
+Name: assets/www/lib/ngmap/testapp/event-domlistener.html
+SHA1-Digest: /MfOctNF8wCtu4jKrnZVqju18WM=
+
+Name: assets/www/lib/ngmap/testapp/layer-style-event.html
+SHA1-Digest: tCYaE8TnQqmO9838ZrfJAP+HU8w=
+
+Name: assets/www/lib/ngmap/build/scripts/ng-map.min.js
+SHA1-Digest: HqdcvtUlzHlr1gdwOSHd4d4Wk9I=
+
+Name: assets/www/lib/ngmap/testapp/layer-fusiontables-query.html
+SHA1-Digest: W43LlKIAeSMqzc7fe9DJi0qZh6Q=
+
+Name: assets/www/lib/angular-moment/LICENSE
+SHA1-Digest: XXGuCNIqJ1z7f8wt+Jv4I12scXo=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/src/android/CameraDirection.java
+SHA1-Digest: h75ph7kCfl/i5haecHZEXC30b1g=
+
+Name: assets/www/lib/ngmap/build/docs/MapController.html
+SHA1-Digest: Ue2g34BUEjY9BSYR/TAKrm5RTz4=
+
+Name: assets/www/lib/moment/src/locale/vi.js
+SHA1-Digest: Z7+R5bmirchgiWb0avOR+gls434=
+
+Name: assets/www/img/ionWP2.png
+SHA1-Digest: 5Kym1VvzXzXhtCUy+IhZnG4YKWM=
+
+Name: assets/www/lib/moment/src/lib/units/hour.js
+SHA1-Digest: IHxpEnu1k1g2RupeVclqsK6ifuE=
+
+Name: assets/www/views/app/settings.html
+SHA1-Digest: AyBxXMfA+cDTA+wRXmf1hWuN4HY=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/_bourbon.scss
+SHA1-Digest: emRiQZ5UNjbt/pdHn8QrbaNjxvc=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-40@2x.png
+SHA1-Digest: 2CqaGTXGIGbvkENiZRulXkU9tlM=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.flashl
+ ight/RELEASE_NOTES.html
+SHA1-Digest: mNnajDzCcF/28BYxKPT4RED5ztc=
+
+Name: assets/www/lib/angular-animate/bower.json
+SHA1-Digest: SXkH8WGVpFKkTXuHXQd3ZbFLpDg=
+
+Name: assets/www/lib/ngmap/testapp/places-auto-complete.html
+SHA1-Digest: o+mY/cCQDl8dqXnCPdOVp2zBrlk=
+
+Name: assets/www/lib/moment/min/locales.min.js
+SHA1-Digest: JWF0fX3WnwLWGMYoatlTvqicu6U=
+
+Name: assets/www/lib/ngmap/bower.json
+SHA1-Digest: 5xOX6Lm/6s2hM9/VSkatDjBHL2c=
+
+Name: assets/www/lib/moment/locale/km.js
+SHA1-Digest: lqWJIYzpXKEJsMmp/n18RqTOLT4=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/service-worker.js
+SHA1-Digest: 5AYqxRsL38Re2WPkx4RSiOF+y98=
+
+Name: assets/www/lib/moment/locale/ca.js
+SHA1-Digest: PCxpbbcmlbGz6dOGBlGM5PkEZl0=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_text-decorat
+ ion.scss
+SHA1-Digest: LyS4NVIkj9xq9Se7LKtIp8icuVw=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/helpers/_linear-an
+ gle-parser.scss
+SHA1-Digest: 7Nqyghm4WRa1mrnPd/onB7vPoY0=
+
+Name: assets/www/lib/angular-ui-router/src/viewScroll.js
+SHA1-Digest: K+et+1N2JiH4ywwdlZmMMTKC+jE=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_tint.sc
+ ss
+SHA1-Digest: 4VlF0UtAogEcifposDSZtRD+wZc=
+
+Name: assets/www/plugins/cordova-plugin-console/www/logger.js
+SHA1-Digest: vVYXt1JiijVWwrMd4jVOw/1siDg=
+
+Name: assets/www/lib/ngmap/gulpfile.js
+SHA1-Digest: sTWyNh1ULfZl5umhLRvbpwuH704=
+
+Name: assets/www/lib/ionic/js/ionic.bundle.js
+SHA1-Digest: 7+D/+L/6dbx9wxAUPJCzkth6Kdg=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon-small.png
+SHA1-Digest: ivVeOffzT30XieIThBsX3y9CvoI=
+
+Name: assets/www/lib/ngmap/testapp/icon-complex.html
+SHA1-Digest: TqZvT6ndYAH6t6d97flTHXnPnjE=
+
+Name: assets/www/plugins/cordova-plugin-camera/www/Camera.js
+SHA1-Digest: HBdNa8rHJmyyZph/x65sSZps714=
+
+Name: assets/www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.
+ js
+SHA1-Digest: ejWKlapgI12gKVHBlJFO3pIkIgk=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_triangle.s
+ css
+SHA1-Digest: ELF7jmY+AzFs8ZOZCOOApogZ/wI=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_perspective.
+ scss
+SHA1-Digest: nwmPc0PHi2lks4Uw7ae7TDiEjXY=
+
+Name: assets/www/lib/moment/src/lib/create/from-string.js
+SHA1-Digest: IQTeoYZNcwoS3oXefA3jDLt4Jt8=
+
+Name: assets/www/lib/moment/src/lib/locale/formats.js
+SHA1-Digest: hRcN6TajaxZCh+5rNXJPJKhdbYE=
+
+Name: assets/www/lib/ngmap/directives/map-lazy-load.js
+SHA1-Digest: 51fGT+EXYK3DvVUg7sgYnYk3KnU=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_position.s
+ css
+SHA1-Digest: +Smdo7RzLKZnuwuD6UQoLjHGIIc=
+
+Name: assets/www/plugins/cordova-plugin-dialogs/www/notification.js
+SHA1-Digest: LBeYLMGxmcBiEnWhFhpKFssyplY=
+
+Name: assets/www/lib/moment/src/lib/locale/invalid.js
+SHA1-Digest: kWWw45Ir6yldvb107Gem7+wkrC4=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/splash/Default-Landscape~ipad.png
+SHA1-Digest: E2NZGB/mmQDh6hzJZEbHnWN5XGM=
+
+Name: assets/www/lib/ngmap/testapp/map_fit_bounds.html
+SHA1-Digest: SmRwL/a6meYG6n8f7UZ9QM8BBJ0=
+
+Name: assets/www/lib/moment/src/lib/moment/constructor.js
+SHA1-Digest: 04WMzgAYVfvjFCE/qbSyChvrt5w=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_is-leng
+ th.scss
+SHA1-Digest: eLPex9T0kpF87vo1bbzSubJ9078=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-76@2x.png
+SHA1-Digest: X1YCOpxp4gDHILDnaFxnU40NRmk=
+
+Name: assets/www/lib/moment/src/lib/utils/hooks.js
+SHA1-Digest: aZmhO7+hr/4+HNr/xDrlizhmChE=
+
+Name: assets/www/lib/moment/locale/jv.js
+SHA1-Digest: yY5kZMppJ7OLqv08wU7Z7nq5OrQ=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/icon/drawable-mdpi-icon.png
+SHA1-Digest: yw47MQCTjs1BIYc6TOOSj1g1lvw=
+
+Name: assets/www/lib/moment/min/locales.js
+SHA1-Digest: BeOdn5jZ6N9WMBiiz1bKjFTQNI0=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/properties.tmpl
+SHA1-Digest: JCrvA+ma3ucHdG5TggLNMoNOGqU=
+
+Name: assets/www/lib/moment/src/locale/pt.js
+SHA1-Digest: 3EMqFnXFaL20PQaDKjPhHmehbMg=
+
+Name: assets/www/lib/ngmap/build/docs/directives_map-type.js.html
+SHA1-Digest: MAkKjCPGMfkxTmphSDkT2OYMI0g=
+
+Name: assets/www/lib/angular-animate/angular-animate.min.js
+SHA1-Digest: J9FmxY8BvP5PXFlg5Kuv31GyOWw=
+
+Name: assets/www/lib/ngmap/testapp/rectangle-event.html
+SHA1-Digest: x+3V55pC1M7LULuE98x39ZjGIN4=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/container.tmpl
+SHA1-Digest: uAKhyQ0nnjJEvUVjV+0Zz0IpCjI=
+
+Name: assets/www/lib/moment/src/lib/units/month.js
+SHA1-Digest: Qi2y7PHTMCBcg6+SN+j2Dbjh720=
+
+Name: assets/www/lib/moment/src/locale/cv.js
+SHA1-Digest: 0TPEGwyxdz5Zczw4TZbJuaan8/g=
+
+Name: assets/www/lib/angular-ui-router/src/urlMatcherFactory.js
+SHA1-Digest: VFttyIXr7Y0+8FrOmIxFvnzgBqI=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon-76@2x.png
+SHA1-Digest: 2czvXDDvnSsmHhx6wredfBmZ3oE=
+
+Name: assets/www/lib/ngmap/directives/info-window.js
+SHA1-Digest: XDjWL8HiAbjci/7OyVuKW1mFWIc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 6v4wCyGnLZiPF/dBn/OCDUoZ+Mg=
+
+Name: assets/www/lib/ngmap/config/karma.conf.js
+SHA1-Digest: GYG/WOmfdH0TFzXzYrCI/MXwc10=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/splash/drawable-land-xxxhdpi-screen.png
+SHA1-Digest: dOh4/x8Xdb0+ebblXeYOqB9aaI4=
+
+Name: assets/www/lib/ngmap/testapp/layer-fusiontables-styling.html
+SHA1-Digest: T/0blQfQRdn5FHWV8Qln/Ia3XHQ=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/icon/drawable-xxxhdpi-icon.png
+SHA1-Digest: 3tsuWoDKaX/klSnWerCK8sCs71M=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/roboto-light.woff
+SHA1-Digest: XmL+2nxe8OlWz0EeCn7rvO58B3Y=
+
+Name: assets/www/lib/moment/src/locale/fo.js
+SHA1-Digest: aaRVM8iMklpctQxGYbDfoYppnQM=
+
+Name: assets/www/lib/ngmap/build/docs/places-auto-complete.html
+SHA1-Digest: 0yA5GD1btt/VJmSjc01QKcg/v5k=
+
+Name: assets/www/lib/moment/src/lib/units/quarter.js
+SHA1-Digest: 5PNxHWilRXWi8zq2IUb4//+fXgs=
+
+Name: assets/www/lib/ngCordova/dist/ng-cordova-mocks.js
+SHA1-Digest: 1oPc0/mbsfIOS9dPUfuCXdCn5vM=
+
+Name: assets/www/img/camera_blue.png
+SHA1-Digest: VCOirZEkFRd9X6wQxqR2V85yrpA=
+
+Name: assets/www/lib/ngmap/testapp/rectangle-zoom.html
+SHA1-Digest: qe2KzwPR/aJfdHG8uqQ3srxG/Hw=
+
+Name: assets/www/lib/ngmap/LICENSE
+SHA1-Digest: fLCc3g1tIxpuNG60SSAUniHva+g=
+
+Name: assets/www/lib/ngmap/testapp/heatmap.json
+SHA1-Digest: gtenloyBZI64qaTxu6Tu7iluY9g=
+
+Name: assets/www/lib/ngmap/testapp/infowindow-simple-max.html
+SHA1-Digest: 7+slvw5FnTuHpXUMQBgKaHhqekk=
+
+Name: assets/www/lib/ngmap/testapp/taxi-data.js
+SHA1-Digest: XRoR0xVWXn3B9Bxi+gwBdzcxcVo=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-83.5@2x.png
+SHA1-Digest: 8hDZdejC9fNl54sspzUFzs/Vsgo=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-small@2x.png
+SHA1-Digest: oA5qoxcchwLbAlqoure/uKeYZ/A=
+
+Name: assets/www/lib/ngmap/build/docs/styles/prettify-jsdoc.css
+SHA1-Digest: 4rAiMG+rJHwWPgzHlyKqnvPObZ0=
+
+Name: assets/www/lib/moment/src/locale/de-at.js
+SHA1-Digest: GOUaRYPXVoqQCIq1ffGy/R6kFQg=
+
+Name: assets/www/lib/moment/locale/it.js
+SHA1-Digest: BrsZXhMqrKpUAzxkfx/6zJYvmsk=
+
+Name: assets/www/lib/moment/locale/tzm.js
+SHA1-Digest: fnS/G9xR4gPavW8NKeyQi/c2ldg=
+
+Name: assets/www/lib/moment/src/locale/is.js
+SHA1-Digest: mGkMlrAhNPtfAD1gcGeA1u+aKtA=
+
+Name: assets/www/lib/moment/locale/tzm-latn.js
+SHA1-Digest: V7QjquVwEiNUox8vsX09G4bPL/A=
+
+Name: assets/www/lib/moment/src/lib/utils/has-own-prop.js
+SHA1-Digest: 68bkECJ6eCOkQ3beDCg2y2tal0A=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_assign-
+ inputs.scss
+SHA1-Digest: nZsuS8ZJATL757LrzjMRCpDaVWs=
+
+Name: assets/www/lib/moment/src/lib/utils/abs-floor.js
+SHA1-Digest: tlCgCHTndnL2X7BJ/27NBK7GQg8=
+
+Name: assets/www/lib/ionic/fonts/ionicons.ttf
+SHA1-Digest: 4N8ZcikRufBkLWw63l8S6gQH2SU=
+
+Name: assets/www/lib/moment/src/locale/me.js
+SHA1-Digest: U2KNZuNQ4cRRLFaZ3xvSElrLT+s=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/splash/drawable-land-xxxhdpi-screen.png
+SHA1-Digest: IHJ6e4o0eqiwjpIHz3w23y+pbWU=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/helpers/_str-to-nu
+ m.scss
+SHA1-Digest: P+wJ3mmuPOjVbs8nl52xyy8hEKI=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-76.png
+SHA1-Digest: bONWhL9aG22/dKNgtkg5eLAUOuE=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/icon/drawable-hdpi-icon.png
+SHA1-Digest: N1kUDNbOIhRIVnZy9pN2Pxx1nGk=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-facedetector/www/i
+ ndex.html
+SHA1-Digest: XR+4HkeS9P4hRCXKmLIJnkPM5kQ=
+
+Name: assets/www/cordova.js
+SHA1-Digest: y8/Cqsd8uFW4FEy0fgQd1ndijSw=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: WilZRqBFRW5EeMNiV+ApDSIEp4I=
+
+Name: assets/www/lib/ionic/bower.json
+SHA1-Digest: f2X49dXbpyjXYHklblaK+CS9FI4=
+
+Name: assets/www/lib/moment/src/locale/uz.js
+SHA1-Digest: tAAb1mdYL687TQ5ykCuSM3Ll4j4=
+
+Name: assets/www/lib/moment/README.md
+SHA1-Digest: a8IFEgtoPtpOAF9TIGwxv6J45GI=
+
+Name: assets/www/lib/moment/locale/sr-cyrl.js
+SHA1-Digest: zG1Fixpqu5Rb41jYolh57HFkTVU=
+
+Name: assets/www/lib/ngmap/testapp/street-view-panorama_container.html
+SHA1-Digest: WFYGQgDLCPbjCdXwQqZ+SLSgiEg=
+
+Name: assets/www/lib/angular-ui-router/api/angular-ui-router.d.ts
+SHA1-Digest: nckiduGwuTEBP2X3oZ2dKocJIK8=
+
+Name: assets/www/img/reverse_camera.png
+SHA1-Digest: xhKKYODGllkEPWJqqv747omoPMI=
+
+Name: assets/www/lib/moment/templates/test-header.js
+SHA1-Digest: 0kpxphUULddMDYWNoVVzwI3at9I=
+
+Name: assets/www/lib/ngmap/testapp/favicon.ico
+SHA1-Digest: lb9yHM65/l81gBSuYEvGO1VAV5k=
+
+Name: assets/www/lib/moment/locale/fr.js
+SHA1-Digest: nbzrzWYZkcBjuX9ckkvXbcozi9U=
+
+Name: assets/www/views/common/show-hide-password.html
+SHA1-Digest: YcC5GQRjsP51NJf4VGTDTD1AmKQ=
+
+Name: assets/www/lib/moment/src/locale/ar.js
+SHA1-Digest: kzk5DyO4oQ5S9F3/drQuBagJ7m8=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_strip-u
+ nits.scss
+SHA1-Digest: 1mXpBoaCkZmiwrattFgeB7+9Bfs=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.snapsh
+ ot/RELEASE_NOTES.html
+SHA1-Digest: rgFQAeh/SRHdoum9hROG2R0RyfE=
+
+Name: assets/www/lib/ngmap/testapp/layer-kml-features.html
+SHA1-Digest: ZPwPAUoOL3we2ItHTPOsiZbXM4Q=
+
+Name: assets/www/lib/angular-ui-router/release/angular-ui-router.js
+SHA1-Digest: 3KP3cwkX12vR4IgfSuTfb3uVhA0=
+
+Name: assets/www/lib/moment/src/lib/create/from-string-and-format.js
+SHA1-Digest: S4c/QEKXOBDEJG8oFe7oSBEm+f4=
+
+Name: assets/www/lib/ngmap/build/docs/cloud-layer.html
+SHA1-Digest: XJ0BE74+JKf80hQxYUK0sig2jyc=
+
+Name: assets/www/lib/moment/src/lib/utils/extend.js
+SHA1-Digest: slZzVIP9sn+3YfE+f5Al/bdpRLk=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-facedetector/hooks
+ /README.html
+SHA1-Digest: G5cpQGNGSbO78UxX7gsYeIzNXoo=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ splash.png
+SHA1-Digest: so1Jv91B8wtOsEambRGdijB4s1o=
+
+Name: assets/www/views/app/preview.html
+SHA1-Digest: jUVOwbNp946eUxa/mbkkqbSSo3k=
+
+Name: assets/www/lib/ngmap/build/docs/services_attr2_options.js.html
+SHA1-Digest: o4HSbnNY1LdwunwBGUgk7hHt8/c=
+
+Name: assets/www/views/auth/register.html
+SHA1-Digest: FfGeH5UQf0mWozgwFdmz5JVn1GE=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/splash/drawable-land-ldpi-screen.png
+SHA1-Digest: CYbq/SoL3ch+XFBuY7aH+AIiIZQ=
+
+Name: assets/www/lib/ngmap/testapp/aerial-simple.html
+SHA1-Digest: TymxI8inodvJM1H8kwepr7AM5vw=
+
+Name: assets/www/plugins/cordova-plugin-device/www/device.js
+SHA1-Digest: QmkSX96G4XJE2bzW9+pvODJvkPk=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon-60@2x.png
+SHA1-Digest: 6Mp0SpQg02n0kLEePyJ8jqru8AM=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.facede
+ tector/src/android/FaceDetectorOrig.java
+SHA1-Digest: iT5TBfl+dRW8GH4hSn8hVMXYef0=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/www/img/ca
+ mera_btn.png
+SHA1-Digest: UCy1+TzTLkqSqPFrsYFYFXW7xak=
+
+Name: assets/www/lib/ngmap/testapp/maptype-styled-simple.html
+SHA1-Digest: q5O5i5sNugEWWecKaM7OZDtpdwA=
+
+Name: assets/www/lib/ngmap/testapp/control-options.html
+SHA1-Digest: pu6GcxWBpn/kAKHfk1gb0Nml4YI=
+
+Name: assets/www/lib/ngmap/build/docs/directives_info-window.js.html
+SHA1-Digest: Wmk6g0XKoBEPekr7ZA2Jq7iloeQ=
+
+Name: assets/www/lib/ngmap/spec/directives/map_controller_spec.js
+SHA1-Digest: j/cUdD6RBUEoJHyzX+S5Ha3roYU=
+
+Name: assets/www/lib/ngmap/testapp/custom-control.html
+SHA1-Digest: 5eCmkG5BZDC0FkZL8rTR4S6gedo=
+
+Name: assets/www/lib/angular-animate/README.md
+SHA1-Digest: XKIZyLguhaIdzj58GrVt47JPVA4=
+
+Name: assets/www/views/app/wordpress/post-card.html
+SHA1-Digest: N+VWbEc+KJ4ZP6QrmygKzOipD7M=
+
+Name: assets/www/lib/moment/locale/hi.js
+SHA1-Digest: sV6Born45rT79/y/+rDm+of2aKE=
+
+Name: assets/www/lib/moment/locale/sl.js
+SHA1-Digest: G1qTGOqHyWDWRoZqllgdemrfOLA=
+
+Name: assets/www/lib/moment/src/lib/moment/add-subtract.js
+SHA1-Digest: w64hjE9+Cye1hScLWqj0oR0XCNE=
+
+Name: assets/www/lib/ngmap/directives/map-type.js
+SHA1-Digest: DYrJZnOsruvbmvVUMdxmTW7r/oE=
+
+Name: assets/www/main.html
+SHA1-Digest: qaAIsaXk3wFhUmy/rkZRP2sTYKk=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ts
+ config.json
+SHA1-Digest: Cn/eD4XozXSyA5XqGx3O50Ke0C0=
+
+Name: assets/www/lib/ngmap/testapp/directions.html
+SHA1-Digest: gyzTXL7tNhbcrP0iMZk1yCPn5RU=
+
+Name: assets/www/lib/moment/src/lib/moment/locale.js
+SHA1-Digest: 6FwSn3JJkga8MGKbegROqc4hLr4=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-60.png
+SHA1-Digest: 3aoxnbZCH1pNiuXqmmfiSq9bhqw=
+
+Name: assets/www/lib/ngmap/testapp/overlay-hideshow.html
+SHA1-Digest: 52OgAtqFUoeVRTHGFBzHPMH2mUk=
+
+Name: assets/www/lib/moment/locale/ru.js
+SHA1-Digest: h3CJF3jvSnEQMVI307pnPrpA3e8=
+
+Name: res/drawable-port-xhdpi-v4/screen.png
+SHA1-Digest: jeiNADtmMv+Ev1TXIgHaKhEasY0=
+
+Name: assets/www/lib/ionic/js/ionic.min.js
+SHA1-Digest: 1dlVPugxPMM+MURN34y7lpYQhCI=
+
+Name: assets/www/plugins/cordova-plugin-whitelist/whitelist.js
+SHA1-Digest: MoyJOyBLOGY52NDXvZ3+1dLPrpQ=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/noto-sans.scss
+SHA1-Digest: PLSrbYUg9iK2NM8i2hHgMI2I/wU=
+
+Name: assets/www/lib/ngmap/build/scripts/ng-map.debug.js
+SHA1-Digest: GA5o32d+/haHrwoy6bTnX5Oj5SY=
+
+Name: assets/www/lib/bourbon/README.md
+SHA1-Digest: FuaScEw/B/NhohPdRifKxjewUD4=
+
+Name: assets/www/lib/moment/locale/cy.js
+SHA1-Digest: ESBZDYvh58Un1bxxkU/qHPsOi9Y=
+
+Name: assets/www/lib/ngmap/testapp/map_no_default_style.html
+SHA1-Digest: w8pEXMZ5g/WMlbJ8uTFvwLApfPw=
+
+Name: assets/www/lib/ngmap/build/docs/map-data.html
+SHA1-Digest: y+Q2wvcvBpve7U8Roce/wrVukyM=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/theme/variables.scss
+SHA1-Digest: 8dfq3RzcNZvzvXXwJiO1Udnx+pg=
+
+Name: assets/www/lib/moment/src/lib/moment/start-end-of.js
+SHA1-Digest: 0joXEJbsGW1kiP8dNEfHZ9yLrA8=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/icon/drawable-xxhdpi-icon.png
+SHA1-Digest: BC6klCMbxIjwOxUOXjozwAYPKXk=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/index.html
+SHA1-Digest: pGg3a5Mvwqyo77Sv8NwD2aATd3o=
+
+Name: assets/www/views/app/bookmarks.html
+SHA1-Digest: 4scOQqKY7TYKlvlcquY2jl5sLas=
+
+Name: assets/www/lib/ngmap/testapp/marker-remove.html
+SHA1-Digest: vIoMPkWFeHKUPlMnUSztsnScEzs=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.facede
+ tector/RELEASE_NOTES.html
+SHA1-Digest: UcsjyR+CNXU6sAEtSr4afWCuciw=
+
+Name: assets/www/lib/moment/src/lib/duration/bubble.js
+SHA1-Digest: ZR+hwly2DHXY2rTBrG7OhUrx/mo=
+
+Name: assets/www/lib/moment/src/lib/locale/set.js
+SHA1-Digest: Zm8rJXWpyQUxqlR1WjR5L+zsk1o=
+
+Name: assets/www/lib/angular-ui-router/src/stateDirectives.js
+SHA1-Digest: BmtRSCvFJoZ9QwaS388AK5lK64U=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon-76.png
+SHA1-Digest: aAzFkqcfWQTwlJXymrYK2ruIOY0=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/splash/drawable-port-mdpi-screen.png
+SHA1-Digest: jrboQMlyLVkaAwpKEb5oDRTqErg=
+
+Name: assets/www/lib/moment/src/locale/nn.js
+SHA1-Digest: kYZHm5dOq0XhZUJ/JyABHvZe9Bk=
+
+Name: assets/www/lib/moment/src/locale/sk.js
+SHA1-Digest: lNFE+76/l2HlVs2E6gcgrrtTpyQ=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_unpack.
+ scss
+SHA1-Digest: NPAS7EhnEUxKMIfeeP9EuyTkVag=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/settings/_px-to-em
+ .scss
+SHA1-Digest: 5RVBY6De0UVCXF9NW1A15uKCG+A=
+
+Name: assets/www/plugins/cordova-plugin-camera/www/CameraPopoverOption
+ s.js
+SHA1-Digest: KwOZN7JGrOxMkTaJgEhMIEHY/9I=
+
+Name: assets/www/lib/angular-moment/CHANGELOG.md
+SHA1-Digest: weg+ODdxL6BCscWJjL3qN8d7ynY=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/splash/Default~iphone.png
+SHA1-Digest: nunhmzOtoPI+wEtpcNJ1rvsQ7Mg=
+
+Name: assets/www/img/pending.png
+SHA1-Digest: sgoqHzisjhEgcZdT6egrDIz0oiY=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/noto-sans-bold.ttf
+SHA1-Digest: zGgfx7ImW9c6vsmtvHPKgB+lon0=
+
+Name: assets/www/lib/moment/src/locale/hu.js
+SHA1-Digest: cxQovPdLGX1DhUy/nPPNceJJofc=
+
+Name: assets/www/lib/ngmap/testapp/rectangle-simple.html
+SHA1-Digest: 3b310ZnEmASzbqNl78O1gw3HB5U=
+
+Name: assets/www/lib/moment/locale/zh-cn.js
+SHA1-Digest: mYVEWGm5dRvgXKg3DrB2wpR9mNA=
+
+Name: assets/www/lib/moment/src/locale/sv.js
+SHA1-Digest: gW9XVWm9u/4oGKqF9VsZ86X8wY4=
+
+Name: assets/www/lib/moment/locale/th.js
+SHA1-Digest: A4TBGHU2JbMtd7e6ohHjhY2s4Xc=
+
+Name: assets/www/lib/moment/src/lib/create/date-from-array.js
+SHA1-Digest: tR00M+HW4icQnLhL7oPoKwSal3s=
+
+Name: assets/www/lib/angular-moment/karma.conf.js
+SHA1-Digest: JOSJDWnIGFpBdZuabNbMiKl9nFs=
+
+Name: assets/www/lib/moment/locale/el.js
+SHA1-Digest: MSDJXLcFZ5bBZSGl7A67m87PWsM=
+
+Name: assets/www/lib/moment/locale/fy.js
+SHA1-Digest: GfxYqIs27u08cMXRCakOQeI3lrE=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_text-input
+ s.scss
+SHA1-Digest: VavBIv+OiwYb4OawhOnbya7M+j4=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_hyphens.scss
+SHA1-Digest: 9uMEqjxJeYIbw47iIGmIIHm741s=
+
+Name: assets/www/lib/moment/locale/bs.js
+SHA1-Digest: QZyF50coOQa4R7728NkYRvSVJME=
+
+Name: assets/www/lib/ngmap/testapp/overlay-symbol-custom.html
+SHA1-Digest: g/BML2hXP31JamBZxqNfS/meV+g=
+
+Name: assets/www/plugins/cordova-plugin-background-mode/www/background
+ -mode.js
+SHA1-Digest: tejM3WC0BKXG4HuIHBwfknYBEtA=
+
+Name: assets/www/lib/ngmap/testapp/layer-weather.html
+SHA1-Digest: T3f33zS30+J4CEKKzbBYe1UWRfg=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/roboto-medium.ttf
+SHA1-Digest: VVK44TG4OXp6I1PKmyrOjbZcQ8k=
+
+Name: assets/www/lib/ngmap/testapp/maptype-image.html
+SHA1-Digest: BG4biIdTWVp5+64drfPb6A216cE=
+
+Name: assets/www/lib/moment/locale/he.js
+SHA1-Digest: vhZkhi2hwM1abc1GHMBDiqp+RvQ=
+
+Name: assets/www/lib/ngmap/build/docs/directives_shape.js.html
+SHA1-Digest: l7eHbX/MKBC9nklNM9np8eOG/h4=
+
+Name: assets/www/lib/ionic/fonts/ionicons.eot
+SHA1-Digest: DQ9yqCPdIE3LxZi52GEt4kCOrkA=
+
+Name: assets/www/lib/ngmap/build/docs/services_geo_coder.js.html
+SHA1-Digest: uqiuz+ogQB+9H1nMIpbzQ34nq1Q=
+
+Name: assets/www/img/camera.png
+SHA1-Digest: /jY+Dt/ygI3TtTV/G/Fjppi80DQ=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_animation.sc
+ ss
+SHA1-Digest: SnQDH4KFj7ok04NoThKpOWRTNhw=
+
+Name: assets/www/lib/moment/src/lib/locale/lists.js
+SHA1-Digest: aydYB8rGZt1NUHGrMzlJbcJ97a8=
+
+Name: res/drawable-mdpi-v4/ic_action_next_item.png
+SHA1-Digest: ZzISkM7wLyAw7HkVAX3PN79mc5w=
+
+Name: assets/www/lib/moment/locale/lb.js
+SHA1-Digest: uN8TN/koREmshtTylnvR6WYQ+hY=
+
+Name: assets/www/lib/ngmap/testapp/layer-data-simple.html
+SHA1-Digest: /uW6STFbl5VeHguWjm3xyyZ1GN0=
+
+Name: assets/www/lib/ngmap/testapp/marker_with_address.html
+SHA1-Digest: DrbbWhAdATmnLTzic8ofcb+Wx+s=
+
+Name: assets/www/lib/angular-moment/angular-moment.min.js.map
+SHA1-Digest: bHYsAjtq8rVrWOdEY0E+hiryRdA=
+
+Name: assets/www/lib/moment/locale/ta.js
+SHA1-Digest: FIKiKOVKcGldjUVw735koLW/JNc=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-60@2x.png
+SHA1-Digest: YAq9r7Xw72YngsALiXjt78cNcXs=
+
+Name: assets/www/js/filters.js
+SHA1-Digest: i0x9ZFMSUJ3xfTZOu+H332xW0D0=
+
+Name: assets/www/lib/ngmap/testapp/mapsenginelayer-noauth-layerkey.htm
+ l
+SHA1-Digest: 0janngWFXYzm9BExoPKFhkw5btk=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_timing-fun
+ ctions.scss
+SHA1-Digest: Rbz4QqJmEAEPYbXOfQKxyY+R/hg=
+
+Name: assets/www/lib/ezar-startup-kit/examples/hello-ezar/LICENSE
+SHA1-Digest: Q7YHTx/vdmFx5uENybA6R8wrmgE=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/splash/drawable-land-xhdpi-screen.png
+SHA1-Digest: soQjvnJDWX1FNSUk7znM9db/TgU=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.flashl
+ ight/src/ios/CDVezARFlashlight.m
+SHA1-Digest: J95vF1kxnAr3CEFhUfPPVMtsvcs=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.flashl
+ ight/src/ios/CDVezARFlashlight.h
+SHA1-Digest: VBaIXwfCtN9R76Zmg+aFl4LsQT0=
+
+Name: assets/www/lib/moment/src/lib/units/constants.js
+SHA1-Digest: B4FsLwBmZFSSa7rag/hVmiXkx78=
+
+Name: assets/www/lib/angular-ui-router/src/common.js
+SHA1-Digest: x0Mn0M1dJRqek4vtoxMby5i2AJY=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon.png
+SHA1-Digest: p1CO1b2FDKQgym/rsRD1wFnZ1IM=
+
+Name: assets/www/lib/ngmap/testapp/marker_with_parent_controller.html
+SHA1-Digest: c1nsT8ebgLfIg0Y+SXztkIN9etM=
+
+Name: assets/www/cordova-js-src/exec.js
+SHA1-Digest: zSlTRU8HxUISyyqDCPgSSJgcj+g=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/splash/drawable-port-ldpi-screen.png
+SHA1-Digest: cfERX+F9OyN9HiHOt2YQodo3izg=
+
+Name: assets/www/lib/ngmap/testapp/layer-data-style.html
+SHA1-Digest: P+ijAERH7wGNt7w+aB3QnWm4f50=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/hooks/READ
+ ME.html
+SHA1-Digest: YRstsuFQ6gRmikL8YpSAnVKrL7I=
+
+Name: assets/www/lib/ngmap/services/geo_coder.js
+SHA1-Digest: GLw7oRkgru2Ou0gMqL0ZFcAd1gU=
+
+Name: assets/www/lib/ngmap/testapp/maptype-base.html
+SHA1-Digest: KeWFVq4JjHjTLWUez4co4x+jSKU=
+
+Name: res/drawable-port-ldpi-v4/screen.png
+SHA1-Digest: f8TfL2RwFHColMlByRNfM0rLgXE=
+
+Name: assets/www/css/ionic.app.css
+SHA1-Digest: lbMaZoauuTZ3lF/XGKJ8FS7L/oA=
+
+Name: assets/www/lib/angular-moment/angular-moment.nuspec
+SHA1-Digest: 88i5N85gKwofZngpkWZdR8VgzLU=
+
+Name: assets/www/lib/ngmap/testapp/layer-mapsengine.html
+SHA1-Digest: RzeiY06GoxHYks0wZcrsC4dxHCs=
+
+Name: assets/www/lib/ngmap/testapp/maptype-styled-complex.html
+SHA1-Digest: Se+GD3YXNMbno6MQyoGR5gdt/28=
+
+Name: assets/www/lib/moment/locale/hr.js
+SHA1-Digest: TEejRTa2bbKmKn4fXriA+/405wQ=
+
+Name: assets/www/lib/moment/src/lib/create/from-object.js
+SHA1-Digest: 3mkOz/6eqILnl3uz0uo6biYx0vo=
+
+Name: assets/www/lib/moment/src/lib/units/offset.js
+SHA1-Digest: P06h/tBRbH81DTM8rWa+bj428bI=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/app/app.component.ts
+SHA1-Digest: 70yAfTASoq0kFOC8Xi9UasZQ6T8=
+
+Name: assets/www/lib/angular-ui-router/bower.json
+SHA1-Digest: QkFNHXJNNFfDXlabdHLgy+t2rTI=
+
+Name: assets/www/views/common/terms.html
+SHA1-Digest: zvO6X/JGKxZK5AoCx2ZUf/9ny+s=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ho
+ oks/README.html
+SHA1-Digest: KprF2RdmExRcq8JynSTtBKkFRSI=
+
+Name: assets/www/lib/moment/src/lib/duration/create.js
+SHA1-Digest: lAELV2GL54ShytzFLyvUEKJDJTs=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/icon/drawable-mdpi-icon.png
+SHA1-Digest: YSIFZxY0nEOaMK8KbCn0B5LF8OE=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/ionicons.woff2
+SHA1-Digest: y0JFKnGuTNbVM6yjI7KibDAHZfg=
+
+Name: assets/www/lib/moment/src/locale/hy-am.js
+SHA1-Digest: ETOZDv9xN3/vsfqSegYPovH/QiM=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/mainpage.tmpl
+SHA1-Digest: CaMOTat4n47DQoWXROS5l6fnl/g=
+
+Name: assets/www/lib/ngmap/build/docs/directions.html
+SHA1-Digest: FOhjqdLg6o9IUJG5hoMmFwTHnWk=
+
+Name: assets/www/lib/ngmap/spec/services/street_view_spec.js
+SHA1-Digest: 2x5EVCwTofDBx3DactWxdFb1FZo=
+
+Name: assets/www/lib/moment/locale/da.js
+SHA1-Digest: 8oNMm++zeb7eo1Qg7/zs7PfXTj0=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/roboto-regular.woff
+SHA1-Digest: 9N+Y5FKGae2zqe/wf5S+1M2BkFg=
+
+Name: assets/www/img/ionic.png
+SHA1-Digest: zZmk8+xkiaoXp3isKCjryZUhqLA=
+
+Name: assets/www/lib/moment/locale/ms-my.js
+SHA1-Digest: mHbsABusm72RENaQ5aOL2cXtfek=
+
+Name: assets/www/lib/moment/src/locale/ja.js
+SHA1-Digest: H46LWhNODS6kIaPnXvuzr1Qfqfo=
+
+Name: assets/www/lib/ngmap/testapp/marker-animations.html
+SHA1-Digest: +l8L3vavL9qcsVkcIxKZ8/c8E+Q=
+
+Name: assets/www/lib/ngmap/testapp/ui-bootstrap.html
+SHA1-Digest: O+lqu7N8t/GNeBWFdAo9UICI1Ng=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/returns.tmpl
+SHA1-Digest: FXrDb0sCur/tv01UseUMmLPasjA=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-facedetector/www/i
+ mg/reverse-camera_72_1.png
+SHA1-Digest: ar4B7CImOe56pEJEodeBlmO2Yho=
+
+Name: assets/www/lib/angular-ui-router/release/angular-ui-router.min.j
+ s
+SHA1-Digest: 6IWw5Ehe09sInvr62LSBa+5OFQk=
+
+Name: assets/www/lib/moment/min/moment-with-locales.js
+SHA1-Digest: pVGeIIo0YqNXaHs8a9nyrt5F7xc=
+
+Name: assets/www/lib/ngmap/directives/transit-layer.js
+SHA1-Digest: +SuxWVq2cQw5tAs1umIV655D7+Q=
+
+Name: assets/www/lib/moment/src/locale/eo.js
+SHA1-Digest: WO3XOvTizyleRU+q+QsXCnOTpyA=
+
+Name: assets/www/lib/angular-animate/angular-animate.js
+SHA1-Digest: Sz/OxSQ0uo37QPx/ff2u0zZDEes=
+
+Name: assets/www/lib/angular-ui-router/src/urlRouter.js
+SHA1-Digest: 16Z5WOPADoW8uuUfV3pHzgpIq3E=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/splash/Default~iphone.png
+SHA1-Digest: q9BrgmCl084ga0adekGMi8/3WU0=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/splash/drawable-port-hdpi-screen.png
+SHA1-Digest: CHG6OOjuuyeNmALZMtDeneUxNm8=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_background-i
+ mage.scss
+SHA1-Digest: MBjUISbk1jgqrAa05Z1D31MReeI=
+
+Name: assets/www/lib/ngmap/build/docs/directives_map.js.html
+SHA1-Digest: H/jC9lScUvPU4LHbwFd0AYUjUoY=
+
+Name: assets/www/lib/angular-ui-router/src/viewDirective.js
+SHA1-Digest: w3d7zyz/Cs+0GBYaJyACfs9Dyms=
+
+Name: assets/www/lib/ngmap/build/docs/traffic-layer.html
+SHA1-Digest: rk6y2LgLaK7r1KkwQVdc3KHJLsE=
+
+Name: assets/www/lib/ngmap/spec/directives/marker_spec.js
+SHA1-Digest: WGRFM8QV3V71SNElS2Z7mnsrMf0=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/splash/Default@2x~iphone.png
+SHA1-Digest: zxODbWkM7Ncw2Csp74D3o5gaJIc=
+
+Name: assets/www/lib/moment/src/lib/units/week-year.js
+SHA1-Digest: jL1GAtfNfz/sT3P674jveGsHXXI=
+
+Name: assets/www/lib/ngmap/testapp/events_controller_as.html
+SHA1-Digest: IcbU9y7tZFT7qVKLeXV4Ol7Yoro=
+
+Name: assets/www/lib/moment/locale/lv.js
+SHA1-Digest: XGcQd3uiO4ngPxLqU8X0c6pHSoA=
+
+Name: assets/www/lib/moment/src/locale/ka.js
+SHA1-Digest: aid1I2ZRdqTmno33o40FIUvlxyM=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_linear-gradi
+ ent.scss
+SHA1-Digest: xYRuC3+8L0yx5dYO0+0nS4QUVUU=
+
+Name: assets/www/views/auth/forgot-password.html
+SHA1-Digest: Rw43UWVq6FHlLU+UINu34BCYxhw=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/pages/page2/page2.ts
+SHA1-Digest: fGpirFMUrigmQiLMUd9kjjaIQ0A=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/app/app.module.ts
+SHA1-Digest: bUfnpT4tnIsGrptTF2UI9EgPdK8=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon-60.png
+SHA1-Digest: B8Fgi81PL+tmYzZm8rwHia1fScY=
+
+Name: assets/www/lib/moment/src/locale/ne.js
+SHA1-Digest: aD9f/kvgNL6VBGHKYm6we0XRawM=
+
+Name: assets/www/lib/ngmap/directives/street-view-panorama.js
+SHA1-Digest: AFvUgxTUvHll+eFG4qmvrMGM+6c=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/splash/Default-Portrait~ipad.png
+SHA1-Digest: /HMPP4PquZ+/S7cYUj5U299h8X4=
+
+Name: assets/www/lib/ngmap/package.json
+SHA1-Digest: rZnlroyWCKYf8tys8kNJKuJklKA=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_radial-gradi
+ ent.scss
+SHA1-Digest: 3yQ9hpGJi/oKICH6Wt6RKvu5d2Y=
+
+Name: assets/www/lib/ngmap/testapp/map_with_address.html
+SHA1-Digest: n+YAdp51BesAw6Bk00HGJ/mnXaU=
+
+Name: assets/www/lib/moment/src/lib/moment/format.js
+SHA1-Digest: h8/mJtFNSsgSLRCKb8VqN6FwCY4=
+
+Name: assets/www/lib/moment/src/locale/tzm.js
+SHA1-Digest: CU58NllFaDrls4Jl3VQEqMt1TxY=
+
+Name: assets/www/lib/ngmap/testapp/maptype-overlay.html
+SHA1-Digest: 94LOQEoIlk3iXj4HoXiq3l2JrRw=
+
+Name: assets/www/lib/moment/src/locale/my.js
+SHA1-Digest: 1nnR4sucKo5d0msxjUqM+UFQTxk=
+
+Name: assets/www/lib/moment/src/locale/fr-ca.js
+SHA1-Digest: 5oSPRelcfx24PDKG1+4IeUa1o/I=
+
+Name: assets/www/lib/ngmap/directives/places-auto-complete.js
+SHA1-Digest: Uzj2iFRVEiF07RJfB/SLr6+1QBM=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/www/index.
+ html
+SHA1-Digest: xDtkS86E/ZbGQtkQZbbrC5aKhQ8=
+
+Name: assets/www/lib/moment/locale/zh-tw.js
+SHA1-Digest: LSE49Y+rWwO1orWT76VEO/u8JHk=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/ionicons.svg
+SHA1-Digest: /bo1YCJAuVhjcfCVsWzP6xNA0AE=
+
+Name: classes.dex
+SHA1-Digest: Jo0nm0UA4pYAk4azA2XA7rjl8D8=
+
+Name: assets/www/lib/moment/src/lib/utils/map.js
+SHA1-Digest: 8eFwm6wQ3WmOjtI8OcxoYWqDVbI=
+
+Name: assets/www/lib/underscore/underscore-min.map
+SHA1-Digest: rdOnNuhKdXLyUokW1Vkn9v63SBU=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/src/android/Util.java
+SHA1-Digest: HTiH6w5TiNzgLSay5A0wXH8ZgqU=
+
+Name: assets/www/lib/moment/src/lib/moment/moment.js
+SHA1-Digest: yOhqdzaX5uZpjrHF/MFZYp5blbk=
+
+Name: assets/www/lib/ngmap/testapp/drawing-manager.html
+SHA1-Digest: jZljTL2yHx9KqvRg9hueM5KzF1I=
+
+Name: assets/www/lib/ngmap/testapp/map-projection-simple.html
+SHA1-Digest: DDZmkjK7osZLnaH2GCJnIuK9VXI=
+
+Name: assets/www/lib/ngmap/testapp/map_with_dynamic_center.html
+SHA1-Digest: 1STHARHjCSs7BXneCRwBgR0bHLg=
+
+Name: assets/www/lib/moment/src/locale/pt-br.js
+SHA1-Digest: WKEweIihyJWiC8wPtlNV2CPquNI=
+
+Name: assets/www/lib/moment/locale/fr-ca.js
+SHA1-Digest: ilvqsY9c26H9s/y/BuxK9rEHAr0=
+
+Name: res/drawable-port-xxxhdpi-v4/screen.png
+SHA1-Digest: ChSdjLCvSvdG0re03LiknIVkrRI=
+
+Name: assets/www/lib/ngmap/testapp/polygon-autoclose.html
+SHA1-Digest: vHhgu6iwO5q24ivvTNfBsuIm0LA=
+
+Name: assets/www/lib/underscore/underscore-min.js
+SHA1-Digest: 5fClmQvCH7qxOwIMEJUewZ3DZqM=
+
+Name: assets/www/lib/moment/locale/lt.js
+SHA1-Digest: WdlL1CSemfvQJU5ehxsR9MkxUQ8=
+
+Name: assets/www/lib/ngmap/testapp/infowindow_geolookup.html
+SHA1-Digest: ennq1YzQDmnhZ1u/AntE1iwYXk8=
+
+Name: assets/www/lib/moment/src/locale/bo.js
+SHA1-Digest: AAxtVWAAa4dQokCNIJa6AEsUjP0=
+
+Name: assets/www/lib/ngmap/build/docs/directives_map-lazy-load.js.html
+SHA1-Digest: edOhkutsua5HpCEq+hmYULm+ahU=
+
+Name: assets/www/lib/ngmap/build/docs/drawing-manager.html
+SHA1-Digest: sIoFU38Ca+90Q2V636e8myCATJ8=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-60@3x.png
+SHA1-Digest: hjx4iO2Xxi1h+hgbRmxiNYrSSqM=
+
+Name: assets/www/lib/moment/src/lib/parse/regex.js
+SHA1-Digest: Bg44XfR+A8uRTPYtcI2jiqFR0Cs=
+
+Name: assets/www/lib/ngmap/testapp/map_zoom_to_include_markers.html
+SHA1-Digest: WDqGmv15wSrRi+H1AwDE3Dgrgn0=
+
+Name: assets/www/cordova-js-src/plugin/android/app.js
+SHA1-Digest: DyNoltEL4yj1M0KRnp7t1ESe+Fo=
+
+Name: assets/www/lib/ngmap/testapp/layer-transit.html
+SHA1-Digest: jOdFEUxSW5XaY5XmMU/xbWNmRQo=
+
+Name: assets/www/lib/moment/src/locale/ar-ma.js
+SHA1-Digest: BQjQfC0hqnYQ7hLZvKXcV4Mcvrw=
+
+Name: assets/www/lib/ngmap/testapp/scripts/starbucks.json
+SHA1-Digest: H814n662rY8ChGo7oQUwArILEg0=
+
+Name: assets/www/lib/moment/src/lib/create/parsing-flags.js
+SHA1-Digest: b8Zn743SOzC4BQFMRtYEkEgOOsU=
+
+Name: assets/www/lib/ngmap/testapp/marker-clusterer.html
+SHA1-Digest: DsF1+YGkrAvl6jInF9taCAKPQaA=
+
+Name: assets/www/lib/ngmap/testapp/overlay-remove.html
+SHA1-Digest: rZjXLLJVQQLroocWNX3Gj6TWoug=
+
+Name: assets/www/lib/angular-ui-router/src/state.js
+SHA1-Digest: 59LQ7dTP6S3KwDvTTQD2clzsMzk=
+
+Name: assets/www/lib/ngmap/directives/maps-engine-layer.js
+SHA1-Digest: GuNGHVQFaIPIqrCpZ+c/osFG1WA=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon-60@3x.png
+SHA1-Digest: U4LO6r/uHD4n1P/SG4L0w5WrZAw=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/type.tmpl
+SHA1-Digest: mbED/CSUYo5q0fEouWoUcOioRkk=
+
+Name: resources.arsc
+SHA1-Digest: jV6f89g0Op93npMup9VzbRDXEsw=
+
+Name: assets/www/lib/angular-ui-router/src/resolve.js
+SHA1-Digest: 8/XkO8ntOBKQBc7CtAYlD6gQYpM=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/splash/Default-736h.png
+SHA1-Digest: XWVihYiW0IFoV7Va2wua0EynedE=
+
+Name: assets/www/lib/moment/src/locale/es.js
+SHA1-Digest: i6StC5wJHWoPpjJccYgjP7Egg8w=
+
+Name: assets/www/lib/moment/src/locale/gl.js
+SHA1-Digest: dtSAPJnllW+VdHrN+4ZAdP2+S/E=
+
+Name: assets/www/lib/moment/locale/eu.js
+SHA1-Digest: Drnp1Z9e381osWJS/aZFDUkP2xI=
+
+Name: assets/www/lib/moment/src/lib/locale/ordinal.js
+SHA1-Digest: HZCaMA+oW7zwp05nSTE/LwOFGjI=
+
+Name: assets/www/views/common/credits.html
+SHA1-Digest: G+PGGTl7smrxrgOjM9iU/LtpV0A=
+
+Name: assets/www/lib/moment/locale/nb.js
+SHA1-Digest: r10ChuoNwDZsUXb0CTXw41Jbd08=
+
+Name: assets/www/lib/moment/src/lib/locale/locales.js
+SHA1-Digest: EjfMFGT5Vv2Q3VvIIEQCc363Nds=
+
+Name: assets/www/lib/moment/src/locale/lt.js
+SHA1-Digest: w2arM5tV0K1Ws3El0pzwteTt/Ng=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/helpers/_radial-gr
+ adient-parser.scss
+SHA1-Digest: rgF64XeLw3uGvDAAMF1Y1jDgayg=
+
+Name: assets/www/views/app/wordpress/wordpress-page.html
+SHA1-Digest: jt5oSHaXwfyVtb7LNYTsq6Qv8Uc=
+
+Name: assets/www/lib/moment/src/lib/locale/prototype.js
+SHA1-Digest: ifNBN0dMdUR/gQrJRlQoK6/gx+c=
+
+Name: assets/www/lib/ezar-startup-kit/examples/hello-ezar/www/img/logo
+ .png
+SHA1-Digest: csX6FKwZRRbo+W1j8+zaM12D1Yk=
+
+Name: assets/www/lib/moment/locale/gl.js
+SHA1-Digest: UGx0tkGQ2yp50kT2yJBayrQAHjg=
+
+Name: assets/www/lib/ngmap/testapp/layer-data-quakes-default.html
+SHA1-Digest: O47oTTYyILAbkMUh1L3tNJWCsDE=
+
+Name: assets/www/lib/moment/src/locale/tzm-latn.js
+SHA1-Digest: gPAOmSjHuxgw9fDQEhmY5+8xJ7Q=
+
+Name: assets/www/lib/moment/locale/mk.js
+SHA1-Digest: n+H34OCzV3Qt/tEssZvOejXc21Y=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/_bourbon-deprecate
+ d-upcoming.scss
+SHA1-Digest: cg1uph9kwn+rXeAddTZonzB4csI=
+
+Name: assets/www/lib/moment/bower.json
+SHA1-Digest: 1eizpeE/mtC1zODvCj7pinzxS6U=
+
+Name: assets/www/lib/ngmap/testapp/USGSOverlay.js
+SHA1-Digest: e4lOIz06pYkkJ54zgurfefDmWvo=
+
+Name: assets/www/lib/angular-youtube-mb/README.md
+SHA1-Digest: BnI/otDHocGt5jn4N19iEFprPUA=
+
+Name: assets/www/lib/moment/src/locale/en-ca.js
+SHA1-Digest: LwmP7RNcBRX/HGn6jhWQfFNYNWs=
+
+Name: assets/www/lib/ngmap/testapp/event-simple.html
+SHA1-Digest: CKhGivE78Dfx6CyzcdaCWaEW44w=
+
+Name: assets/www/lib/ngmap/testapp/map_app.html
+SHA1-Digest: EyOvNlH7zdD16d0xkeyDKAKd9BA=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/splash/Default-Portrait~ipad.png
+SHA1-Digest: Kt0sRcncYaNb6bRKCRoQTygUdYM=
+
+Name: assets/www/lib/moment/src/lib/units/day-of-month.js
+SHA1-Digest: m6BTbn3Or75dJdBT1XcqvlXqWIM=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/splash/drawable-port-xxxhdpi-screen.png
+SHA1-Digest: Du9XpIiftb4Jiv11Y5+G5IR/O5s=
+
+Name: assets/www/lib/ngmap/testapp/shape.html
+SHA1-Digest: b4Abtro/SfDJdMOm1H2nlOgHm2w=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/helpers/_radial-po
+ sitions-parser.scss
+SHA1-Digest: 3eF6YdX/Kzkr8NrwJI8F1ZKRFgY=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/splash/Default-Landscape@2x~ipad.png
+SHA1-Digest: vFtGkDtIzUzzGmpEEhnR0MQvp0I=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/helpers/_linear-po
+ sitions-parser.scss
+SHA1-Digest: SJ8Ua4g5ZmPwnjEperWJk5duU8s=
+
+Name: assets/www/lib/ngmap/testapp/marker-symbol-custom.html
+SHA1-Digest: fw8jL3J5SXW2aoa2J/FMrwXijs8=
+
+Name: assets/www/views/app/create.html
+SHA1-Digest: 5dV6SMeqP+TpJ87cSrV+ns5kjAw=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-40.png
+SHA1-Digest: WbawP4l2XUrt+rymaL6/Sc1Jz2w=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.flashl
+ ight/src/android/PermissionHelper.java
+SHA1-Digest: p+y0NhWwBK/RZyV37PRDAlzY+yQ=
+
+Name: assets/www/lib/ionic/css/ionic.css
+SHA1-Digest: p27QPcFdBOcmZk7aFmQ2QCAbALo=
+
+Name: assets/www/lib/ngmap/testapp/map_control.html
+SHA1-Digest: 63SUncLZgXT8zoAfPhPznIZEKJo=
+
+Name: assets/www/lib/ngmap/testapp/marker_with_ng_repeat_dynamic.html
+SHA1-Digest: mX0FSGveYkCDOTW55tZFhHci8II=
+
+Name: assets/www/lib/moment/src/lib/utils/abs-ceil.js
+SHA1-Digest: Rkk6EFsVqtnk6S6cb/8BKe3XFFM=
+
+Name: assets/www/lib/ngmap/testapp/layer-kml.html
+SHA1-Digest: BG4IPGukPIOaXzdSS3oYXFvTfVk=
+
+Name: assets/www/lib/moment/src/lib/locale/pre-post-format.js
+SHA1-Digest: R3YTg2LbMnpmF3QBFdkGL3GCkJ4=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/www/css/in
+ dex.css
+SHA1-Digest: Y5/6SfLu3D/aoqsdstnlrMV+qI8=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/roboto-medium.woff
+SHA1-Digest: oEYCrYzbEdlMkReFLuP7ChRhNkM=
+
+Name: assets/www/lib/ngmap/build/docs/scripts/prettify/prettify.js
+SHA1-Digest: JRr19TMLpe9k7jcyB2Xj7a9nT1c=
+
+Name: assets/www/lib/angular-youtube-mb/gulpfile.js
+SHA1-Digest: 4XkdGyWC7r7MVIrHndqQprsjMWc=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/src/android/FrameBufferHolder.java
+SHA1-Digest: S3i0CdJ3f8mX/RzLNLPDb23No6M=
+
+Name: assets/www/lib/ngmap/directives/map-data.js
+SHA1-Digest: 4dBX3ItlMvreA/oD9tUi9OB5Iw0=
+
+Name: assets/www/lib/angular-sanitize/angular-sanitize.js
+SHA1-Digest: 2r17FivwjbdbRctBkHEbU3YMP8U=
+
+Name: assets/www/lib/ngCordova/README.md
+SHA1-Digest: B29Iiededq0zTQUNfqnUBKYR/n4=
+
+Name: assets/www/lib/moment/src/locale/nb.js
+SHA1-Digest: Vbgu5fy7UtEhlLJsBn8EhSo9U00=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/static/styles/prettif
+ y-tomorrow.css
+SHA1-Digest: 2+ydw+ottzgbL7t5+rEJXc8bIOM=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/helpers/_gradient-
+ positions-parser.scss
+SHA1-Digest: KoBABWRsYNSxbojFjJLtiR7whZs=
+
+Name: assets/www/lib/ngmap/spec/directives/map_spec.js
+SHA1-Digest: 8OPU97FkF654NLtEpYarZc4rb5s=
+
+Name: assets/www/lib/ngCordova/CHANGELOG.md
+SHA1-Digest: EYI3mq7iKICCEQIsOioLXF0Ibbg=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/helpers/_render-gr
+ adients.scss
+SHA1-Digest: A20G94pipEP778Ua8KWC2DKDQy0=
+
+Name: assets/www/lib/moment/min/moment.min.js
+SHA1-Digest: tQYa3WF+AyyjVV8MqqNhwUjkkz8=
+
+Name: assets/www/lib/ngmap/testapp/user-editable-shapes.html
+SHA1-Digest: fgb0TeRwyRz+L7CEclok7Kpva+A=
+
+Name: assets/www/lib/ngmap/build/docs/scripts/prettify/lang-css.js
+SHA1-Digest: dTMFci3j3sdZZU7Riu0ETB0XMUU=
+
+Name: assets/www/lib/moment/src/lib/create/from-string-and-array.js
+SHA1-Digest: +UM0aUBGpWifn22Eexr9LtYbYM8=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/splash/Default-Portrait@2x~ipad.png
+SHA1-Digest: qjF8+BO8VOEKUSsNFDQ5TPPbhog=
+
+Name: assets/www/lib/ezar-startup-kit/examples/hello-ezar/README.html
+SHA1-Digest: iYeEKT+LmEnz0SsRO6hKBiL8Tzs=
+
+Name: assets/www/lib/moment/src/lib/utils/deprecate.js
+SHA1-Digest: 9lX7hflIgiNvSH/YXoNsw6PT3XU=
+
+Name: assets/www/lib/moment/locale/cs.js
+SHA1-Digest: adctPIMpmqzCPhYZhqLvgXoXB00=
+
+Name: assets/www/lib/ngmap/testapp/images/spinner.gif
+SHA1-Digest: 9bDtA+bK+InYyM/Ds7oUzKYc6Rc=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/splash/Default-Landscape~ipad.png
+SHA1-Digest: Hx35rldWwnjgtMyPwzGyycka4WY=
+
+Name: assets/www/lib/moment/locale/fa.js
+SHA1-Digest: iezRzZRdF4ByEiqlU3abBgs2D5w=
+
+Name: assets/www/lib/ionic/css/ionic.min.css
+SHA1-Digest: i5ioSYlfxfanJgZd7x4kHrvLQHI=
+
+Name: assets/www/lib/angular-moment/tests.js
+SHA1-Digest: Qo0l+nak9PjcS7JtVP1BcRSsryA=
+
+Name: assets/www/lib/ngmap/build/docs/directives_dynamic-maps-engine-l
+ ayer.js.html
+SHA1-Digest: mteO1N9+uUDEF8CO933iku7U0Cc=
+
+Name: assets/www/img/reverse_camera_blue.png
+SHA1-Digest: s3KInDNROSDH9hn2G3y+Fvf2sLw=
+
+Name: assets/www/lib/moment/src/locale/mk.js
+SHA1-Digest: +/kTHvZxWrKTynptPpk8H3nWh/A=
+
+Name: assets/www/lib/moment/src/lib/utils/compare-arrays.js
+SHA1-Digest: OSaMDlrgI0NgM2JqFK0cQlTNq80=
+
+Name: assets/www/lib/ngmap/build/docs/directives_custom-control.js.htm
+ l
+SHA1-Digest: uRGUmZ9VE65I/4kEKHd5iNiuF5k=
+
+Name: assets/www/lib/angular-moment/package.json
+SHA1-Digest: HOMdLvIzsLGm1gN8ckuLXYszH7w=
+
+Name: assets/www/lib/ngmap/testapp/scripts/get-starbucks.js
+SHA1-Digest: oK5K/xmBwet02fO7nozC6D+W8Nc=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: 2N4JAMum1XG35+1HXH4Ig5eQzow=
+
+Name: assets/www/lib/angular-ui-router/src/templateFactory.js
+SHA1-Digest: UJM0JbpyRCzvxsEdxmfP9/JU3Co=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.facede
+ tector/www/FaceInfo.js
+SHA1-Digest: JMpby/PaooeyIYHr2bRdIt7rv/c=
+
+Name: res/drawable-mdpi-v4/ic_action_remove.png
+SHA1-Digest: Xm1eOMvIE8MEYmU9ms+pWE8RPv0=
+
+Name: res/drawable-port-hdpi-v4/screen.png
+SHA1-Digest: AcTCUOtnac/Y0v4s+azjmoku2qw=
+
+Name: assets/www/lib/angular/angular.min.js.map
+SHA1-Digest: yMiZU/M09nBJV4YVvSyNuT/nwkE=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/settings/_asset-pi
+ peline.scss
+SHA1-Digest: 71AuIvglwsTOAagk7pS2y9B8tOY=
+
+Name: assets/www/lib/ngmap/testapp/marker-simple.html
+SHA1-Digest: k2Zc8NGBArS6SoPGCbkkNVyFs18=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_selection.sc
+ ss
+SHA1-Digest: afPeOHV7weWjB6pN/iKiiYMuBAE=
+
+Name: assets/www/lib/ngmap/build/docs/services_street_view.js.html
+SHA1-Digest: NjkJiyLz8jLKzRWtnIaol/tw1sE=
+
+Name: assets/www/lib/ngmap/testapp/groundoverlay-simple.html
+SHA1-Digest: aH1z71QKC8GbvTe1vQL1nwGm4CY=
+
+Name: assets/www/lib/ngmap/testapp/multiple_maps_on_a_page.html
+SHA1-Digest: vUosyf85v52446+J7a1+GX1va1g=
+
+Name: assets/www/lib/ngmap/build/docs/custom-control.html
+SHA1-Digest: GcepP+qVwagoLeAqoHOSdFbO5Kg=
+
+Name: assets/www/lib/ngmap/testapp/marker.html
+SHA1-Digest: 0Kg1j6K61visnjAnVmCoCp0ioK4=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/layout.tmpl
+SHA1-Digest: gIgW85GYh0nq0A30kuYbdrwS7YM=
+
+Name: assets/www/lib/moment/src/lib/moment/prototype.js
+SHA1-Digest: ls7X1aVIGKVpZHImSSS2hXcdH/s=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.snapsh
+ ot/src/android/Snapshot.java
+SHA1-Digest: q6oIdIyl6ObbKFTqkO3J05yWoFc=
+
+Name: assets/www/lib/moment/src/locale/en-au.js
+SHA1-Digest: 0+aGvMZZZvaZ45CAICX02CuwYAk=
+
+Name: assets/www/js/controllers.js
+SHA1-Digest: nbi4hKhb0A9++qXV9ku69GN+jU4=
+
+Name: assets/www/lib/ngmap/testapp/marker_icon.html
+SHA1-Digest: zpz0PyDoAvjT8gjUcFNtwI+q1tw=
+
+Name: assets/www/lib/ngmap/testapp/lib/angular.js
+SHA1-Digest: x3cVd3BXlu9GgwGHyto+bAUKkmg=
+
+Name: assets/www/lib/ngmap/testapp/directions2.html
+SHA1-Digest: i7Zt8XFX4ZosxybG7LyVWWPbQPw=
+
+Name: assets/www/lib/moment/locale/sq.js
+SHA1-Digest: BVBr5Nhy7czgva0i9w+UFIozjZ0=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.facede
+ tector/www/facedetector.js
+SHA1-Digest: WG3wuRZBmmO0Nm7KY6P8jCuiw+M=
+
+Name: assets/www/plugins/cordova-plugin-geolocation/www/PositionError.
+ js
+SHA1-Digest: EdOmm9W+mLNQpvkB7MRJv6M9sI8=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/roboto-bold.woff
+SHA1-Digest: VgHNUQ4T7TCdsxhaajU03x8v9+4=
+
+Name: assets/www/lib/ngmap/build/docs/overlay-map-type.html
+SHA1-Digest: o/ctw/TVIFzN1BTSqX7M+IDTiIQ=
+
+Name: assets/www/lib/ngmap/build/docs/directives_overlay-map-type.js.h
+ tml
+SHA1-Digest: BTtTRlEeFIMdb53YXnFjXdVchjo=
+
+Name: assets/www/views/common/faqs.html
+SHA1-Digest: Shb6opabX0n2TeK4uKV1dnNfg50=
+
+Name: assets/www/lib/moment/src/lib/units/day-of-week.js
+SHA1-Digest: lR5bGlzLHsckBzZHmAzWmlQGFPU=
+
+Name: assets/www/lib/ngmap/app.js
+SHA1-Digest: 7YeN5IYtSnMIzvemYgrkizTmRYk=
+
+Name: assets/www/lib/ngCordova/CODE_OF_CONDUCT.md
+SHA1-Digest: 67Q80Sw4NjC0j3zNTvgyJPBvt6U=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_backface-vis
+ ibility.scss
+SHA1-Digest: zd7Npc3mxdBpfsR/nfeL8/XJDRw=
+
+Name: assets/www/lib/moment/src/locale/mr.js
+SHA1-Digest: eWtCX74UldIVEH/OXGqJBXgaMbM=
+
+Name: assets/www/lib/moment/src/lib/units/aliases.js
+SHA1-Digest: chG8Z05F4/xt76RdIb1ySTsImQo=
+
+Name: assets/www/lib/ngmap/directives/dynamic-maps-engine-layer.js
+SHA1-Digest: N/qWnrrvkIxxj36AmgxSqD/ozF0=
+
+Name: assets/www/views/common/ionic-youtube-video.html
+SHA1-Digest: DK4JM8NoPom09B2qrJqhNzuYZIU=
+
+Name: assets/www/lib/ngmap/build/docs/dynamic-maps-engine-layer.html
+SHA1-Digest: uz4P6+IYwtET1ttxys8b6gc1Sn4=
+
+Name: assets/www/lib/ngmap/testapp/polyline-complex.html
+SHA1-Digest: jKUK/V7LCD8xxqP3B1oqmuWHLL0=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.snapsh
+ ot/src/android/XWalkGetBitmapCallbackImpl.java
+SHA1-Digest: AHqeQsm1uF6Ec4asx9t7uE6GWos=
+
+Name: assets/www/lib/angular/angular.min.js
+SHA1-Digest: yQ65CvNesmdGzG3P7GO7t/v3Ft8=
+
+Name: assets/www/lib/ngmap/testapp/overlay-symbol-arrow.html
+SHA1-Digest: BIsdNh9WnC7kdzC6wuP56MYgAhY=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_font-face.sc
+ ss
+SHA1-Digest: rm+awkaqmBQ2sfQC1yalR9F0upU=
+
+Name: assets/www/lib/ngmap/testapp/scripts/quakes.geo.json
+SHA1-Digest: ysEKc8OxsDC5PLrHcL+fYBEeHMk=
+
+Name: assets/www/lib/moment/locale/ro.js
+SHA1-Digest: odCmn8GiM2HzW2n7I6Dd0pOYKqU=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_hidpi-media-
+ query.scss
+SHA1-Digest: GFRqsteiGqokWVuu9UjSFNF9MRs=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/helpers/_convert-u
+ nits.scss
+SHA1-Digest: TnP3ziTOM0P1jSe7PpKppIoNYKU=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/roboto-light.ttf
+SHA1-Digest: YGo6IOzlSx0hKgXgwkHpDU1U+y0=
+
+Name: assets/www/lib/moment/src/locale/af.js
+SHA1-Digest: GG1BB4dkWya26XE3WjKnnuIH5k8=
+
+Name: assets/www/lib/moment/locale/af.js
+SHA1-Digest: WfBrAemukR0Du1a2ud64V6pXTek=
+
+Name: assets/www/lib/ngmap/testapp/layer-bicycling.html
+SHA1-Digest: 4WJGljk1wunCyqDy5Lk0pU7Pcis=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/LICENSE
+SHA1-Digest: uLz/0pqLUn6V8RY197p3Dnem3CY=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/src/android/AspectRatioFrameLayout.java
+SHA1-Digest: IekJo+9IXJUkE07YxE6SuZGQW5w=
+
+Name: assets/www/lib/ngmap/testapp/marker_with_current_position.html
+SHA1-Digest: asgA6ZMo5pwtzmDA0mmL7cRK+PI=
+
+Name: assets/www/lib/moment/src/lib/duration/get.js
+SHA1-Digest: 72MoWbfbIXqRrQ0p25KrYXArlPY=
+
+Name: assets/www/lib/moment/src/locale/he.js
+SHA1-Digest: aQJVuWX8KN52NXsWLtBvCDffClo=
+
+Name: assets/www/lib/underscore/README.md
+SHA1-Digest: BasyyEhLzjSQiFrR7wW2E6N/g20=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-facedetector/www/i
+ mg/logo.png
+SHA1-Digest: rzXs7PfinVyefpOA9lZDmZFoiLg=
+
+Name: assets/www/lib/angular-youtube-mb/test/unit/get-id-from-url.coff
+ ee
+SHA1-Digest: T7lA19QuLbPG9op3ZIvygt/ttFw=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/splash/drawable-land-hdpi-screen.png
+SHA1-Digest: l27Z2INa0vzRkFz40qCJG73YEag=
+
+Name: assets/www/lib/ngmap/testapp/infowindow-simple.html
+SHA1-Digest: tkzHr4rS4rQG1n1FUmTsXykiWH0=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_calc.scss
+SHA1-Digest: tn7B1AFkSxMl+u36DlTX3yoNC2M=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_border-wid
+ th.scss
+SHA1-Digest: 5wjgy0EWtVVUeHJd3V/WO78Olxc=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/helpers/_radial-ar
+ g-parser.scss
+SHA1-Digest: I9JZf6mLV/nE9yvbQgHvd+0o6og=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/ionicons.woff
+SHA1-Digest: fUFONqn2krEs3vtc5WU2smfJw4k=
+
+Name: assets/www/lib/ngmap/road-trip.md
+SHA1-Digest: tMpxokqZDyUqZFLhUg5t8KBnkKo=
+
+Name: assets/www/lib/ngmap/testapp/layer-fusiontables-simple.html
+SHA1-Digest: HmyBsvNl02JI9QGL0ebpI3sHjJY=
+
+Name: assets/www/lib/ngCordova/dist/ng-cordova.min.js
+SHA1-Digest: CtUhPhjy9aCI6Q3MkXgobfLrzQs=
+
+Name: assets/www/plugins/cordova-plugin-globalization/www/globalizatio
+ n.js
+SHA1-Digest: wUUxNnGjBm1jQAkCsPcblyzLfMc=
+
+Name: assets/www/lib/moment/src/lib/locale/relative.js
+SHA1-Digest: EeqSigvn0yj149IG3diT4HRBaSQ=
+
+Name: assets/www/lib/ngmap/testapp/marker_with_ng_repeat.html
+SHA1-Digest: xkeA31vluThBSvxbKFpUrWQHzfs=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/members.tmpl
+SHA1-Digest: Pn7X5zTybGx0ooRx6I49KoQGW/8=
+
+Name: assets/www/lib/ngmap/testapp/overlay-simple.html
+SHA1-Digest: t+L4x4q/TyJI6Hdi5aqJIM6N7HE=
+
+Name: assets/www/lib/angular-ui-router/README.md
+SHA1-Digest: XuDBHf7yWg1LxpBmv5PorIGxga4=
+
+Name: assets/www/lib/moment/src/locale/sq.js
+SHA1-Digest: RECuOdXNe05RoSnsUfI/ReBWU+4=
+
+Name: assets/www/lib/ngmap/testapp/layer-data-quakes-simple.html
+SHA1-Digest: 4xC84omBMXX/I7Eic4HFT3OXwfQ=
+
+Name: assets/www/lib/moment/src/locale/el.js
+SHA1-Digest: q7ASEmtmG9873W9Wdnkyk9p5/V8=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/app/main.ts
+SHA1-Digest: JqWTVaHnpUIJUWn3p2Ic+x9ZCgo=
+
+Name: assets/www/js/views.js
+SHA1-Digest: SGmWa1p+89/FGXChLCJ5g1J36cE=
+
+Name: assets/www/lib/ngmap/testapp/map-coordinates.html
+SHA1-Digest: HMzVb4f64vpUh05iUaCCwb8MyYQ=
+
+Name: assets/www/lib/moment/src/locale/bs.js
+SHA1-Digest: R51jFss8p546RqOxP0wVdc474RI=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-facedetector/READM
+ E.html
+SHA1-Digest: B0ouWn5Mkgkj394vYKpyUkN7n5o=
+
+Name: assets/www/lib/ngmap/testapp/control-custom-state.html
+SHA1-Digest: YbYj9u0mYnZXVf8HPDRJbRK0X+A=
+
+Name: assets/www/lib/ngmap/testapp/overlay-symbol-animate.html
+SHA1-Digest: +lf7HwvCuh0NMAt17PuQr6JMTZo=
+
+Name: assets/www/lib/moment/src/locale/th.js
+SHA1-Digest: 2c52MkhUVkbvVDp+tz/ktrJrabw=
+
+Name: assets/www/lib/moment/src/lib/units/week.js
+SHA1-Digest: CoakiZt0GJJSeo4ekTqovD3Nsv4=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-facedetector/www/c
+ ss/index.css
+SHA1-Digest: lFrP8JOZBxgL0yObSvtG8ZfY8IA=
+
+Name: assets/www/img/reverse_camera_blue_50.png
+SHA1-Digest: ikCma7zwza2KuUAOOuYfRhT3F2I=
+
+Name: assets/www/lib/ngmap/testapp/layer-data-quakes-advanced.html
+SHA1-Digest: 4onUKokevL5pgYXR+KXhVI6R9gw=
+
+Name: assets/www/lib/moment/src/locale/eu.js
+SHA1-Digest: uNoeeGdrsCG6ywg00pRyqfhAyhU=
+
+Name: assets/www/lib/ngmap/spec/lib/markerclusterer.js
+SHA1-Digest: vZ/no6ENLrs8LDjnnMyEQU+fCPA=
+
+Name: assets/www/lib/ngmap/testapp/shape_circle_with_current_position.
+ html
+SHA1-Digest: XEd7IuJWkenFV0zRHMP6h4jGg6E=
+
+Name: assets/www/lib/moment/locale/es.js
+SHA1-Digest: vhBZuY9WyROoJyzqT59QmQjyQy4=
+
+Name: assets/www/lib/ngCordova/dist/ng-cordova-mocks.min.js
+SHA1-Digest: F/+Cnw6BXHm71zUj6fZTbgv/SlE=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/co
+ nfig.xml
+SHA1-Digest: kqbr/4Pgf4xFpoLQsw/ifCNsPGE=
+
+Name: assets/www/lib/moment/locale/ar-ma.js
+SHA1-Digest: 5carOaxwBCcerUTS58eWDRVazvw=
+
+Name: assets/www/lib/moment/locale/de-at.js
+SHA1-Digest: d+IktjD9f0GzgWU8Vz5wg5gkqyQ=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/splash/drawable-port-xxhdpi-screen.png
+SHA1-Digest: yZvoCZwSzUZCRP9B45vkLFuAdtA=
+
+Name: assets/www/lib/ngmap/testapp/layer-georss.html
+SHA1-Digest: Q91oTXYU0qLpTLyEjwUyUBL76vw=
+
+Name: assets/www/lib/ionic/fonts/ionicons.woff
+SHA1-Digest: VIfznJpw+29jAG1niK/tTqSoP2o=
+
+Name: assets/www/lib/ngmap/directives/cloud-layer.js
+SHA1-Digest: RxNWyK4XRhD1Vgot6xxfbjTBAeI=
+
+Name: assets/www/lib/ngmap/services/attr2_options.js
+SHA1-Digest: 02KWQWQdjQR6uAdJORMtFzI0t7E=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon-50.png
+SHA1-Digest: aiT15cJMiiYizgwsT8uP0/vHOyU=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/noto-sans-regular.ttf
+SHA1-Digest: jgnmRj/yA06lFv5ZBYv5XnqBvAo=
+
+Name: assets/www/lib/moment/src/moment.js
+SHA1-Digest: oh9E1i9SnA59v3B9JpImE8enwME=
+
+Name: assets/www/lib/moment/src/locale/fa.js
+SHA1-Digest: o7ODlo2QdqVKplucuHni1iBpwc0=
+
+Name: assets/www/lib/angular-youtube-mb/dist/angular-youtube-embed.min
+ .js
+SHA1-Digest: Z4t5CjtqSWlmr/gaMs13gw2PL7Y=
+
+Name: assets/www/lib/moment/src/locale/az.js
+SHA1-Digest: xSDeZg7jL6xuE3hi2V9xBD9eTyc=
+
+Name: assets/www/lib/ngmap/testapp/control-custom.html
+SHA1-Digest: 4NwFQpfVgDQXhjI1+vLgiUGQiyg=
+
+Name: assets/www/lib/moment/src/locale/zh-tw.js
+SHA1-Digest: 8VRIcUnecCZ5XkExLutIas6vkGk=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/pages/page1/page1.ts
+SHA1-Digest: 44LWOny8pK+OSd206A/Y9Ihy9lo=
+
+Name: assets/www/lib/ngmap/testapp/control-simple.html
+SHA1-Digest: n2pm3mDgvNbt62yqcmi3mmARNYE=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/src/android/VideoOverlayFrameListener.java
+SHA1-Digest: VSJiyiDtYQoVxZaHHcAlqjd/juQ=
+
+Name: assets/www/lib/ngmap/build/docs/directives_places-auto-complete.
+ js.html
+SHA1-Digest: 2iBLioxf2/H1NhSHHrsz3KzWPt0=
+
+Name: assets/www/lib/ngmap/build/docs/directives_weather-layer.js.html
+SHA1-Digest: hg4UewkGXQ1OJzY9N4WZotFZPyo=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.flashl
+ ight/README.html
+SHA1-Digest: T42XyKvqAHaoH+VR4zqbEnaaiEY=
+
+Name: assets/www/lib/moment/templates/amd.js
+SHA1-Digest: QZpQ/Ne7wA82A7ZBpxG8uihJaOw=
+
+Name: assets/www/lib/ngmap/directives/kml-layer.js
+SHA1-Digest: J9tvRCDu7b85UBH+ZNxpdm+gGQ4=
+
+Name: assets/www/lib/ngmap/testapp/street-view_road_trip.html
+SHA1-Digest: j5OEZnoZoOsdVNH5ppuNyjLCzc4=
+
+Name: assets/www/lib/moment/src/lib/create/check-overflow.js
+SHA1-Digest: V+Jqj4Z/C+XUBun4LqIFHV2ogf4=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_retina-ima
+ ge.scss
+SHA1-Digest: AKdP5ykVwn+V5eQBNlOcXZyCTcU=
+
+Name: assets/www/lib/moment/locale/bo.js
+SHA1-Digest: Y1gC7cQQRD3uYVVCWOQfnN0uGlU=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/splash/Default-Landscape@2x~ipad.png
+SHA1-Digest: iuAKUohA/Gxx5rWSGOfjMz8rmo0=
+
+Name: assets/www/lib/ngmap/testapp/map_lazy_init.html
+SHA1-Digest: MFiGc8C3NIzEzthf0Xj46Od2ySg=
+
+Name: assets/www/lib/moment/locale/az.js
+SHA1-Digest: B70x5GMNPe9NZrrbNzjHBlavk6M=
+
+Name: assets/www/views/app/wordpress/category.html
+SHA1-Digest: rW8RR9orY2+8JdFXEvRskcw2i74=
+
+Name: assets/www/lib/angular/package.json
+SHA1-Digest: JTYY1fjQIAMdEMO02eBCwSh0nLE=
+
+Name: assets/www/views/common/my-tab.html
+SHA1-Digest: wzkGVzPchVBHtcetVjVk3uIUBlA=
+
+Name: res/drawable-hdpi-v4/ic_action_previous_item.png
+SHA1-Digest: M1GfB2VNcCSehXeSgRHXvHxnf3E=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.flashl
+ ight/src/android/Flashlight.java
+SHA1-Digest: z0hN5YRNCDeJ/CIHhx5YgVl8HCk=
+
+Name: assets/www/lib/angular-animate/angular-animate.min.js.map
+SHA1-Digest: oNcgvx1A0BDWa8wb+R/5NTShFO4=
+
+Name: assets/www/lib/ngmap/build/docs/directives_directions.js.html
+SHA1-Digest: ulVi7KVJ52iuMUNL0geJwF6XiEM=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/icon/drawable-ldpi-icon.png
+SHA1-Digest: kY+UhS39LjssTcjTL/r00zH5lsU=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/src/ios/Utils.h
+SHA1-Digest: WrMwJ4lUGlT31dUg+bL7+ek+ivA=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/splash/Default-736h.png
+SHA1-Digest: lU6yNC+E8HqrlAwdpS+QXsuCcUA=
+
+Name: assets/www/views/auth/login.html
+SHA1-Digest: oGBppc+zJ+d9r+gfYkBoIpoCmbA=
+
+Name: assets/www/img/search-bg.png
+SHA1-Digest: vLbgqvN1MBYLIuFdyestqy1SvsI=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/declarations.d.ts
+SHA1-Digest: LNFNUFGVJ9MHKdB2F+6xo+isLG0=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/icon/drawable-hdpi-icon.png
+SHA1-Digest: aJ/lu2CqytzKPbSduDyJhfMf9EE=
+
+Name: assets/www/lib/moment/src/locale/cs.js
+SHA1-Digest: r5L60gVEqE12Je/7LDrd7GsWysU=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/splash/Default-568h@2x~iphone.png
+SHA1-Digest: IK6kMWuMF160tPIp9kj6eijk3Wc=
+
+Name: assets/www/lib/ngmap/testapp/control-disableUI.html
+SHA1-Digest: b9j7LYpAoa91BQRoxXLnvxuSUN8=
+
+Name: assets/www/lib/ngmap/directives/shape.js
+SHA1-Digest: 7On4de6PTgl7e0mC+9mGDpK7WQI=
+
+Name: assets/www/lib/moment/src/locale/ro.js
+SHA1-Digest: HXfcDN8Ey8SazgA6xcsVqnNNCCk=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/examples.tmpl
+SHA1-Digest: 06WIpWVHzrmKYAFY+WEoRzvnr34=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.snapsh
+ ot/src/android/PermissionHelper.java
+SHA1-Digest: INeu5chtSOCTXtNHpUEaujnZFk4=
+
+Name: assets/www/lib/ngmap/build/docs/map-type.html
+SHA1-Digest: ApjDAQtQ9TVTEo7R22Htta0xx1Y=
+
+Name: assets/www/lib/ngmap/testapp/circle-simple.html
+SHA1-Digest: UuDqyScjzgfsrsOJRu26v3uhL7Q=
+
+Name: assets/www/lib/ngmap/testapp/map-lazy-load.html
+SHA1-Digest: tAN8PiOa+J9YSGZXGJVFirmxK7I=
+
+Name: assets/www/lib/ngmap/directives/weather-layer.js
+SHA1-Digest: mkbaNkAUNa2YKiWHxHI05g990Gs=
+
+Name: assets/www/lib/ezar-startup-kit/examples/hello-ezar/screenshot.p
+ ng
+SHA1-Digest: D/h6in4hRjBsawZ/cxGmiltPW1Q=
+
+Name: assets/www/views/app/search/menu-level.html
+SHA1-Digest: gQZ8bVlvvUc+/Rupgc866SQfb9w=
+
+Name: assets/www/lib/moment/locale/mr.js
+SHA1-Digest: 5psxIlb8Vi3qcSgRzjd3jaS1Jf0=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/pages/page1/page1.scss
+SHA1-Digest: T+dHR9/OZQOk2AnV8CRBGsmDTKQ=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon-72@2x.png
+SHA1-Digest: DOGND8sQpctLj++1MWVZigw6w3Y=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/roboto.scss
+SHA1-Digest: m6eBRR1rLItEvBC+hEgThLjtAds=
+
+Name: assets/www/lib/ngmap/testapp/marker-symbol-predefined.html
+SHA1-Digest: MONJTqL4wy9GhPeijJSNfnk3dFs=
+
+Name: assets/www/lib/ngmap/directives/map.js
+SHA1-Digest: juS26A9XQtxr9U+PbeVSBerUel0=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_size.scss
+SHA1-Digest: fwTfCKO/imEqYq+Idgopu4tHKo0=
+
+Name: assets/www/lib/moment/locale/eo.js
+SHA1-Digest: aNJMqsK/AIiVZEpLNs2ijHOs7Rg=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/splash/drawable-land-xxhdpi-screen.png
+SHA1-Digest: ZOALcmO84p8NBdInVxkXnP1ACkQ=
+
+Name: assets/www/views/app/form-steps/step1.html
+SHA1-Digest: 5k3fg6D8P+WC9AP0MGmVczq4gHM=
+
+Name: assets/www/lib/moment/src/locale/it.js
+SHA1-Digest: fMTIdDUuDT6nN7ENEKTK/Q9+UFI=
+
+Name: assets/www/lib/moment/locale/me.js
+SHA1-Digest: mW7JmEDXyPfSFDOY6PJUj2RqbAQ=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_appearance.s
+ css
+SHA1-Digest: z59B9q/tBd4reSUXFgVMBeoX39g=
+
+Name: assets/www/lib/angular-moment/angular-moment.js
+SHA1-Digest: JR56/XpgcygS1J+O2zbqGxEVd0E=
+
+Name: assets/www/lib/ngmap/build/docs/heatmap-layer.html
+SHA1-Digest: 6DEvOla/tqPmdzzGirJUK17ctu4=
+
+Name: assets/www/views/app/search/wp-search.html
+SHA1-Digest: lefDbK0omJ2qXf9nkVMDszhDe1Y=
+
+Name: assets/www/lib/moment/src/lib/units/minute.js
+SHA1-Digest: 0rlrb9Mcs/90mfc4lzAnayIXQlc=
+
+Name: assets/www/views/auth/walkthrough.html
+SHA1-Digest: E3QxoodHuvcZUlix+L/jeUx2JP4=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/icon/drawable-xxxhdpi-icon.png
+SHA1-Digest: 1sneJVpA4C8gl3eWMaN40AYsNoU=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/assets/icon/favicon.ico
+SHA1-Digest: 4GXqICEyGL2Yuq+fYprV3JqQciw=
+
+Name: assets/www/lib/ngmap/testapp/event-arguments.html
+SHA1-Digest: Iek3Zt+bNeUqtWy8CwTimx6H1BQ=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-72@2x.png
+SHA1-Digest: d1LWmVwSAS+vfWQtVVJygazXyMA=
+
+Name: assets/www/lib/moment/src/locale/jv.js
+SHA1-Digest: LhpzGssjeBtXhVfTCY/gEwb6PiQ=
+
+Name: assets/www/lib/ngmap/testapp/scripts/markerclusterer.js
+SHA1-Digest: jmz0yIa/qt6tt3cn0KYpY5gPy1k=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/app/app.scss
+SHA1-Digest: F5lNEuVoSbfRwLeJ4OMw4iQNHgU=
+
+Name: assets/www/lib/ezar-startup-kit/examples/hello-ezar/hooks/README
+ .html
+SHA1-Digest: FJuhmLR2GrfnZsdXS0iDl9v+62o=
+
+Name: assets/www/lib/moment/locale/en-au.js
+SHA1-Digest: oZfvycPpRk9+dkJPDUZ5EF30kXc=
+
+Name: assets/www/lib/ngmap/spec/directives/street_view_panorama_spec.j
+ s
+SHA1-Digest: eGZnHUXzOJZeSKu4O2ctWtyB6JE=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/README.htm
+ l
+SHA1-Digest: 46bBAGszGNR2NVPZ+q8+cQoUi/0=
+
+Name: assets/www/lib/angular-youtube-mb/src/demo/advanced.html
+SHA1-Digest: 005NSahBncqUFmVy+McbSE0Gdng=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.snapsh
+ ot/LICENSE
+SHA1-Digest: ByMw2rm5wEqrCAcjkxNKoc4UJGE=
+
+Name: assets/www/lib/ngmap/testapp/polygon-simple.html
+SHA1-Digest: BKiPglokQ4F67OFTdDmQBzJp6sE=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_word-wrap.
+ scss
+SHA1-Digest: dL44Q67xfhTM6OemfS7N7OC+GME=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/roboto-regular.ttf
+SHA1-Digest: Bp0wmAv5c9uP0tjqqdDoHhLmcuk=
+
+Name: assets/www/lib/angular-ui-router/LICENSE
+SHA1-Digest: EIPQaXbYJAwIFXu/yd5vOJrrF0o=
+
+Name: assets/www/lib/bourbon/bower.json
+SHA1-Digest: COv5vGk4JRkNtGK539exqM78Ev4=
+
+Name: assets/www/lib/ngmap/build/docs/info-window.html
+SHA1-Digest: wOQtcm4qt7Im738fsreHNpFLS9Q=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-facedetector/www/i
+ mg/camera_btn_72_01.png
+SHA1-Digest: H0Vq8CnTn2biAV7z7sNRP3vWFdU=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-small.png
+SHA1-Digest: 9SSXrcVnEX+xE0aBNqyfheJVX6U=
+
+Name: assets/www/lib/ngmap/build/docs/kml-layer.html
+SHA1-Digest: Z/RpgiKJUTvGA+R9dyMCkKEtCOs=
+
+Name: assets/www/lib/moment/src/locale/tl-ph.js
+SHA1-Digest: VK8mTBwS5KdmHbDBBqW1BovT6/o=
+
+Name: assets/www/lib/ngmap/directives/overlay-map-type.js
+SHA1-Digest: /cGpowFErmXv3cpxyRcj+RUkeLU=
+
+Name: assets/www/lib/moment/src/locale/ca.js
+SHA1-Digest: 8e2Wt8Xn4vhSRt3jEPzYUAsXZEs=
+
+Name: res/xml/config.xml
+SHA1-Digest: Jttg76lRdlXFg9dGEFDYVM/wSgc=
+
+Name: assets/www/lib/moment/src/locale/hr.js
+SHA1-Digest: k4Fay72dzcPYEfELaEWKav5whWo=
+
+Name: assets/www/lib/ngCordova/package.json
+SHA1-Digest: tr+KZ2ifKUzzGK+R7RjUucQDUC4=
+
+Name: assets/www/lib/ngmap/testapp/overlay-custom.html
+SHA1-Digest: Bc1KJdzVUvUQMVU7BucLGoHqr9A=
+
+Name: assets/www/lib/moment/locale/pt.js
+SHA1-Digest: BGqCU/5Z3MDsykrLyccXO14Q270=
+
+Name: assets/www/lib/ngmap/build/docs/styles/prettify-tomorrow.css
+SHA1-Digest: bbqEajeqq5eldFPzxklCvVvW9jc=
+
+Name: assets/www/lib/angular-youtube-mb/LICENSE
+SHA1-Digest: kNx0vpNManoxxAI26gNCv1fDKrA=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/pages/page2/page2.html
+SHA1-Digest: FnDIf3W0pNbYiSivFerNBoX0or8=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/splash/Default-Landscape-736h.png
+SHA1-Digest: Ke+GhnTgW6lCcinX8SPuvqKtgZY=
+
+Name: assets/www/lib/angular-sanitize/README.md
+SHA1-Digest: Km8atzXNzr6rfJRBGsbb9rHGtM8=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon-small@3x.png
+SHA1-Digest: VmoV9LbUY3Zm125uNyxObwIHwxM=
+
+Name: assets/www/views/common/main-menu.html
+SHA1-Digest: jY14GTZj7q10GTkKhGqV3IIQgJc=
+
+Name: assets/www/lib/moment/src/locale/km.js
+SHA1-Digest: R0Yv/6IrMiE/lmFChdMmxdtj3Dk=
+
+Name: assets/www/lib/ngmap/build/docs/directives_street-view-panorama.
+ js.html
+SHA1-Digest: 3MR542DN1LvrUZKD0irA0Pd61QA=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/ionicons.eot
+SHA1-Digest: XVNGHqouoqjia7ZunjsvHsS8IZA=
+
+Name: assets/www/lib/angular/README.md
+SHA1-Digest: we66H7aXoPUILzzHn9PQRFDoYt4=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/splash/drawable-land-xxhdpi-screen.png
+SHA1-Digest: H9+YQwwo11CDWvTPKDqWg0/QYfc=
+
+Name: res/drawable-xhdpi-v4/ic_action_remove.png
+SHA1-Digest: EhvoyAdNZQu17Um9w6vEbO8Q4yc=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/www/camera.js
+SHA1-Digest: 8fuJShZ+/PICeZQuI3yhgj4S4KI=
+
+Name: assets/www/lib/moment/src/lib/format/format.js
+SHA1-Digest: n8UR4JZGHt/UOAYqMuWeTtEVKvk=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/tutorial.tmpl
+SHA1-Digest: lDNFwvAW1j6441x3sNvfbgUsLXU=
+
+Name: res/drawable-hdpi-v4/ic_action_next_item.png
+SHA1-Digest: if3MCCMitp+rQkSVaFJf812cKSw=
+
+Name: assets/www/lib/ngmap/testapp/polygon-arrays.html
+SHA1-Digest: mu7OIjzh14qlFHPexAvTF0f4QY8=
+
+Name: assets/www/lib/ngmap/testapp/marker_data_with_ng_repeat.html
+SHA1-Digest: SewIP0RT07WTCEZJ3GmuIn68efM=
+
+Name: assets/www/lib/ezar-startup-kit/examples/hello-ezar/www/js/index
+ .js
+SHA1-Digest: bI/w2HIa97BpG7RHLcis8tKYy9Y=
+
+Name: assets/www/lib/angular-youtube-mb/src/demo/the.html
+SHA1-Digest: IaYJnBerwxR9/cx7KJehCiTsaQs=
+
+Name: assets/www/lib/moment/locale/ka.js
+SHA1-Digest: omDp+vRkEUSzJNat7/SU3EyoXHQ=
+
+Name: assets/www/plugins/cordova-plugin-console/www/console-via-logger
+ .js
+SHA1-Digest: 5/rsz7vOQfR1fStLUZaB9aN45UQ=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/manifest.json
+SHA1-Digest: v6c5lFwkAyAegftwdk6bosgLb+A=
+
+Name: assets/www/lib/moment/locale/en-ca.js
+SHA1-Digest: QLH2SbaqlNDulCokbD7/CsdoZIc=
+
+Name: assets/www/lib/ngmap/build/docs/index.html
+SHA1-Digest: uo4LTeWK2a9q4lddDOMYVLf6N0g=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/ezAR.css
+SHA1-Digest: S01MnOVPkWOu6nIsUP80LarcwEY=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/splash/drawable-land-xhdpi-screen.png
+SHA1-Digest: snMF+bGK4JpzSAeyearr4FuwaDA=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/splash/drawable-port-ldpi-screen.png
+SHA1-Digest: rEcvILu4pcvn9u6VKk3UlQWBNdo=
+
+Name: assets/www/lib/moment/src/lib/units/timestamp.js
+SHA1-Digest: wK0WYtx51BZfJ0XLYahmjeGML7o=
+
+Name: assets/www/lib/moment/locale/vi.js
+SHA1-Digest: DilBPV6BzfYF9vHalxGZCJf5+zg=
+
+Name: assets/www/lib/moment/locale/ar-tn.js
+SHA1-Digest: mn56IYr53APW47acxO+k3oglTYo=
+
+Name: assets/www/lib/ngmap/testapp/map_events.html
+SHA1-Digest: 7dJPnatnLvMwK402c3qz4lfUsuU=
+
+Name: assets/www/plugins/cordova-plugin-geolocation/www/android/geoloc
+ ation.js
+SHA1-Digest: lQyqOlRjrZHAnFwWDDePsorSlZA=
+
+Name: assets/www/plugins/cordova-plugin-email-composer/www/email_compo
+ ser.js
+SHA1-Digest: kP/F0mep92eg5N2fADF3z85bv/Y=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/icon/drawable-ldpi-icon.png
+SHA1-Digest: o/Au0YG0Iivy/aiU+5caFF2LdAM=
+
+Name: assets/www/lib/moment/src/lib/duration/iso-string.js
+SHA1-Digest: tX6u1DOHzVOeekXzmyXeQeYjiIY=
+
+Name: assets/www/lib/angular-moment/bower.json
+SHA1-Digest: 1IUCPmMBLLGwArvJo+kHfSGXwl4=
+
+Name: assets/www/lib/ngmap/testapp/shape_circle_with_dynamic_address.h
+ tml
+SHA1-Digest: j7K2l4CWtIddpT0ZJBR9yRSrQwE=
+
+Name: assets/www/lib/angular-youtube-mb/bower.json
+SHA1-Digest: 3TF8LzKGlQpx0aOSMCsDD1jUcP4=
+
+Name: assets/www/lib/ngmap/testapp/marker_with_dynamic_address.html
+SHA1-Digest: 6bx1ZbJH/FanmiTjKM0Khs/rWxQ=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.snapsh
+ ot/plugin.xml
+SHA1-Digest: nMbuPQWhv/n3wpF1Kw/E4AG6AGA=
+
+Name: assets/www/lib/moment/locale/ne.js
+SHA1-Digest: /LlVrv+s9FR2m7RBHaz+4DtrYsY=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/splash/drawable-land-hdpi-screen.png
+SHA1-Digest: X0QH61YDC0yjyXNBKT+7QDR4ru0=
+
+Name: assets/www/lib/moment/locale/ar.js
+SHA1-Digest: UwNxwDUdT3EeDyRU62e4CwjmbBg=
+
+Name: assets/www/lib/moment/locale/hu.js
+SHA1-Digest: BkFk+RtheEZVWRWIThuhZNDvEeI=
+
+Name: assets/www/lib/moment/src/locale/en-gb.js
+SHA1-Digest: qu2DQwE2ZJ6dppslzcZb1tnZuDo=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: SOUkgFNtYk6Y68VI4ejfTXUgXgo=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_keyframes.sc
+ ss
+SHA1-Digest: q6la99N5a4LNV0pOLq/sTE63Ju0=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/splash/drawable-port-xhdpi-screen.png
+SHA1-Digest: tatKITvx8PJYVtcEXEQAC9NCq9Y=
+
+Name: assets/www/lib/ngmap/directives/custom-control.js
+SHA1-Digest: DSxSL5I/1/gqbh/v6z/Vj0AwEJQ=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-50@2x.png
+SHA1-Digest: NMu+fgK0E5xe0QlwP7uaEkYxWxI=
+
+Name: assets/www/lib/moment/src/lib/duration/prototype.js
+SHA1-Digest: /tiA7ONFVSmkq34jPXvoXfwYzYw=
+
+Name: assets/www/lib/ngCordova/LICENSE
+SHA1-Digest: Xkx0NSRiL3cvTRWuFViurVob1qI=
+
+Name: assets/www/lib/ngmap/build/docs/marker.html
+SHA1-Digest: q0QhqvFu7acG1sRrOkeT1xTBMKk=
+
+Name: assets/www/plugins/cordova-plugin-splashscreen/www/splashscreen.
+ js
+SHA1-Digest: ZRWCLMvkxSpqlf4fPxnPPy1Z4BY=
+
+Name: assets/www/views/app/contact.html
+SHA1-Digest: VS8pBosxEVWLHpfoNYFi4X+fG7o=
+
+Name: assets/www/lib/ngmap/build/docs/directives_fusion-tables-layer.j
+ s.html
+SHA1-Digest: E5n6yiG13r6wu9FG1LLDi58bUMA=
+
+Name: assets/www/lib/ngmap/testapp/overlay-symbol-dashed.html
+SHA1-Digest: Q8mNpH+Vpg8c+nKTrKfystPegfo=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon-40.png
+SHA1-Digest: pjlad8Q9CsczQrbUouu4NaCFQYM=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/splash.png
+SHA1-Digest: TkKgg295haICX3V+OFuJE2+UpbA=
+
+Name: assets/www/lib/ngmap/build/docs/directives_cloud-layer.js.html
+SHA1-Digest: gdz6Cfop/SE2HNpp2Yj8UpIhock=
+
+Name: assets/www/plugins/ionic-plugin-keyboard/www/android/keyboard.js
+SHA1-Digest: FtQI34kItkmQ5la/mbX5WkSX3S0=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: +uotRuY8yaJFQkpYI76nItEdcHQ=
+
+Name: assets/www/lib/moment/locale/ar-sa.js
+SHA1-Digest: b2bYEHYr2cemi0XbMWXdUc6kKLs=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_px-to-e
+ m.scss
+SHA1-Digest: W8CKegLCvQ4jSe4QkQxBVSeVsSI=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/pages/page1/page1.html
+SHA1-Digest: lKsfCM4+F0H38FRSP6cADQO5INY=
+
+Name: assets/www/lib/ngmap/spec/lib/angular-mocks.js
+SHA1-Digest: YuOBlmz4CVPwrws+pQZcimx6hUQ=
+
+Name: assets/www/lib/ngmap/build/docs/directives_transit-layer.js.html
+SHA1-Digest: Wifu6ZD5Q8m56FzAN2MPIilXTQM=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/icon/drawable-xhdpi-icon.png
+SHA1-Digest: VbSF2ykQ3w0vjHQj0Qv5Qd9X6sg=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_image-render
+ ing.scss
+SHA1-Digest: EbSgvmLCFJ/SbbaTI3N37YAsnh8=
+
+Name: assets/www/lib/ngmap/build/docs/directives_traffic-layer.js.html
+SHA1-Digest: CRSoVEPOZiDY/rBYo2BjLRA1aRA=
+
+Name: assets/www/lib/ngmap/services/navigator_geolocation.js
+SHA1-Digest: djcZm6F8VGxTHQDHpKAtnipZtRA=
+
+Name: assets/www/lib/moment/templates/globals.js
+SHA1-Digest: 1xWOxFvRplfwLAbZmXWQSwRIkfo=
+
+Name: assets/www/lib/moment/locale/tr.js
+SHA1-Digest: ok9ANTaxk00YU10tWCwEwOfJN5s=
+
+Name: assets/www/lib/ngmap/build/docs/services_navigator_geolocation.j
+ s.html
+SHA1-Digest: QBBAiRUvFr7+DwhCqJKllXPehv0=
+
+Name: assets/www/lib/ionic/fonts/ionicons.svg
+SHA1-Digest: B9v0F3lgwTTIB3cO+w21ldNDl5w=
+
+Name: assets/www/lib/angular-moment/Gruntfile.js
+SHA1-Digest: YuAE2sxUHucORfP1gyyjL2vtZ7M=
+
+Name: assets/www/lib/moment/src/lib/units/second.js
+SHA1-Digest: 1ge4uG9BNtpGVObjBhzpMAoQ3o8=
+
+Name: assets/www/lib/ngmap/testapp/layer-dynamicmapsengine.html
+SHA1-Digest: CU3s9VTiMPfEKvBfzZjrMlE0dJg=
+
+Name: assets/www/lib/ngmap/README.md
+SHA1-Digest: guswh/xTdnEsGXlii+pD0h70awo=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-facedetector/www/j
+ s/index.js
+SHA1-Digest: VgS2qg++6Fb/OyqNdsjxGQgjzIY=
+
+Name: assets/www/lib/ngmap/build/scripts/ng-map.js
+SHA1-Digest: AFILudUArb1uBmcxRFA+2QnOF6A=
+
+Name: assets/www/lib/moment/src/locale/fy.js
+SHA1-Digest: +e9OLrZY1LUQTPI1vWmMbXfaa/s=
+
+Name: assets/www/lib/moment/src/locale/da.js
+SHA1-Digest: vqCKk/McXn/7V0b7AsECf5RG8bw=
+
+Name: assets/www/lib/moment/locale/ja.js
+SHA1-Digest: xsqpHOQ57wOh5ogeTVTg17Qu/ws=
+
+Name: assets/www/lib/ngmap/build/docs/scripts/prettify/Apache-License-
+ 2.0.txt
+SHA1-Digest: 186TMEqLfOJj07PPVdNpR3/e9Ls=
+
+Name: assets/www/lib/ngmap/testapp/map_with_dynamic_address.html
+SHA1-Digest: 69AvpHwAVML08c24E4J7mSIHNZI=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/helpers/_shape-siz
+ e-stripper.scss
+SHA1-Digest: LorDeBWiLN46w+4L2Fq4JOJhO0U=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.facede
+ tector/plugin.xml
+SHA1-Digest: muX1tR0xcBOPWy5ZQmIOVtlvsyM=
+
+Name: assets/www/lib/moment/src/lib/units/timezone.js
+SHA1-Digest: oQRmuFKhBrnTWOEKochX2/tdY7A=
+
+Name: assets/www/lib/moment/src/locale/lv.js
+SHA1-Digest: nC/7PRpTx++mwYmUR32PeT+rIJ8=
+
+Name: assets/www/views/app/form-steps/step2.html
+SHA1-Digest: TBP7bs4XR58q5hrFpx0eKAWN3sI=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/splash/drawable-land-ldpi-screen.png
+SHA1-Digest: Q5f7lVNIOvkaMNYqXSrNS1/8aSA=
+
+Name: assets/www/js/services.js
+SHA1-Digest: +BM5tFWjRdPBGNlOBvhKbqokyeI=
+
+Name: assets/www/lib/ngmap/testapp/map-simple.html
+SHA1-Digest: hlDRxsrCHReb1Dc3G9bvolWngvQ=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/splash/drawable-port-hdpi-screen.png
+SHA1-Digest: ySwSzxH3SqD3x8jEhvOGN3UapOE=
+
+Name: assets/www/lib/ionic/js/ionic.js
+SHA1-Digest: 46a9RzWDSIMRv+qMDxdJv0yGZiQ=
+
+Name: assets/www/lib/moment/locale/sv.js
+SHA1-Digest: ex4GvfFY94OUEXHZlQNID7NgNas=
+
+Name: assets/www/lib/underscore/bower.json
+SHA1-Digest: 2O79EJoi3Vl9qHWjTeOXi5FVWtU=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.videoo
+ verlay/RELEASE_NOTES.html
+SHA1-Digest: EkrKTYSYGE0F8rfXq7b2FULsFGU=
+
+Name: assets/www/lib/moment/src/lib/moment/clone.js
+SHA1-Digest: GXGCUTOrHLTG8qjWWdOasSZ6unE=
+
+Name: assets/www/lib/moment/src/lib/utils/to-int.js
+SHA1-Digest: +08aqeIzRqzBIYVLB1m33HMB4bU=
+
+Name: assets/www/lib/moment/src/locale/cy.js
+SHA1-Digest: YgR/JLJsbQRGTfYMPWBZMVRt6UM=
+
+Name: assets/www/index.html
+SHA1-Digest: BKTHJ8RONVQeXmPWNH+3pMlXOh0=
+
+Name: assets/www/lib/ngmap/spec/services/geo_coder_spec.js
+SHA1-Digest: tFNKrw53LISxHNFjKwjAoSMhGBo=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/splash/Default-667h.png
+SHA1-Digest: d3Q90Lx6+AyXYyJMAJZzvAfs+l8=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/app/app.html
+SHA1-Digest: R1zFM6vAxHa3cDosn2LyuVwDCGM=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/splash/drawable-port-xxxhdpi-screen.png
+SHA1-Digest: iBWmu6HeQGrdxMzUMSJpue1i1oM=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/static/scripts/pretti
+ fy/prettify.js
+SHA1-Digest: yecqgecpoIzDXmYhy0AScNgk/E8=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/android/splash/drawable-land-mdpi-screen.png
+SHA1-Digest: HEhLwYWPdIouZH3KNrV2DAaZtK0=
+
+Name: assets/www/lib/moment/src/lib/create/from-anything.js
+SHA1-Digest: oebdadHRAsTYYWvMUkKo0MI1adA=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_font-stack
+ s.scss
+SHA1-Digest: 5HpPxX5TK+3BTSSB6+3JZjzpklY=
+
+Name: assets/www/lib/moment/locale/tl-ph.js
+SHA1-Digest: hXUaRfFkIrcjuLt/O8m0dAQB8WI=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/service-worker.js
+SHA1-Digest: /V2qDM+xuaAheLR526rGO+Dd0gQ=
+
+Name: assets/www/lib/moment/src/lib/locale/constructor.js
+SHA1-Digest: EQ5OffchoulnDMdaiuz1iYDPhMw=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-50.png
+SHA1-Digest: faPjpra1Pwmf0Ngf2RXg51XgPtM=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/static/styles/prettif
+ y-jsdoc.css
+SHA1-Digest: HJMfzmpzIJx2ANRB5jYQNfYeM4E=
+
+Name: assets/www/lib/moment/locale/sk.js
+SHA1-Digest: xebe3h4D1JWj1trbgdSLlNzwp7M=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon-small@2x.png
+SHA1-Digest: 5uTPrnHTfrLY56aDYqpHOITzNeo=
+
+Name: assets/www/lib/ngmap/build/docs/StreetView.html
+SHA1-Digest: 9pGEAHZMN4U66ZqMme93+DpKHVM=
+
+Name: assets/www/js/factories.js
+SHA1-Digest: jlbLFYn8w0ciwqhDofrdepQioJs=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.flashl
+ ight/plugin.xml
+SHA1-Digest: W0BAp2GMoaYK4AKJdFt8xa+2m4s=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/splash/drawable-port-mdpi-screen.png
+SHA1-Digest: 7dGWUDXwst3kFiLm0Np5EvzI6+k=
+
+Name: assets/www/lib/moment/src/locale/tzl.js
+SHA1-Digest: vujd0ViZYoA5dWohtqoRkdxXSY0=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/icon.png
+SHA1-Digest: NfUZ1pGNnsQSGEruy0ei4x6Qtj8=
+
+Name: assets/www/lib/moment/locale/my.js
+SHA1-Digest: H0LLiuLW7x5YgWqB+UtSk0sDuQs=
+
+Name: assets/www/lib/ngCordova/dist/ng-cordova.js
+SHA1-Digest: v1eZeHleWsW+8Okbp8WohHYMzkU=
+
+Name: assets/www/lib/moment/templates/locale-header.js
+SHA1-Digest: tQnrX/v/2JxeBEBaCSwuLxDkxZo=
+
+Name: assets/www/lib/ngmap/build/docs/bicycling-layer.html
+SHA1-Digest: GDeE1iO9KY2NsaapdcLfufeDwk4=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/addons/_border-sty
+ le.scss
+SHA1-Digest: loVWcbzTE3KwZGBz/gm/Z1tGH0I=
+
+Name: assets/www/lib/ngmap/testapp/infowindow_ng_click.html
+SHA1-Digest: 2p7E9KSH91f178TbVLwRaMyD8vM=
+
+Name: assets/www/lib/angular-sanitize/bower.json
+SHA1-Digest: ALDEJKoAyfU+Ji3F1WefVftoEW0=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/sr
+ c/manifest.json
+SHA1-Digest: zYeXH0KqVT/zr752enr4wH5TQKU=
+
+Name: assets/www/lib/ngmap/testapp/layer-fusiontables-heatmap.html
+SHA1-Digest: eJCSoO2f03c8CIQ3hTWmSdtm6Bs=
+
+Name: assets/www/lib/angular-moment/README.md
+SHA1-Digest: SbXwPqQ1KJo/xQ3dBBSKHJt/nWo=
+
+Name: assets/www/lib/moment/src/locale/de.js
+SHA1-Digest: xqjadn5q7OwXbGCiJDtPZzdp5fE=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_is-size
+ .scss
+SHA1-Digest: d9bbrX9K65Sd8kf503I8HBffxE0=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/exceptions.tmpl
+SHA1-Digest: 1+p9kgLM+sp3g6EtSaW7aYqbSDU=
+
+Name: assets/www/lib/moment/src/locale/fr.js
+SHA1-Digest: S29hiDbZZYkemEYmomD9VhmkOMY=
+
+Name: assets/www/lib/moment/src/lib/moment/from.js
+SHA1-Digest: Q05XGPidrTMAICYuM/dhpDxSInA=
+
+Name: assets/www/lib/ngmap/directives/map_controller.js
+SHA1-Digest: vk1e1foRT7su10cFlTWZWHbltSQ=
+
+Name: assets/www/lib/moment/src/locale/sl.js
+SHA1-Digest: rwBVRrWg5jtIAoqzam0wNVVPDzk=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: aZucTXlAJohR4Hwke3ofN8L4nzU=
+
+Name: assets/www/lib/ezar-startup-kit/examples/hello-ezar/www/css/inde
+ x.css
+SHA1-Digest: imPDyHNcilR519COCFDug3QuaYM=
+
+Name: assets/www/lib/moment/src/lib/parse/token.js
+SHA1-Digest: +JN8FgUJTx3+CMHw8F6Ne9kwf+o=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.snapsh
+ ot/README.html
+SHA1-Digest: 5XxASfZzOvewI+7LikKvxDLm8BI=
+
+Name: assets/www/lib/ngmap/build/docs/GeoCoder.html
+SHA1-Digest: iK6vRqIxWfm8MOVZE8esbVRxMjo=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/fonts/ionicons.ttf
+SHA1-Digest: BgKflqEQVZu0NIHSyu4y/V4x3VI=
+
+Name: res/drawable-xxhdpi-v4/ic_action_previous_item.png
+SHA1-Digest: MMQuqfVCNxhbSTH40JlRn05/z90=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/source.tmpl
+SHA1-Digest: FIdvik9erW2WxGn/GgjHoGc7TZQ=
+
+Name: assets/www/cordova-js-src/platform.js
+SHA1-Digest: WMSkc0u+fBApAiUe86W9D5KufB4=
+
+Name: assets/www/lib/moment/locale/fo.js
+SHA1-Digest: scsi8Cjl5DbY5rXA8o3lYjWVXAg=
+
+Name: assets/www/lib/moment/locale/ml.js
+SHA1-Digest: 2nkc+D0IaqARRaJAeXZHG/XkS/w=
+
+Name: assets/www/img/wordpress_logo_white.png
+SHA1-Digest: e8tbNGfNj6VR9vhgXypuQ9RR+r4=
+
+Name: assets/www/lib/moment/src/lib/locale/locale.js
+SHA1-Digest: 52k5LWJ8wSKjGYKwCJdRF9wpZKM=
+
+Name: assets/www/lib/angular-ui-router/src/stateFilters.js
+SHA1-Digest: Sx9tiTaPMY72Bdw48OC10Pd0kJY=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ ios/icon/icon-50@2x.png
+SHA1-Digest: PKOdSYmSlHknpopNmW8rsZWb7tw=
+
+Name: assets/www/lib/moment/locale/pt-br.js
+SHA1-Digest: aRmKhbO0AIjfXuQXMSlstO+1qBQ=
+
+Name: assets/www/plugins/cordova-plugin-globalization/www/Globalizatio
+ nError.js
+SHA1-Digest: E45djd9mKWCjLK455SSIrgY4XOA=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/details.tmpl
+SHA1-Digest: yJdoQ9IRs9FsYL87C4eWezUISq0=
+
+Name: assets/www/lib/ngmap/testapp/marker-animations-iteration.html
+SHA1-Digest: PF0rUDNHtYRgEzrg968R8v2apek=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/resources/
+ android/icon/drawable-xxhdpi-icon.png
+SHA1-Digest: yBn1ic+W0EgJ5gdD4712bXy4BYk=
+
+Name: assets/www/lib/angular-animate/package.json
+SHA1-Digest: 60yKqYTv4El+8Hm4KbEO13IOjmc=
+
+Name: assets/www/lib/moment/src/locale/lb.js
+SHA1-Digest: QAyLFg0cJfiyRDW8xEgkAuIsPe4=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_transform.sc
+ ss
+SHA1-Digest: YX+HkbCBVCnbAyfO4su0rnvmkZg=
+
+Name: assets/www/lib/ngmap/testapp/events.html
+SHA1-Digest: ihk6EVN4mN7Vjkj5xi3oJa4C0EQ=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/icon/icon-40@3x.png
+SHA1-Digest: dExcNgZyEgklPD18oCX682byt10=
+
+Name: assets/www/lib/moment/src/locale/hi.js
+SHA1-Digest: cEWEcnuLXAJbNTi5vP3doYo2pw8=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/www/js/ind
+ ex.js
+SHA1-Digest: wOyjFdXl4rLwzo7vyAE8QHROoDM=
+
+Name: assets/www/lib/ngmap/testapp/maptype-image-overlay.html
+SHA1-Digest: AZjX6jg6W14cdDIU51uO9qVuOdo=
+
+Name: assets/www/lib/moment/src/lib/moment/valid.js
+SHA1-Digest: rCecNXUTg4+WK9nWOJWqki6u0vE=
+
+Name: assets/www/lib/ngmap/testapp/map-geolocation.html
+SHA1-Digest: KmGP5hjJ9vQtoMEmL0Eor77NFuk=
+
+Name: assets/www/lib/underscore/underscore.js
+SHA1-Digest: 9WKdpvgyUyWzAspjduFPCRn1IIg=
+
+Name: assets/www/lib/ngmap/build/docs/transit-layer.html
+SHA1-Digest: PYCtPBoxX0oVMYqMoBwPlaYHJe0=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_flex-box.scs
+ s
+SHA1-Digest: ntQtKCmwKhCS//1xXfXL9mdDp4M=
+
+Name: assets/www/lib/moment/src/locale/ru.js
+SHA1-Digest: vY8WNz3PND442cLoNQxrFNA/v/Y=
+
+Name: assets/www/cordova_plugins.js
+SHA1-Digest: btwP0eMOqKyBymQYY/r0qVZ+C6g=
+
+Name: assets/www/lib/angular-youtube-mb/src/index.html
+SHA1-Digest: UHCQtktKD3gz6ZMcxJGJRBi/4oQ=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/index.html
+SHA1-Digest: g+MA2JIGuEKbfzsdtMWdQH1+l9A=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.facede
+ tector/LICENSE
+SHA1-Digest: Q3sl4IuS2/CXDTXIA7UOX3qKcV0=
+
+Name: assets/www/views/app/side-menu.html
+SHA1-Digest: EV5xJ6s/MvEwbb4E39gPXi0MRB4=
+
+Name: assets/www/lib/bourbon/LICENSE.md
+SHA1-Digest: IESiu7xWnYbq1GltGaUVaKFbFlY=
+
+Name: assets/www/lib/moment/src/lib/moment/to-type.js
+SHA1-Digest: MOwZCnuvpPOD1LeTrNOCAeNMyQE=
+
+Name: assets/www/lib/ngmap/build/docs/shape.html
+SHA1-Digest: 0tWFfIGhml/xtBNUCDSzCJNwfco=
+
+Name: assets/www/lib/moment/locale/cv.js
+SHA1-Digest: N/uVenn8veP1lOBEsu2B5j4Fyfk=
+
+Name: res/drawable-xhdpi-v4/ic_action_next_item.png
+SHA1-Digest: vId0P8iSrMw9IbpTh7JhARxcbHc=
+
+Name: assets/www/lib/moment/locale/nn.js
+SHA1-Digest: hVfd/kY4xDETkK9FqbMDzF1Rg4w=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-compass/config.xml
+SHA1-Digest: mIxFpetbHNDi3fqhA2YU4m9BuZY=
+
+Name: assets/www/lib/ngmap/config/jsdoc/template/tmpl/example.tmpl
+SHA1-Digest: xzl1k0tOgywlGhT2tj1ULjy20PA=
+
+Name: assets/www/lib/moment/src/lib/duration/duration.js
+SHA1-Digest: GXWCB9hY6GBTW0gXhWRQL64XSSM=
+
+Name: assets/www/lib/angular-youtube-mb/package.json
+SHA1-Digest: +HDhKDjxP1bjl1F7UCuah7QBaSM=
+
+Name: assets/www/lib/moment/locale/is.js
+SHA1-Digest: qPPfkP1avZxsT0Ns/UY4emj8W7c=
+
+Name: assets/www/lib/moment/locale/tzl.js
+SHA1-Digest: LIMgnyVbOy4TEHcNDh6yBo8Afrg=
+
+Name: assets/www/lib/angular-ui-router/src/view.js
+SHA1-Digest: KaV3p4aYcmDGfknHHdzFh3BaLoo=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/ww
+ w/assets/icon/favicon.ico
+SHA1-Digest: x0G6b/CX0g1x67Am2ee3tn2QSMA=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.snapsh
+ ot/src/ios/CDVezARSnapshot.m
+SHA1-Digest: +yAQlbusTjMiTW1qddM08XuwssQ=
+
+Name: assets/www/lib/ngmap/directives/directions.js
+SHA1-Digest: LH6kJV/f6Sv+V+g06WdYghFQYaM=
+
+Name: assets/www/lib/ngmap/build/docs/directives_marker.js.html
+SHA1-Digest: TpqDXF6aciTnamCCJE8Plx35bTE=
+
+Name: assets/www/lib/angular-sanitize/package.json
+SHA1-Digest: zGdt25yVZYY2tCLMaMbcJNQxSjc=
+
+Name: assets/www/lib/ezar-startup-kit/examples/ezar-ionic2-sidemenu/re
+ sources/ios/splash/Default-667h.png
+SHA1-Digest: VDN0rJpWiNCqrpi6YI4AmyvUsoQ=
+
+Name: assets/www/lib/ezar-startup-kit/plugins/com.ezartech.ezar.snapsh
+ ot/src/ios/CDVezARSnapshot.h
+SHA1-Digest: 24sBVEqIzva1eOEUAm9YIPO1W2s=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/css3/_background.s
+ css
+SHA1-Digest: 329nUH4RvG+9GzLt5z8ZtS6cxTU=
+
+Name: assets/www/lib/moment/locale/uk.js
+SHA1-Digest: CkXmWmHr0B83iFSyJ/PLTQb9fbA=
+
+Name: assets/www/lib/ngmap/testapp/shape_with_ng_repeat.html
+SHA1-Digest: InM5sRyAjCOZ45Y0j5o47L8wLXk=
+
+Name: assets/www/lib/angular-youtube-mb/src/demo/the.js
+SHA1-Digest: f7Bn8ZBI/aiYFRfK7u6U68ITJjI=
+
+Name: assets/www/lib/moment/src/lib/moment/get-set.js
+SHA1-Digest: zBreWyanziLFNPmZjTIPcoD60cw=
+
+Name: assets/www/lib/ngmap/testapp/index.html
+SHA1-Digest: wPS/AsoTVa40wO4unL6bOiwAoLY=
+
+Name: assets/www/lib/moment/src/locale/ta.js
+SHA1-Digest: r8FkvXfOTHQ4Ft/XkvwjX7fQOVY=
+
+Name: assets/www/lib/ngmap/testapp/scripts/markers.js
+SHA1-Digest: bC2upqURfEmAp1SW9wKq1XQw9EA=
+
+Name: assets/www/lib/ngmap/config/jsdoc/plugins/angular.js
+SHA1-Digest: klcNvpzcOD6aIWqWrW7nXY7JaQQ=
+
+Name: assets/www/lib/ngmap/testapp/images/beachflag.png
+SHA1-Digest: ac5OgIgZWfJZ7dbNUVIjAXFPg2k=
+
+Name: assets/www/lib/moment/src/lib/locale/en.js
+SHA1-Digest: QaV6UBz+xQw5EiMjo3EaYjuM8Tc=
+
+Name: assets/www/lib/moment/src/lib/units/units.js
+SHA1-Digest: lC4PlQXgsb132l2C7QC+Tzp9phQ=
+
+Name: assets/www/lib/ngmap/spec/directives/shape_spec.js
+SHA1-Digest: kmO/KsS18e2OgiNiAU/O7DHvmzc=
+
+Name: assets/www/lib/bourbon/app/assets/stylesheets/functions/_px-to-r
+ em.scss
+SHA1-Digest: AiV14S1QgmCj8xc/VQl3jP9+ves=
+
+Name: assets/www/lib/angular/bower.json
+SHA1-Digest: Q2Fu3iF4QW2MwcLcVGGfQu7WWPo=
+
+Name: assets/www/lib/ngmap/testapp/marker_on_street_view.html
+SHA1-Digest: JEi3Q1+jeXeZPdKWTBjO31oiqSE=
+
+Name: res/drawable-hdpi-v4/ic_action_remove.png
+SHA1-Digest: 4yiGHHAsMSLLJvngmTVlLn1qOUI=
+
+Name: assets/www/js/directives.js
+SHA1-Digest: E6AoXb9CziEpmV2U5glCRP3GJ98=
+
+Name: assets/www/lib/moment/locale/si.js
+SHA1-Digest: qUUz/ZWqGdWLFY0Vq67ZWBtPkhI=
+

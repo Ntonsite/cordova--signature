@@ -1,0 +1,27 @@
+<ion-view class="settings-view">
+  <ion-nav-buttons side="left">
+    <button menu-toggle="left" class="button button-icon icon ion-navicon"></button>
+  </ion-nav-buttons>
+  <ion-nav-title>
+    <span>Settings</span>
+  </ion-nav-title>
+  <ion-content>
+    <ul class="list">
+
+      <ion-toggle ng-model="notifications" toggle-class="toggle-dark">Push Notifications</ion-toggle>
+      <ion-toggle ng-model="sendLocation" toggle-class="toggle-dark">Send Location</ion-toggle>
+
+      <div class="item item-divider">LEGAL</div>
+
+      <a class="item" href="" ng-click="showTerms()">Terms of Service</a>
+      <a class="item" href="" ng-click="showFAQS()">FAQS</a>
+
+      <div class="item item-divider">ACCOUNT</div>
+      <a class="item option" ng-click="showLogOutMenu()">
+        <i class="icon ion-power"></i>
+        <span class="title">Log out</span>
+      </a>
+
+    </ul>
+  </ion-content>
+</ion-view>

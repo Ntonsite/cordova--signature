@@ -1,0 +1,116 @@
+<ion-view>
+  <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+        </button>
+  </ion-nav-buttons>
+  <ion-nav-title>
+    <span>Step 3</span>
+  </ion-nav-title>
+  <ion-content>
+    <form name="step3Form" ng-controller="Step3FormCtrl" novalidate>
+      <div class="list">
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Phone Number</span>
+          <input type="tel" placeholder="" name="Mobile_Number" value="{{Mobile_Number}}" ng-model="Mobile_Number" required>
+        </label>
+        <div class="item item-message" ng-if="step3Submitted && step3Form.Mobile_Number.$error.required">
+          The Phone Number is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Access Mobile Phone Number</span>
+          <input type="tel" placeholder="" name="Access_Mobile_Number" value="{{Access_Mobile_Number}}" ng-model="Access_Mobile_Number" required>
+        </label>
+        <div class="item item-message" ng-if="step3Submitted && step3Form.Access_Mobile_Number.$error.required">
+          The Access Mobile Phone Number is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Email</span>
+          <input type="text" placeholder="" name="Email" value="{{Email}}" ng-model="Email">
+        </label>
+        <label class="item item-input item-select">
+          <div class="input-label">Employment Status</div>
+          <select name="Work_Status" ng-model="Work_Status" value='{{Work_Status}}' >
+            <option value='Employed' >Employed</option>
+            <option value='Unemployed'>Unemployed</option>
+            <option value='Student'>Student</option>
+            <option value='Other'>Other</option>
+          </select>
+        </label>
+        <div class="item item-message" ng-if="step3Submitted && step3Form.Work_Status.$error.required">
+          The employment status is require
+        </div>
+        <label class="item item-input item-stacked-label" ng-if="Work_Status=='Other'">
+          <span class="input-label">Other</span>
+          <input type="text" placeholder="" name="Work_Other" value="{{Work_Other}}" ng-model="Work_Other" >
+        </label>
+        <!--FOR EMPLOYEES-->
+        <label class="item item-input item-stacked-label" ng-if="Work_Status=='Employed'">
+          <span class="input-label">Company Name</span>
+          <input type="text" placeholder="" name="Company_Name" value="{{Company_Name}}" ng-model="Company_Name" required>
+        </label>
+        <label class="item item-input item-stacked-label" ng-if="Work_Status=='Employed'">
+          <span class="input-label">Company Type</span>
+          <input type="text" placeholder="" name="Company_Type" value="{{Company_Type}}" ng-model="Company_Type" required>
+        </label>
+        <label class="item item-input item-stacked-label" ng-if="Work_Status=='Employed'">
+          <span class="input-label">Company Place</span>
+          <input type="text" placeholder="" name="Work_Place" value="{{Work_Place}}" ng-model="Work_Place" required>
+        </label>
+        <!--FOR STUDENT-->
+        <label class="item item-input item-stacked-label" ng-if="Work_Status=='Student'">
+          <span class="input-label">School Name</span>
+          <input type="text" placeholder="" name="Company_Name" value="{{Company_Name}}" ng-model="Company_Name" required>
+        </label>
+        <label class="item item-input item-stacked-label" ng-if="Work_Status=='Student'">
+          <span class="input-label">School Type</span>
+          <input type="text" placeholder="" name="Company_Type" value="" ng-model="Company_Type" required>
+        </label>
+        <label class="item item-input item-stacked-label" ng-if="Work_Status=='Student'">
+          <span class="input-label">School Place</span>
+          <input type="text" placeholder="" name="Work_Place" value="" ng-model="Work_Place" required>
+        </label>
+        <label class="item item-input item-stacked-label" ng-if="Work_Status=='Student'">
+          <span class="input-label">Since</span>
+          <input type="number" placeholder="" name="Work_Since" value="" ng-model="Work_Since" required>
+        </label>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Income</span>
+          <input type="number" placeholder="" name="Income_Range" value="" ng-model="Income_Range" required>
+        </label>
+        <div class="item item-message" ng-if="step3Submitted && step3Form.Income_Range.$error.required">
+          The income is required
+        </div>
+		<label class="item item-input item-stacked-label">
+          <span class="input-label">Deposit</span>
+          <input type="number" max="5000" placeholder="" name="Deposit" value="{{Deposit}}" ng-model="Deposit" required>
+        </label>
+        <div class="item item-message" ng-if="step3Submitted && step3Form.Deposit.$error.required">
+          The customer deposit amount is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Reference Person</span>
+          <input type="text" placeholder="" name="Referee_Name" value="{{Referee_Name}}" ng-model="Referee_Name" required>
+        </label>
+        <div class="item item-message" ng-if="step3Submitted && step3Form.Referee_Name.$error.required">
+          The guarantor Name is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Reference Person Phone Number</span>
+          <input type="tel" placeholder="" name="Referee_Phone_Number" value="{{Referee_Phone_Number}}" ng-model="Referee_Phone_Number" required>
+        </label>
+        <div class="item item-message" ng-if="step3Submitted && step3Form.Referee_Phone_Number.$error.required">
+          The guarantor Phone Number is required
+        </div>
+      </div>
+    </form>
+  </ion-content>
+  <ion-footer-bar align-title="left" class="bar-positive">
+    <div class="buttons"  ui-sref="app.step2">
+      <button class="button">Previous Step</button>
+    </div>
+    <h1 class="title">&nbsp;</h1>
+    <div class="buttons" ng-click="submit()" ui-sref="app.done">
+      <button class="button">Next Step</button>
+    </div>
+  </ion-footer-bar>
+</ion-view>

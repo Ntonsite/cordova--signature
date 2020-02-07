@@ -1,0 +1,46 @@
+<ion-view>
+  <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+        </button>
+  </ion-nav-buttons>
+  <ion-nav-title>
+    <span>TAARIFA ZA BIASHARA</span>
+  </ion-nav-title>
+  <ion-content>
+    <form name="step2Form" ng-controller="Step2FormCtrl" novalidate>
+      <div class="list">
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Aina ya Biashara</span>
+          <input type="text" placeholder="" name="biashara" value="{{biashara}}" ng-model="biashara" required>
+        </label>
+        <div class="item item-message" ng-if="step2Submitted && step2Form.biashara.$error.required">
+          Biashara ijazwe
+        </div>
+
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Muda kwenye Biashara(Miezi)</span>
+          <input type="number" placeholder="" name="muda_biashara" value="{{muda_biashara}}" ng-model="muda_biashara" required>
+        </label>
+        <div class="item item-message" ng-if="step2Submitted && step2Form.muda_biashara.$error.required">
+          Muda kwenye Biashara
+        </div>
+         <label class="item item-input item-stacked-label">
+          <span class="input-label">Eneo lilipo Biashara</span>
+          <input type="text" placeholder="" name="eneo_biashara" value="{{eneo_biashara}}" ng-model="eneo_biashara" required>
+        </label>
+        <div class="item item-message" ng-if="step2Submitted && step2Form.eneo_biashara.$error.required">
+          Eneo Lijazwe
+        </div>
+      </div>
+    </form>
+  </ion-content>
+  <ion-footer-bar align-title="left" class="bar-positive">
+    <div class="buttons"  ui-sref="app.loan1">
+      <button class="button">Previous Step</button>
+    </div>
+    <h1 class="title">&nbsp;</h1>
+    <div class="buttons" ng-click="submit()" ui-sref="app.loan3">
+      <button class="button" >Next Step</button>
+    </div>
+  </ion-footer-bar>
+</ion-view>

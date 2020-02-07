@@ -1,0 +1,107 @@
+<ion-view>
+  <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+        </button>
+  </ion-nav-buttons>
+  <ion-nav-title>
+    <span>Step 2</span>
+  </ion-nav-title>
+  <ion-content>
+    <form name="step2Form" ng-controller="Step2FormCtrl" novalidate>
+      <div class="list">
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Nationality</span>
+          <input type="text" placeholder="" name="Nationality" value="{{Nationality}}" ng-model="Nationality" required>
+        </label>
+        <div class="item item-message" ng-if="step2Submitted && step2Form.Nationality.$error.required">
+          The nationality is required
+        </div>          
+        <label class="item item-input item-select">
+          <div class="input-label">Education Level</div>
+          <select name="Education" ng-model="Education" value='{{Education}}' >
+            <option value='Degree' >Degree</option>
+            <option value='Advanced Certificate'>Advanced Certificate</option>
+            <option value='Certificate'>Certificate</option>
+            <option value='Advanced Diploma'>Advanced Diploma</option>
+            <option value='Diploma'>Diploma</option>
+            <option value='Secondary'>Secondary</option>
+            <option value='Primary'>Primary</option>
+          </select>
+        </label>
+        <div class="item item-message" ng-if="step2Submitted && step2Form.Education.$error.required">
+          The education level is required
+        </div>
+        <label class="item item-input item-select">
+          <div class="input-label">Identity Type</div>
+          <select name="Identity_Type" ng-model="Identity_Type" value='{{Identity_Type}}' >
+            <option value='Nationa ID' >National ID</option>
+            <option value='Voter's ID'>Voter's ID</option>
+            <option value='Passport'>Passport</option>
+            <option value='Driving Licence'>Driving Licence</option>
+          </select>
+        </label>
+        <div class="item item-message" ng-if="step2Submitted && step2Form.Identity_Type.$error.required">
+          The Identity type is require
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Identity Number</span>
+          <input type="text" placeholder="" name="Identity_Number" value="{{Identity_Number}}" ng-model="Identity_Number" required>
+        </label>
+        <div class="item item-message" ng-if="step2Submitted && step2Form.Identity_Number.$error.required">
+          The Identity Number is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Date of Issue</span>
+          <input type="date" placeholder="" name="Issue_Date" value="{{Issue_Date}}" ng-model="Issue_Date" required>
+        </label>
+        <div class="item item-message" ng-if="step2Submitted && step2Form.Issue_Date.$error.required">
+          The date of issue is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Place of Issue</span>
+          <input type="text" placeholder="" name="Issue_Place" value="{{Issue_Place}}" ng-model="Issue_Place" required>
+        </label>
+        <div class="item item-message" ng-if="step2Submitted && step2Form.Issue_Place.$error.required">
+          The place of issue is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Region of Residence</span>
+          <input type="text" placeholder="" name="Residence_Region" value="{{Residence_Region}}" ng-model="Residence_Region" required>
+        </label>
+        <div class="item item-message" ng-if="step2Submitted && step2Form.Residence_Region.$error.required">
+          This field is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">District of Residence</span>
+          <input type="text" placeholder="" name="Residence_District" value="{{Residence_District}}" ng-model="Residence_District" required>
+        </label>
+        <div class="item item-message" ng-if="step2Submitted && step2Form.Residence_District.$error.required">
+          This field is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Ward of Residence</span>
+          <input type="text" placeholder="" name="Residence_Ward" value="{{Residence_Ward}}" ng-model="Residence_Ward" required>
+        </label>
+        <div class="item item-message" ng-if="step2Submitted && step2Form.Residence_Ward.$error.required">
+          This field is required
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Since</span>
+          <input type="number" placeholder="" name="Residence_Since" value="{{Residence_Since}}" ng-model="Residence_Since" required>
+        </label>
+        <div class="item item-message" ng-if="step2Submitted && step2Form.Residence_Since.$error.required">
+          This field is required
+        </div>
+      </div>
+    </form>
+  </ion-content>
+  <ion-footer-bar align-title="left" class="bar-positive">
+    <div class="buttons"  ui-sref="app.step1">
+      <button class="button">Previous Step</button>
+    </div>
+    <h1 class="title">&nbsp;</h1>
+    <div class="buttons" ng-click="submit()" ui-sref="app.step3">
+      <button class="button" >Next Step</button>
+    </div>
+  </ion-footer-bar>
+</ion-view>

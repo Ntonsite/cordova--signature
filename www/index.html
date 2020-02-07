@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <meta http-equiv="Content-Security-Policy"
+          content="default-src * 'self' data:; script-src &apos;self&apos; &apos;unsafe-inline&apos; &apos;unsafe-eval&apos; *; style-src  &apos;self&apos; &apos;unsafe-inline&apos; *">
+
+    <title></title>
+    <link href="css/ionic.app.css" rel="stylesheet">
+    <!--<script src="https://maps.google.com/maps/api/js"></script>-->
+    <script src="lib/ionic/js/ionic.bundle.js"></script>
+    <script src="lib/underscore/underscore-min.js"></script>
+    <script src="lib/ngmap/build/scripts/ng-map.min.js"></script>
+    <script src="lib/moment/min/moment.min.js"></script>
+    <script src="lib/angular-moment/angular-moment.min.js"></script>
+    <script src="lib/ngCordova/dist/ng-cordova.min.js"></script>
+    <script src="lib/angular-youtube-mb/dist/angular-youtube-embed.min.js"></script>
+    <script src="lib/signature_pad/signature_pad.min.js"></script>
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+
+    <script src="js/app.js"></script>
+    <script src="js/directives.js"></script>
+    <script src="js/controllers.js"></script>
+    <script src="js/views.js"></script>
+    <script src="js/services.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/filters.js"></script>
+    <script src="js/factories.js"></script>
+    <script>
+                var canvas = document.getElementById("signature");
+var w = window.innerWidth;
+var h = window.innerHeight;
+
+// As the canvas doesn't has any size, we'll specify it with JS
+// The width of the canvas will be the width of the device
+canvas.width = w;
+// The height of the canvas will be (almost) the third part of the screen height.
+canvas.height = h/2.5;
+
+var signaturePad = new SignaturePad(canvas,{
+    dotSize: 1
+});
+
+document.getElementById("export").addEventListener("click",function(e){
+    // Feel free to do whatever you want with the image
+    // as export to a server or even save it on the device.
+    var imageURI = signaturePad.toDataURL();
+    document.getElementById("preview").src = imageURI;
+},false);
+
+document.getElementById("reset").addEventListener("click",function(e){
+    // Clears the canvas
+    signaturePad.clear();
+},false);
+    </script>
+  </head>
+  <body ng-app="your_app_name"  class="platform-android platform-cordova platform-webview">
+    <ion-nav-view></ion-nav-view>
+  </body>
+</html>

@@ -1,0 +1,47 @@
+<ion-view>
+  <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+        </button>
+  </ion-nav-buttons>
+  <ion-nav-title>
+    <span>Thank You</span>
+  </ion-nav-title>
+  <ion-content>
+    <div class="list card">
+      <div class="item">
+        <button class="button" ng-click="goToCamera('Client_Picture')"  >Client Picture</button>
+      </div>
+
+      <div class="item item-image">
+        <img ng-src="data:image/jpeg;base64,{{Client_Picture}}" >
+      </div>
+    </div>
+    <div class="list card">
+      <div class="item">
+        <button class="button" ng-click="goToCamera('Client_Identity')" >Client Identity</button>
+      </div>
+
+      <div class="item item-image">
+        <img ng-src="data:image/jpeg;base64,{{Client_Identity}}"  >
+      </div>
+    </div>
+    <div class="list card">
+      <div class="item">
+        <button class="button" ng-click="goToCamera('Client_Signature')" >Client Signature</button>
+      </div>
+
+      <div class="item item-image">
+        <img ng-src="data:image/jpeg;base64,{{Client_Signature}}" >
+      </div>
+    </div>
+  </ion-content>
+  <ion-footer-bar align-title="left" class="bar-positive">
+    <div class="buttons"  ui-sref="app.step2">
+      <button class="button">Previous Step</button>
+    </div>
+    <h1 class="title">&nbsp;</h1>
+    <div class="buttons" ng-click="submitAccount()" ui-sref="app.done">
+      <button class="button">Submit Account</button>
+    </div>
+  </ion-footer-bar>
+</ion-view>

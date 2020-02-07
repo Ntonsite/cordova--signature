@@ -1,0 +1,58 @@
+<ion-view >
+  <ion-nav-buttons side="left">
+        <button class="button button-icon button-clear ion-navicon" menu-toggle="left">
+        </button>
+  </ion-nav-buttons>
+  <ion-nav-title>
+    <span>TAARIFA ZA MUOMBAJI</span>
+  </ion-nav-title>
+  <ion-content>
+    <form name="step1Form" ng-controller="Step1FormCtrl" novalidate>
+      <div class="list">
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Jina la Kwanza</span>
+          <input type="text" placeholder="" name="First_Name" value="{{First_Name}}" ng-model="First_Name" required>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.First_Name.$error.required">
+          Jaza jina la kwanza
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Jina la katikati</span>
+          <input type="text" placeholder="" name="Middle_Name" value="{{Middle_Name}}" ng-model="Middle_Name">
+        </label>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Jina la Mwisho</span>
+          <input type="text" placeholder="" name="Last_Name" value="{{Last_Name}}" ng-model="Last_Name" required>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.Last_Name.$error.required">
+          Jaza jina la Mwisho
+        </div>
+        <label class="item item-input item-stacked-label">
+          <span class="input-label">Namba ya Simu</span>
+          <input type="number" placeholder="" name="Mobile_Number" value="{{Mobile_Number}}" ng-model="Mobile_Number"   required>
+        </label>
+        <div class="item item-message" ng-if="step1Submitted && step1Form.Mobile_Number.$error.required">
+          Namba ya Simu ijazwe
+        </div>
+        <label class="item item-input item-select">
+          <div class="input-label">
+            Mteja wa:
+          </div>
+          <select name="mteja" ng-model="mteja" value='{{mteja}}' >
+            <option value='Mteja wa Mara ya Kwanza' selected>Mara ya Kwanza</option>
+            <option value='Mteja wa Kujirudia'>Mteja wa Kujirudia</option>
+          </select>
+        </label>
+      </div>
+    </form>
+  </ion-content>
+  <ion-footer-bar align-title="left" class="bar-positive">
+    <div class="buttons">
+      <button class="button">Previous Step</button>
+    </div>
+    <h1 class="title">&nbsp;</h1>
+    <div class="buttons" ng-click="submit()" ui-sref="app.loan2">
+      <button class="button" >Next Step</button>
+    </div>
+  </ion-footer-bar>
+</ion-view>

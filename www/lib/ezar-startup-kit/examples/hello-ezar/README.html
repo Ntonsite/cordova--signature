@@ -1,0 +1,41 @@
+<h1 id="helloezar">hello-ezAR</h1>
+
+<p>A simple ezAR&trade; hello world app based on the default Cordova project template. <br />
+See index.html for the small set of changes required to enable ezAR in your application. <br />
+<img src="screenshot.png" alt="logo" />  </p>
+
+<h2 id="gettingstarted">Getting Started</h2>
+
+<p>While ezAR works with Cordova-based SDKs such as Ionic, only Cordova CLI examples are provided below. 
+This example was built and tested with Cordova 6.0 and only uses the VideoOverlay plugin.</p>
+
+<p>Step-1.  Add your target platform(s) to the project</p>
+
+<pre><code> cordova platform add ios
+</code></pre>
+
+<p>or</p>
+
+<pre><code> cordova platform add android
+</code></pre>
+
+<p><em>Note: the project will automatically install the Cordova whitelist and ezAR 
+VideoOverlay plugins. The VideoOverlay plugin is assumed to be at 
+../../plugins/ relative to this project. If your setup is different please 
+modify the plugin element in the config.xml.</em> </p>
+
+<p>Step-2.  Build and install on device
+<em>Note: because of the ezAR camera requirement the app will only perform 
+correctly when installed on a real mobile device.</em></p>
+
+<h2 id="usealternativewebview">Use Alternative WebView</h2>
+
+<p>The ezAR VideoOverlay plugin supports both standard and the alternative
+Crosswalk WebView for Android and WKWebView for iOS. To enable one of these
+alternative webviews comment the specific plugin entries in the config.xml file. </p>
+
+<h2 id="ezardocsandtechsupport">ezAR Docs and Tech Support</h2>
+
+<p>See <a href="http://ezartech.com">ezartech.com</a> for documentation and support.</p>
+
+<p>Copyright (c) 2015-2016, ezAR Technologies</p>
